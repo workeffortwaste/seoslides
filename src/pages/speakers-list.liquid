@@ -1,0 +1,19 @@
+---
+permalink: "speakers/"
+layout: template.liquid
+renderData:
+    title: Speakers
+    titlecard: Speakers
+    topheading: Browse
+    metadesc: "A collaborative index of all the digital marketing conference speakers' slides, video, and audio recordings."
+---
+<section class="standard">
+<h2 class="alt">All Speakers</h2>
+<div class="date">Ordered Alphabetically</div>
+<ul>
+{%- for speaker in speakers -%}
+    <li><a href="/speakers/{{ speaker | slug }}/">{{ speaker }}</a></li>
+{%- endfor -%}
+</ul>
+</section>
+

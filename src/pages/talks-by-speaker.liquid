@@ -1,0 +1,32 @@
+---
+pagination:
+    data: speakers
+    size: 1
+    alias: speaker
+    heading: speaker
+permalink: "speakers/{{ speaker | slug }}/"
+layout: template.liquid
+renderData:
+    title: "{{ speaker }}"
+    titlecard: "{{speaker}}"
+    topheading: Speaker
+    breadcrumbparent: Speakers
+    breadcrumbparentlink: /speakers
+    breadcrumbchild: "{{ speaker }}"
+    url: "{{ speakerdetails[speaker].url}}"
+    twitter: "{{ speakerdetails[speaker].twitter}}"
+    metadesc: "A collaborative index of all the slides, video, and audio recordings for {{speaker}}."
+---
+<section class="talks">
+<h2 class="alt">All Talks</h2>
+<div class="date">Ordered By Most Recent</div>
+<ul>
+{%- for talk_bundle in data reversed -%}
+    {%- for talk in talk_bundle.talks -%}
+        {%- if talk.speaker == speaker -%}
+            {% output_talk talk talk_bundle.conference talk_bundle.date %}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endfor -%}
+</ul>
+</section>

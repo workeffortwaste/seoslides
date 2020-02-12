@@ -1,0 +1,27 @@
+---
+pagination:
+    data: years
+    size: 1
+    alias: year
+permalink: "talks/{{ year }}/"
+layout: template.liquid
+renderData:
+    title: "{{ year }}"
+    titlecard: "{{ year }}"
+    topheading: Talks
+    breadcrumbparent: Talks
+    breadcrumbparentlink: /talks/
+    breadcrumbchild: "{{ year }}"
+    metadesc: "A collaborative index of all the slides, video, and audio recordings from {{year}} for the digital marketing industry."
+---
+<section class="talks crunch-second-margin">
+<h2 class="alt">Conferences</h2>
+<div class="date">Ordered By Most Recent</div>
+{%- for talk_bundle in data reversed -%}
+    {%- capture year_calculated -%}{%- year_date talk_bundle.date -%}{%- endcapture -%}
+    {%- if year_calculated == year -%}
+        <h2><a href="/conferences/{{talk_bundle.conference | slug}}/{{talk_bundle.date}}/">{{ talk_bundle.conference }}</a>{% if talk_bundle.sub_title %} <span>{{ talk_bundle.sub_title }}</span>{% endif %}</h2>        <div class="date">{% long_date talk_bundle.date %}</div>
+        {% output_talks talk_bundle.talks %}
+    {%- endif -%}
+{%- endfor -%}
+</section>

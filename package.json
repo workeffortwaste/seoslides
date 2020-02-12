@@ -1,0 +1,32 @@
+{
+  "name": "SEOslides.page",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-file": "^0.4.0",
+    "gulp-merge-json": "^1.3.1",
+    "html-minifier": "^4.0.0",
+    "instant.page": "^3.0.0",
+    "moment": "^2.24.0",
+    "slugify": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "production": "gulp && npx eleventy",
+    "development": "gulp && npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workeffortwaste/seoslides.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workeffortwaste/seoslides/issues"
+  },
+  "homepage": "https://github.com/workeffortwaste/seoslides#readme"
+}

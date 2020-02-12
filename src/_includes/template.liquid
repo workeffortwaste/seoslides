@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ renderData.metadesc }}">
+<title>{{ renderData.title }} | The SEO Conference Resource - SEOslides.page</title>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400|Open+Sans:400,400i,600&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/meta/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/meta/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/meta/favicon-16x16.png">
+<link rel="manifest" href="/meta/site.webmanifest">
+</head>
+<body>
+<div id="footer-push">
+<header>
+<div id="logo">
+<img alt="SEOslides.page Logo" src="/img/slides.svg" width="20px" height="auto" />
+<a href="/">SEOslides<em>.page</em></a>
+</div>
+<a class="hamburger" href="#menu"></a>
+<nav id="menu">
+<a id="menu-nojs-close" aria-label="Close mobile menu" href="#"></a>
+<a href="/talks/">Talks</a>
+<a href="/conferences/">Conferences</a>
+<a href="/speakers/">Speakers</a>
+<a href="/contribute/">Contribute</a>
+</nav>
+</header>
+<section id="title-card">
+<div class="top-heading">{{renderData.topheading}}</div>
+<h1>{{ renderData.titlecard }}</h1>
+{%- if renderData.description != "null" -%}
+<p>
+{%- if renderData.description == "show_count" -%}
+Now with <em>{{ data | size }}</em> conferences totalling <em>{% count_talks data %}</em> talks from <em>{{ speakers | size}}</em> different speakers.
+{%- else -%}
+{{ renderData.description }}
+{%- endif %}
+</p>
+{%- endif -%}
+
+<div id="icons">
+{%- if renderData.twitter and renderData.twitter != '' -%}
+<a target="_blank" class="icon-link twitter" style="-webkit-mask-image:url(/img/twitter.svg)" href="{{ renderData.twitter }}"></a>
+{%- endif -%}
+{%- if renderData.url and renderData.url != '' -%}
+<a target="_blank" class="icon-link" style="-webkit-mask-image:url(/img/external_link.svg)" href="{{ renderData.url }}"></a>
+{%- endif -%}
+</div>
+{%- if renderData.breadcrumbchild -%}
+<ul class="breadcrumb">
+  <li><a href="{{renderData.breadcrumbparentlink}}">{{renderData.breadcrumbparent}}</a></li>
+  <li>{{renderData.breadcrumbchild}}</li>
+</ul>
+{%- endif -%}
+</section>
+{{ content | safe }}
+</div>
+<footer>
+<nav>
+<div id="footer-nav-1">
+<a href="/talks/">Talks</a>
+<a href="/conferences/">Conferences</a>
+<a href="/speakers/">Speakers</a>
+<a href="/contribute/">Contribute</a>
+</div>
+</nav>
+<div id="copyright">Copyright © 2020 All Rights Reserved - Chris Johnson / <a href="https://www.twitter.com/defaced">@defaced</a> / <a href="https://www.bamboonine.co.uk">Bamboo Nine</a></div>
+</footer>
+<script src="/js/instantpage.min.js" type="module" defer></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+---
+permalink: "contribute/"
+layout: template.liquid
+renderData:
+    title: Contribute
+    titlecard: Contribute
+    topheading: Help
+    metadesc: "Contribution guidelines and a list of the awesome contributors for SEOslides.page"
+---
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+<section class="standard">
+<h2 class="alt">Contributors</h2>
+<div class="date">Ordered Alphabetically</div>
+<ul class="contributors">
+{%- for contributor in contributors -%}
+    <li><div class="contributor-name">{{ contributor[0] }}</div><div class="contributor-twitter"><a href="{{ contributor[1].twitter }}" target="_blank">Twitter</a></div><div class="contributor-website"><a href="{{ contributor[1].url }}" target="_blank">Website</a></div></li>
+{%- endfor -%}
+</ul>
+<h2>How To Contribute</h2>
+<p>The GitHub repository for this site can be found here: <a href="https://www.github.com/workeffortwaste/seoslides/">https://www.github.com/workeffortwaste/seoslides/</a>
+<p>This site is built using <a href="https://www.11ty.dev/" target="_blank">Eleventy</a> using simple JSON files for data.</p>
+<p>To add or edit talks, or to flesh out speaker and conference details you simply need to either edit or add new JSON files to the project and send a pull request via GitHub.</p>
+<p>If you're unfamiliar with sending a pull request then please get in touch with <a href="https://www.twitter.com/defaced">@defaced</a> or <a href="mailto:hello@seoslides.page">hello@seoslides.page</a> and I can add the modified files for you.</p>
+<h2>Data Templates</h2>
+<h3>Talks</h3>
+<p>Using this template you can add a conference and its talks to the site.</p>
+<p>The file should be named: <strong>YYYY-MM-DD-&#60;conference_name&#62;.json</strong></p>
+<p>The file should be added to: <strong>/data/talks/</strong></p>
+<pre class="prettyprint lang-js">
+{
+  "conference": "&#60;Primary conference name, example: BrightonSEO&#62;",
+  "sub_title": "&#60;Conference subtitle, example: 'April'| Optional&#62;",
+  "date": "&#60;YYYY-MM-DD&#62;",
+  "talks" : [
+    {
+      "title": "&#60;Talk title&#62;",
+      "speaker": "&#60;Speaker name&#62;",
+      "recap": "&#60;URL of the official recap article if available | Optional&#62;",
+      "video": "&#60;URL of the video recording of the talk, if available | Optional&#62;",
+      "audio": "&#60;URL of the audio recording of the talk if available | Optional&#62;",
+      "slides": "&#60;URL of the slidedeck for this the talk if available | Optional&#62;"
+    },
+    {
+      "title": "&#60;Talk title&#62;",
+      "speaker": "&#60;Speaker name&#62;",
+      "recap": "&#60;URL of the official recap article if available | Optional&#62;",
+      "video": "&#60;URL of a video recording of the talk, if available | Optional&#62;",
+      "audio": "&#60;URL of the audio recording of the talk if available | Optional&#62;",
+      "slides": "&#60;URL of the slidedeck for this the talk if available | Optional&#62;"
+     }
+  ]
+}
+</pre>
+<h3>Speakers</h3>
+<p>Using this template you can flesh out the details for a speaker, providing a link to their twitter account, and a link to their website.</p>
+<p>The file should be named: <strong>&#60;speaker_name&#62;.json</strong>
+<p>The file should be added to: <strong>/data/speakers/</strong></p>
+<pre class="prettyprint lang-js">
+{
+  "&#60;Speaker name&#62;": {
+    "url": "&#60;URL of the speaker's website | Optional&#62;",
+    "twitter": "&#60;URL of the speaker's twitter account | Optional&#62;"
+  }
+}
+</pre>
+<h3>Conferences</h3>
+<p>Using this template you can flesh out the details for a conference, providing a description, twitter link, and a link to the conference homepage.</p>
+<p>The file should be named: <strong>&#60;conference_name&#62;.json</strong>
+<p>The file should be added to: <strong>/data/conferences/</strong></p>
+<pre class="prettyprint lang-js">
+{
+  "&#60;Conference name&#62;": {
+    "url": "&#60;URL of the conference's website | Optional&#62;",
+    "twitter": "&#60;URL of conference's twitter account | Optional&#62;",
+    "description": "&#60;A description of the conference | Optional&#62;"
+  }
+}
+</pre>
+<h3>Contributors</h3>
+<p>Using this template you can add yourself as a contributor to this page.</p>
+<p>The file should be named: <strong>&#60;contributor_name&#62;.json</strong></p>
+<p>The file should be added to: <strong>/data/contributors/</strong>
+<pre class="prettyprint lang-js">
+{
+  "&#60;Contributor name&#62;": {
+    "url": "&#60;URL of the contributor's website | Optional&#62;",
+    "twitter": "&#60;URL of the contributor's twitter account | Optional&#62;"
+  }
+}
+</pre>
+<h2>Contribution Guidelines</h2>
+<p>If a conference hides their media with an obvious gated funnel such as a form, then be respectful and link to the gateway rather than directly to the media.</p>
+<p>If a conference releases their media privately first to members or subscribers, wait until it's available for general release before adding to SEOslides<em>.page</em>.</p>
+<p>Link to official recaps where available.</p>
+<p>Contributors are encouraged to add themselves to the contributor list with a link to their Twitter account and website.</p>
+<p><strong>Don't use SEOslides<em>.page</em> as a method for spamming links. Those pull requests will be rejected.</strong></p>
+<p></p>
+</section>
+
+

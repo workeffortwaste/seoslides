@@ -1,0 +1,31 @@
+---
+pagination:
+    data: conferences
+    size: 1
+    alias: conference
+permalink: "conferences/{{ conference | slug }}/"
+layout: template.liquid
+renderData:
+    title: "{{ conference }}"
+    titlecard: "{{ conference }}"
+    titledesc: "{{conferencedetails[conference].description}}"
+    topheading: Conference
+    breadcrumbparent: Conferences
+    breadcrumbparentlink: /conferences
+    breadcrumbchild: "{{ conference }}"
+    description: "{{conferencedetails[conference].description}}"
+    url: "{{conferencedetails[conference].url}}"
+    twitter: "{{conferencedetails[conference].twitter}}"
+    metadesc: "A collaborative index of all the slides, video, and audio recordings for {{conference}}."
+---
+<section class="talks crunch-second-margin">
+<h2 class="alt">Conferences</h2>
+<div class="date">Ordered By Most Recent</div>
+{%- for talk_bundle in data reversed -%}
+    {%- if talk_bundle.conference == conference -%}
+        <h2><a href="/conferences/{{talk_bundle.conference | slug}}/{{talk_bundle.date}}/">{{ talk_bundle.conference }}</a>{% if talk_bundle.sub_title %} <span>{{ talk_bundle.sub_title }}</span>{% endif %}</h2>
+        <div class="date">{% long_date talk_bundle.date %}</div>
+        {% output_talks talk_bundle.talks %}
+    {%- endif -%}
+{%- endfor -%}
+</section>

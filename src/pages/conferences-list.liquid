@@ -1,0 +1,18 @@
+---
+permalink: "conferences/"
+layout: template.liquid
+renderData:
+    title: Conferences
+    titlecard: Conferences
+    topheading: Browse
+    metadesc: "A collaborative index of all the digital marketing conference slides, video, and audio recordings organised by conference."
+---
+<section class="standard">
+<h2 class="alt">All Conferences</h2>
+<div class="date">Ordered Alphabetically</div>
+<ul>
+{%- for conference in conferences -%}
+    <li><a href="/conferences/{{ conference | slug }}/">{{ conference }}</a></li>
+{%- endfor -%}
+</ul>
+</section>

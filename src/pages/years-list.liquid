@@ -1,0 +1,19 @@
+---
+permalink: "talks/"
+layout: template.liquid
+renderData:
+    title: Talks
+    titlecard: Talks
+    topheading: Browse
+    metadesc: "A collaborative index of all the digital marketing conference slides, video, and audio recordings organised by year."
+---
+<section class="standard">
+<h2 class="alt">All Talks</h2>
+<div class="date">Ordered By Year</div>
+<ul>
+{%- for year in years reversed -%}
+    <li><a href="/talks/{{ year }}/">{{ year }}</a></li>
+{%- endfor -%}
+</ul>
+</section>
+
