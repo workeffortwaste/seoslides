@@ -7,14 +7,14 @@
 <meta name="theme-color" content="#6e88d0">
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://seoslides.page/">
-<meta property="og:title" content="SEOslides.page">
+<meta property="og:url" content="https://seoslides.page{{page.url}}">
+<meta property="og:title" content="{% if renderData.title %}{{renderData.title}}{% else %}SEOslides.page{% endif %}">
 <meta property="og:description" content="The collaborative SEO conference resource.">
 <meta property="og:image" content="https://seoslides.page/img/socialshare.png">
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://seoslides.page/">
-<meta property="twitter:title" content="SEOslides.page">
+<meta property="twitter:url" content="https://seoslides.page{{page.url}}">
+<meta property="twitter:title" content="{% if renderData.title %}{{renderData.title}}{% else %}SEOslides.page{% endif %}">
 <meta property="twitter:description" content="The collaborative SEO conference resource.">
 <meta property="twitter:image" content="https://seoslides.page/img/socialshare.png">
 <title>{{renderData.title}}{% if renderData.title %} | {% endif %}The SEO Conference Resource - SEOslides.page</title>

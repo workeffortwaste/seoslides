@@ -6,7 +6,7 @@ pagination:
 permalink: "conferences//{{ talk_bundle.conference | slug }}/{{ talk_bundle.date }}/"
 layout: template.liquid
 renderData:
-    title: "{{talk_bundle.conference}} {% if talk_bundle.sub_title %} - {{ talk_bundle.sub_title }} {% endif %} | {{talk_bundle.date }}"
+    title: "{{talk_bundle.conference}}{% if talk_bundle.sub_title %} - {{ talk_bundle.sub_title }}{% endif %} | {{talk_bundle.date }}"
     topheading: Conference
     titlecard: "{{talk_bundle.conference}}"
     titledesc: "{{conferencedetails[talk_bundle.conference].description}}"
