@@ -1,0 +1,22 @@
+{
+  "conference": "Women In Tech SEO",
+  "sub_title": "September Meetup",
+  "date": "2019-09-03",
+  "talks" : [
+    {
+      "title": "The Different Faces of Keyword Research",
+      "speaker": "Paola Didone",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-3/"
+    },{
+      "title": "The Future of Technical SEO",
+      "speaker": "Rachel Costello",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-3/"
+    },
+    {
+      "title": "How to thrive at work – productivity through mindset mastery",
+      "speaker": "Briony Gunson",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-3/"
+    }
+  ]
+}
+

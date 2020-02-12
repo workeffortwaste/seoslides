@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#11",
+  "date": "2019-05-23",
+  "talks" : [
+    {
+      "title": "Local SEO - Building Blocks to Success",
+      "speaker": "Andrew Cock-Starkey",
+      "video": "https://www.youtube.com/watch?v=DkyX4BaXanQ"
+    },
+    {
+      "title": "Local SEO After Checklists",
+      "speaker": "Tim Capper",
+      "video": "https://www.youtube.com/watch?v=sFNcvPbAjCc"
+    }
+  ]
+}
+

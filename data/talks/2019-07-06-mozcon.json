@@ -1,0 +1,133 @@
+{
+  "conference": "MozCon",
+  "sub_title": null,
+  "date": "2019-07-06",
+  "talks" : [
+    {
+      "title": "Web Search 2019: The Essential Data Marketers Need",
+      "speaker": "Rand Fishkin",
+      "slides": "https://www.dropbox.com/s/j47xjapylcvdmb8/MozCon%202019%20Slide%20Deck%20-%20Rand%20Fishkin.pdf?dl=0"
+    },
+    {
+      "title": "Human > Machine > Human",
+      "speaker": "Ruth Burr Reedy",
+      "slides": "https://www.dropbox.com/s/c69yu24djrz8aso/MozCon%202019%20Slide%20Deck%20-%20Ruth%20Burr%20Reedy.pdf?dl=0"
+    },
+    {
+      "title": "Improved Reporting & Analytics Within Google Tools",
+      "speaker": "Dana DiTomaso",
+      "slides": "https://www.dropbox.com/s/2ed3v1ddo97sm08/MozCon%202019%20Slide%20Deck%20-%20Dana%20DiTomaso.pdf?dl=0"
+    },
+    {
+      "title": "Local Market Analytics: The Challenges and Opportunities",
+      "speaker": "Rob Bucci",
+      "slides": "https://www.dropbox.com/s/x8r3rwt2rbt0006/MozCon%202019%20Slide%20Deck%20-%20Rob%20Bucci.pdf?dl=0"
+    },
+    {
+      "title": "Keyword's Aren't Enough: How to Uncover Content Ideas Worth Chasing",
+      "speaker": "Ross Simmonds",
+      "slides": "https://www.dropbox.com/s/zyntfbvsapmrlvd/MozCon%202019%20Slide%20Deck%20-%20Ross%20Simmonds.pdf?dl=0"
+    },
+    {
+      "title": "How to Supercharge Link Building with a Digital PR Newsroom",
+      "speaker": "Shannon McGuirk",
+      "slides": "https://www.dropbox.com/s/r0euou034w1tljg/MozCon2019%20Slide%20Deck%20-%20Shannon%20McGuirk.pdf?dl=0"
+    },
+    {
+      "title": "From Zero to Local Ranking Hero",
+      "speaker": "Darren Shaw",
+      "slides": "https://www.dropbox.com/s/kugcyvcau2sn3nd/MozCon%202019%20Slide%20Deck%20-%20Darren%20Shaw.pdf?dl=0"
+    },
+    {
+      "title": "Building a Discoverability Powerhouse: Lessons From Merging an Organic, Paid & Content Practice",
+      "speaker": "Heather Physioc",
+      "slides": "https://www.dropbox.com/s/7mml72vwui5npjm/MozCon%202019%20Slide%20Deck%20-%20Heather%20Physioc.pdf?dl=0"
+    },
+    {
+      "title": "Brand Is King: How to Rule in the New Era of Local Search",
+      "speaker": "Mary Bowling",
+      "slides": "https://www.dropbox.com/s/twf9osfff2zqd6e/MozCon%202019%20Slide%20Deck%20-%20Mary%20Bowling.pdf?dl=0"
+    },
+    {
+      "title": "Making Memories: Creating Content People Remember",
+      "speaker": "Casie Gillette",
+      "slides": "https://www.dropbox.com/s/061bvniy6l4cbyd/MozCon%202019%20Slide%20Deck%20-%20Casie%20Gillette.pdf?dl=0"
+    },
+    {
+      "title": "20 Years in Search & I Don't Trust My Guy or Google",
+      "speaker": "Wil Reynolds",
+      "slides": "https://www.dropbox.com/s/vmi19skrzjl3b1w/MozCon%202019%20Slide%20Deck%20-%20Wil%20Reynolds.pdf?dl=0"
+    },
+    {
+      "title": "Super-Practical Tips for Improving Your Site's E-A-T",
+      "speaker": "Marie Haynes",
+      "slides": "https://www.dropbox.com/s/wo6t1ok5zp3zyjq/MozCon%202019%20Slide%20Deck%20-%20Marie%20Haynes.pdf?dl=0"
+    },
+    {
+      "title": "Fixing the Indexability Challenge: A Data-Based Framework",
+      "speaker": "Areej AbuAli",
+      "slides": "https://www.dropbox.com/s/ks5b6kl71ufs40w/MozCon%202019%20Slide%20Deck%20-%20Areej%20AbuAli.pdf?dl=0"
+    },
+    {
+      "title": "What Voice Means for Search Marketers: Top Findings from the 2019 Report",
+      "speaker": "Christi Olson",
+      "slides": "https://www.dropbox.com/s/96y7of4mse2nejj/MozCon%202019%20Slide%20Deck%20-%20Christi%20Olson.pdf?dl=0"
+    },
+    {
+      "title": "Redefining Technical SEO",
+      "speaker": "Paul Shapiro",
+      "slides": "https://www.dropbox.com/s/r9kgjrmd4kj9zse/MozCon%202019%20Slide%20Deck%20-%20Paul%20Shapiro.pdf?dl=0"
+    },
+    {
+      "title": "How Many Words Is a Question Worth?",
+      "speaker": "Dr. Pete Meyers",
+      "slides": "https://www.dropbox.com/s/hnyxrgvl3ulhwsz/MozCon%202019%20Slide%20Deck%20-%20Dr.%20Pete.pdf?dl=0"
+    },
+    {
+      "title": "Fraggles, Mobile-First Index-ing, & the SERP of the Future",
+      "speaker": "Cindy Krum",
+      "slides": "https://www.dropbox.com/s/qse64i8i5yi2td3/MozCon%202019%20Slide%20Deck%20-%20Cindy%20Krum.pdf?dl=0"
+    },
+    {
+      "title": "Killer CRO and UX Wins Using an SEO Crawler",
+      "speaker": "Luke Carthy",
+      "slides": "https://www.dropbox.com/s/1oz3abl9cxfskrg/MozCon%202019%20Slide%20Deck%20-%20Luke%20Carthy.pdf?dl=0"
+    },
+    {
+      "title": "Content, Rankings, and Lead Generation: A Breakdown of the 1% Content Strategy",
+      "speaker": "Andy Crestodina",
+      "slides": "https://www.dropbox.com/s/ku93w9smt4ye7t3/MozCon%202019%20Slide%20Deck%20-%20Andy%20Crestodina.pdf?dl=0"
+    },
+    {
+      "title": "Running Your Own SEO Tests: Why It Matters & How To Do It Right",
+      "speaker": "Rob Ousbey",
+      "slides": "https://www.dropbox.com/s/aiu3tghegjgtmis/MozCon%202019%20Slide%20Deck_Rob%20Ousbey.pdf?dl=0"
+    },
+    {
+      "title": "Dark Helmet's Guide to Local Domination with Google Posts and Q&A",
+      "speaker": "Greg Gifford",
+      "slides": "https://www.dropbox.com/s/srqic834i3dh581/MozCon%202019%20Slide%20Deck%20-%20Greg%20Gifford.pdf?dl=0"
+    },
+    {
+      "title": "How to Audit for Inclusive Content",
+      "speaker": "Emily Triplett Lentz",
+      "slides": "https://www.dropbox.com/s/ef6jzak9cai8xj1/MozCon%202019%20Slide%20Deck%20-%20Emily%20Triplett%20Lentz.pdf?dl=0"
+    },
+    {
+      "title": "Image & Visual Search Optimization Opportunities",
+      "speaker": "Joelle Irvine",
+      "slides": "https://www.dropbox.com/s/yjjpl15cy6bkr3w/MozCon%202019%20Slide%20Deck%20-%20Joelle%20Irvine.pdf?dl=0"
+    },
+    {
+      "title": "Factors That Affect the Local Algorithm that Don't Impact Organic",
+      "speaker": "Joy Hawkins",
+      "slides": "https://www.dropbox.com/s/0v1g0qy992i1588/MozCon%202019%20Slide%20Deck%20-%20Joy%20Hawkins.pdf?dl=0"
+    },
+    {
+      "title": "Featured Snippets: Essentials to Know & How to Target",
+      "speaker": "Britney Muller",
+      "slides": "https://www.dropbox.com/s/0utclgs413fjo7a/MozCon%202019%20Slide%20Deck%20-%20Britney%20Muller.pdf?dl=0"
+    }
+  ]
+}
+

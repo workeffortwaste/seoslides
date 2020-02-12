@@ -1,0 +1,496 @@
+{
+  "conference": "BrightonSEO",
+  "sub_title": "September",
+  "date": "2019-09-13",
+  "talks" : [
+    {
+      "title": "Beetlejuice’s Guide to Entities and the Future of SEO",
+      "speaker": "Greg Gifford",
+      "slides": "https://www.slideshare.net/GregGifford/beetlejuices-guide-to-entities-and-the-future-of-seo-166637127",
+      "audio": "https://brightonseo.libsyn.com/greg-gifford-beetlejuices-guide-to-entities-and-the-future-of-seo"
+    },
+    {
+      "title": "Rethinking The Fundamentals of Keyword Research With The Insights From Big Data",
+      "speaker": "Tim Soulo",
+      "slides": "https://www.slideshare.net/ahrefs/brightonseo-keyword-research",
+      "audio": "https://brightonseo.libsyn.com/tim-soulo-rethinking-the-fundamentals-of-keyword-research-with-the-insights-from-big-data"
+    },
+    {
+      "title": "Why AI will be a key part of your team, not a replacement",
+      "speaker": "Sal Mohammed",
+      "slides": "https://www.slideshare.net/adzooma/why-ai-will-be-a-key-part-of-your-team-not-a-replacement-167084072",
+      "audio": "https://brightonseo.libsyn.com/sal-mohammed-why-ai-will-be-a-key-part-of-your-team-not-a-replacement"
+    },
+    {
+      "title": "Content Marketing for Links: Stretching Smaller Budgets",
+      "speaker": "Stacey MacNaught",
+      "audio": "https://brightonseo.libsyn.com/stacey-macnaught-content-marketing-for-links-stretching-smaller-budgets"
+    },
+    {
+      "title": "The cash-strapped marketer’s guide to SEO",
+      "speaker": "Helen Pollitt",
+      "slides": "https://www.avenuedigital.com/en-gb/news/brightonseo/",
+      "audio": "https://brightonseo.libsyn.com/helen-pollitt-the-cash-strapped-marketers-guide-to-seo"
+    },
+    {
+      "title": "How to create a sexy AF PR pitch to land sexy AF links no matter your budget or brand",
+      "speaker": "Carrie Rose",
+      "slides": "https://www.slideshare.net/CarrieRoseBalloch/brightonseo-how-to-create-sexy-af-outreach-emails-to-land-sexy-af-links",
+      "audio": "https://brightonseo.libsyn.com/carrie-rose-how-to-create-a-sexy-af-pr-pitch-to-land-sexy-af-links-no-matter-your-budget-or-brand"
+    },
+    {
+      "title": "Data-Driven Remarketing Strategies & Tactics for Every Business",
+      "speaker": "Amy Bishop",
+      "slides": "https://www.slideshare.net/AmyBishop1/brightonseo-remarketing-strategies-for-every-business-by-amy-bishop-171518114",
+      "audio": "https://brightonseo.libsyn.com/amy-bishop-data-driven-remarketing-strategies-tactics-for-every-business"
+    },
+    {
+      "title": "Beat The Competition With Gmail Ads: Email-less Email Marketing",
+      "speaker": "Jacob Tibbott",
+      "slides": "https://www.slideshare.net/JacobTibbott/brightonseo-2019-jacob-tibbott-get-your-ticket-beat-the-competition-with-gmail-ads-emailless-email-marketing",
+      "audio": "https://brightonseo.libsyn.com/jacob-tibbott-beat-the-competition-with-gmail-ads-email-less-email-marketing"
+    },
+    {
+      "title": "I Don’t Know How to Run Shopping Ads, and at This Point I’m Too Afraid to Ask",
+      "speaker": "Kirk Williams",
+      "slides": "https://www.slideshare.net/PPCKirk/dont-know-shopping-ads-no-worries-start-here-brightonseo",
+      "audio": "https://brightonseo.libsyn.com/kirk-williams-i-dont-know-how-to-run-shopping-ads-and-at-this-point-im-too-afraid-to-ask"
+    },
+    {
+      "title": "How I learned to stop worrying and love the .htaccess file",
+      "speaker": "Roxana Stingu",
+      "slides": "https://www.slideshare.net/RoxanaStingu/how-i-learned-to-stop-worrying-and-love-the-htaccess-file",
+      "audio": "https://brightonseo.libsyn.com/roxana-stingu-how-i-learned-to-stop-worrying-and-love-the-htaccess-file"
+    },
+    {
+      "title": "Don’t F*ck Up Your Site Migration",
+      "speaker": "Serena Pearson",
+      "slides": "https://www.slideshare.net/secret/e2zahQNj49xwOt",
+      "audio": "https://brightonseo.libsyn.com/serena-pearson-dont-fck-up-your-site-migration"
+    },
+    {
+      "title": "Accessibility for people and bots: Compassion-led technical SEO",
+      "speaker": "Ashley Berman Hale",
+      "slides": "https://www.slideshare.net/AshleyBermanHale/brighton-seo-sep-2019-accessibility-technical-seo",
+      "audio": "https://brightonseo.libsyn.com/ashley-berman-hale-accessibility-for-people-and-bots-compassion-led-technical-seo"
+    },
+    {
+      "title": "Living in a Mobile First (Indexing) World",
+      "speaker": "Frank Vitovitch",
+      "audio": "https://brightonseo.libsyn.com/frank-vitovitch-living-in-a-mobile-first-indexing-world"
+    },
+    {
+      "title": "Tracking Growth with AMP Analytics",
+      "speaker": "Solenn Boulic",
+      "audio": "https://brightonseo.libsyn.com/solenn-boulic-tracking-growth-with-amp-analytics"
+    },
+    {
+      "title": "Tips for optimising for Google Discover",
+      "speaker": "Luci Wood",
+      "slides": "https://www.slideshare.net/LucindaWoodDipDigMMI/tips-for-optimising-for-google-discover",
+      "audio": "https://brightonseo.libsyn.com/luci-wood-tips-for-optimising-for-google-discover"
+    },
+    {
+      "title": "Understanding Amazon’s A9 Algorithm",
+      "speaker": "Katherine Khoo",
+      "slides": "https://www.slideshare.net/iPagesCMS/brightonseo-katherine-khoo-understanding-amazons-a9-algorithm-10am-amazon",
+      "audio": "https://brightonseo.libsyn.com/katherine-khoo-understanding-amazons-a9-algorithm"
+    },
+    {
+      "title": "How to create Amazon Advertising campaigns without targeting any keywords",
+      "speaker": "Prabhat Shah",
+      "slides": "https://www.slideshare.net/daytodayebay/how-to-create-amazon-advertising-campaigns-without-targeting-any-keywords",
+      "audio": "https://brightonseo.libsyn.com/prabhat-shah-how-to-create-amazon-advertising-campaigns-without-targeting-any-keywords"
+    },
+    {
+      "title": "Amazon PPC – The Science Lab Of Your Amazon Business",
+      "speaker": "Danny McMillan",
+      "audio": "https://brightonseo.libsyn.com/danny-mcmillan-amazon-ppc-the-science-lab-of-your-amazon-business"
+    },
+    {
+      "title": "Using LinkedIn Paid Ads to support a lead generation campaign",
+      "speaker": "Jake Potter",
+      "slides": "https://www.slideshare.net/JakePotter5/using-linkedin-paid-ads-to-support-a-lead-generation-campaign",
+      "audio": "https://brightonseo.libsyn.com/jake-potter-using-linkedin-paid-ads-to-support-a-lead-generation-campaign"
+    },
+    {
+      "title": "How to Drive Global Sales with Social Selling",
+      "speaker": "Anlieka Marconi",
+      "audio": "https://brightonseo.libsyn.com/anlieka-marconi-how-to-drive-global-sales-with-social-selling"
+    },
+    {
+      "title": "Unified Attribution: Connecting Digital to Offline & How to Optimise TV & Radio for ROI",
+      "speaker": "Ross Paton",
+      "slides": "https://resources.queryclick.com/queryclick-brighton-seo-resource-hub",
+      "audio": "https://brightonseo.libsyn.com/ross-paton-unified-attribution-connecting-digital-to-offline-how-to-optimise-tv-radio-for-roi"
+    },
+    {
+      "title": "How marketers miss up to 60% of their conversions – and how to capture them",
+      "speaker": "Adam Chapman-Ballard",
+      "slides": "https://www.slideshare.net/MediahawkLtd/how-marketers-miss-up-to-60-of-their-conversions-and-how-to-capture-them",
+      "audio": "https://brightonseo.libsyn.com/adam-chapman-ballard-how-marketers-miss-up-to-60-of-their-conversions-and-how-to-capture-them"
+    },
+    {
+      "title": "Neadoo’s CRM – a better way to report and communicate",
+      "speaker": "Adrian Kempiak",
+      "audio": "https://brightonseo.libsyn.com/adrian-kempiak-neadoos-crm-a-better-way-to-report-and-communicate"
+    },
+    {
+      "title": "Making Captions Beautiful (and Searchable) to Improve Video Experience",
+      "speaker": "Ahmed Khalifa",
+      "slides": "https://www.slideshare.net/iamahmedkhalifa/lets-make-captions-beautiful-searchable-to-improve-video-experience-brightonseo-september-2019/iamahmedkhalifa/lets-make-captions-beautiful-searchable-to-improve-video-experience-brightonseo-september-2019",
+      "audio": "https://brightonseo.libsyn.com/ahmed-khalifa-making-captions-beautiful-and-searchable-to-improve-video-experience"
+    },
+    {
+      "title": "How to find content gaps when you don’t speak the language",
+      "speaker": "Catherine Goulbourne",
+      "slides": "https://www.slideshare.net/OBAN-IDForum/brighton-seo-2019-how-to-find-content-gaps-when-you-dont-speak-the-language-172528916",
+      "audio": "https://brightonseo.libsyn.com/catherine-pear-goulbourne-how-to-find-content-gaps-when-you-dont-speak-the-language"
+    },
+    {
+      "title": "How to ‘SEO’ forums, communities and UGC",
+      "speaker": "Steph Whatley",
+      "slides": "https://www.slideshare.net/StephanieWeight/how-to-seo-forums-communities-and-usergenerated-content",
+      "audio": "https://brightonseo.libsyn.com/steph-whatley-how-to-seo-forums-communities-and-ugc"
+    },
+    {
+      "title": "Digital Marketing to an older audience",
+      "speaker": "Hannah McKie",
+      "slides": "https://www.slideshare.net/HannahMckie/digital-marketing-to-a-mature-audience/HannahMckie/digital-marketing-to-a-mature-audience",
+      "audio": "https://brightonseo.libsyn.com/hannah-mckie-digital-marketing-to-an-older-audience"
+    },
+    {
+      "title": "The future of search is understanding human psychology",
+      "speaker": "Becky Simms",
+      "slides": "https://www.reflectdigital.co.uk/events/brighton-seo-sept-19",
+      "audio": "https://brightonseo.libsyn.com/becky-simms-the-future-of-search-is-understanding-human-psychology"
+    },
+    {
+      "title": "Progressive profiling and engagement triggers",
+      "speaker": "Kenda Macdonald",
+      "audio": "https://brightonseo.libsyn.com/kenda-macdonald-progressive-profiling-and-engagement-triggers"
+    },
+    {
+      "title": "Happiness will make you rich",
+      "speaker": "Allegra Chapman",
+      "slides": "https://www.slideshare.net/AllegraChapman/happiness-will-make-you-rich",
+      "audio": "https://brightonseo.libsyn.com/allegra-chapman-happiness-will-make-you-rich"
+    },
+    {
+      "title": "Keep Up or Give Up: Imposter Syndrome, Burnout and Mental Health in Digital",
+      "speaker": "Amy McManus",
+      "slides": "https://www.slideshare.net/AmyMcManus8/keep-up-or-give-up-impostor-syndrome-burnout-and-mental-health-in-digital",
+      "video": "https://www.youtube.com/watch?v=u51dAopF8AE",
+      "audio": "https://brightonseo.libsyn.com/amy-mcmanus-keep-up-or-give-up-imposter-syndrome-burnout-and-mental-health-in-digital"
+    },
+    {
+      "title": "Age diversity in SEO and why it is important",
+      "speaker": "Tazmin Suleman",
+      "slides": "https://www.slideshare.net/TazminSuleman/brighton-sept-2019-191398925",
+      "audio": "https://brightonseo.libsyn.com/tazmin-suleman-age-diversity-in-seo-and-why-it-is-important"
+    },
+    {
+      "title": "I keep thinking: My website can be faster!",
+      "speaker": "Fili Wiese",
+      "audio": "https://brightonseo.libsyn.com/fili-wiese-i-keep-thinking-my-website-can-be-faster"
+    },
+    {
+      "title": "The best kept secrets from Robots.txt",
+      "speaker": "François Goube",
+      "slides": "https://www.slideshare.net/OnCrawl/best-kept-secrets-from-robotstxt-brightonseo",
+      "audio": "https://brightonseo.libsyn.com/franois-goube-the-best-kept-secrets-from-robotstxt"
+    },
+    {
+      "title": "What I learned about SEO from building websites with the 10 most used JS frameworks",
+      "speaker": "Jan-Willem Bobbink",
+      "slides": "https://www.slideshare.net/11internet/what-i-learned-about-seo-from-using-the-10-most-used-js-frameworks-brightonseo",
+      "audio": "https://brightonseo.libsyn.com/jan-willem-bobbink-what-i-learned-about-seo-from-building-websites-with-the-10-most-used-js-frameworks"
+    },
+    {
+      "title": "A deep dive into the SEO strategy of the UK’s 80 largest e-commerce sites",
+      "speaker": "Kenneth Wernst Christensen",
+      "audio": "https://brightonseo.libsyn.com/kenneth-wernst-christensen-a-deep-dive-into-the-seo-strategy-of-the-uks-80-largest-e-commerce-sites"
+    },
+    {
+      "title": "Practical eCommerce Tips to Drive Up ROI and Save Time",
+      "speaker": "Ben Barker",
+      "slides": "https://www.slideshare.net/BenBarker8/practical-tips-tricks-to-drive-roi-and-save-time-full-version",
+      "audio": "https://brightonseo.libsyn.com/ben-barker-practical-ecommerce-tips-to-drive-up-roi-and-save-time"
+    },
+    {
+      "title": "How to build perfect product landing pages",
+      "speaker": "Alexandre Sigoigne",
+      "slides": "https://www.slideshare.net/myposeo/how-to-build-a-perfect-landing-page-brightonseo-september-2019-talk",
+      "audio": "https://brightonseo.libsyn.com/alexandre-sigoigne-how-to-build-perfect-product-landing-pages"
+    },
+    {
+      "title": "Most Important PPC Updates From The Last 12 Months",
+      "speaker": "Jeroen Maljers",
+      "slides": "https://www.slideshare.net/swydo/most-important-ppc-updates-from-the-last-12-months",
+      "audio": "https://brightonseo.libsyn.com/jeroen-maljers-most-important-ppc-updates-from-the-last-12-months"
+    },
+    {
+      "title": "Getting the most from Bing Webmaster Tools",
+      "speaker": "Rohit Nargunde",
+      "slides": "https://www.slideshare.net/secret/e4SDYiw70ye9EZ",
+      "audio": "https://brightonseo.libsyn.com/rohit-nargunde-getting-the-most-from-bing-webmaster-tools"
+    },
+    {
+      "title": "My traffic is gone! Where the heck did it go?",
+      "speaker": "Ciara Serrano Temprado",
+      "slides": "https://www.slideshare.net/secret/qqbp7hXQpyedjf",
+      "audio": "https://brightonseo.libsyn.com/ciara-serrano-temprado-my-traffic-is-gone-where-the-heck-did-it-go"
+    },
+    {
+      "title": "Why translating your keywords and ads is a bad idea in PPC/paid media",
+      "speaker": "Olivia Lofts",
+      "slides": "https://www.slideshare.net/OliviaLofts/why-translating-your-keywords-and-ads-in-your-paid-campaigns-is-a-bad-idea",
+      "audio": "https://brightonseo.libsyn.com/olivia-lofts-why-translating-your-keywords-and-ads-is-a-bad-idea-in-ppcpaid-media"
+    },
+    {
+      "title": "How to increase global traffic and rankings with answer box optimisation",
+      "speaker": "Zanna Pupele",
+      "slides": "https://www.slideshare.net/zannapupele/how-to-imcrease-global-traffic-with-answer-box-optimisation-brighton-seo-sept-2019",
+      "audio": "https://brightonseo.libsyn.com/zanna-pupele-how-to-increase-global-traffic-and-rankings-with-answer-box-optimisation"
+    },
+    {
+      "title": "How reactive PR can lead to LINKS",
+      "speaker": "Will Hobson",
+      "slides": "https://www.slideshare.net/WilliamHobson3/brighton-seo-how-reactive-pr-can-lead-to-links",
+      "audio": "https://brightonseo.libsyn.com/will-hobson-how-reactive-pr-can-lead-to-links"
+    },
+    {
+      "title": "How to find link building opportunities using Ahrefs",
+      "speaker": "Joshua Hardwick",
+      "slides": "https://docs.google.com/presentation/d/19LSlQ-aKZK8qptwWUCYmb5ELDytDFIeuQoWk1Iah02E/edit#slide=id.g5ee5f394a9_0_14",
+      "audio": "https://brightonseo.libsyn.com/joshua-hardwick-how-to-find-link-building-opportunities-using-ahrefs"
+    },
+    {
+      "title": "Something New from Majestic – Re-inventing Backlinks and Outreach Strategy",
+      "speaker": "Dixon Jones",
+      "slides": "https://www.dropbox.com/s/c08e53i3bhge7c4/LinkContext.ppt",
+      "audio": "https://brightonseo.libsyn.com/dixon-jones-new-development-at-majestic"
+    },
+    {
+      "title": "Mining the SERPs: How to make the SERPs a powerful weapon in your SEO armoury",
+      "speaker": "Rory Truesdale",
+      "slides": "https://www.slideshare.net/RoryTruesdale/brightonseo-2019-mining-the-serp-for-seo-content-customer-insights",
+      "audio": "https://brightonseo.libsyn.com/rory-truesdale-mining-the-serps-how-to-make-the-serps-a-powerful-weapon-in-your-seo-armoury"
+    },
+    {
+      "title": "SERP Features Glossary",
+      "speaker": "Paige Hobart",
+      "slides": "https://www.slideshare.net/paigehobart/serp-features-glossary-redefining-the-seo-landscape-brightonseo-september-2019",
+      "audio": "https://brightonseo.libsyn.com/paige-hobart-serp-features-glossary"
+    },
+    {
+      "title": "Building a Brand With Local SEO: The Factors That Create Effortless Online-Offline User Journeys",
+      "speaker": "Antony Robinson",
+      "slides": "https://www.slideshare.net/antrobbo/ant-robinson-brighton-seo-final",
+      "audio": "https://brightonseo.libsyn.com/antony-robinson-building-a-brand-with-local-seo-the-factors-that-create-effortless-online-offline-user-journeys"
+    },
+    {
+      "title": "The new blueprint for content campaign success",
+      "speaker": "Alex Jones",
+      "slides": "https://www.slideshare.net/zazzlemedia/supporting-content-the-secret-to-campaign-success-brightonseo-september-2019",
+      "audio": "https://brightonseo.libsyn.com/alex-jones-the-new-blueprint-for-content-campaign-success"
+    },
+    {
+      "title": "What’s new in Structured Data",
+      "speaker": "Charlie Norledge",
+      "slides": "https://www.slideshare.net/CharlieNorledge/charlie-norledge-whats-new-in-structured-data-brighton-seo"
+    },
+    {
+      "title": "How to Create Connected Schema Markup and Knowledge Graphs",
+      "speaker": "Martha van Berkel",
+      "slides": "https://www.slideshare.net/MarthavanBerkel/connected-schema-markup-and-knowledge-graphs"
+    },
+    {
+      "title": "From Knowledge Graphs to Commonsense Knowledge Graphs",
+      "speaker": "Dateme Tubotamun",
+      "slides": "https://www.slideshare.net/DatemeTubotamuno/from-knowledge-graph-to-commonsense-knowledge-graph-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/datame-tubotamuno-from-knowledge-graphs-to-commonsense-knowledge-graphs"
+    },
+    {
+      "title": "How to get more from digital PR (without mentioning AVE)",
+      "speaker": "Laura Hampton",
+      "slides": "https://www.slideshare.net/lauralhampton/brighton-seo-how-to-get-more-value-from-digital-pr-laura-hampton",
+      "audio": "https://brightonseo.libsyn.com/laura-hampton-4-ways-to-capitalise-on-the-cross-funnel-benefits-of-digital-pr"
+    },
+    {
+      "title": "How to actually measure the impact of digital PR coverage",
+      "speaker": "Fran Griffin",
+      "slides": "https://www.slideshare.net/FranGriffin/fran-griffin-brighton-seo-measuring-digital-pr",
+      "audio": "https://brightonseo.libsyn.com/fran-griffin-how-to-actually-measure-the-impact-of-digital-pr-coverage"
+    },
+    {
+      "title": "Let’s take this offline: The power of face-to-face events in digital marketing",
+      "speaker": "Claire Gamble",
+      "slides": "https://www.slideshare.net/ClaireGamble5/brighton-seo-2019-how-events-can-secure-earned-media-links-and-social-buzz",
+      "audio": "https://brightonseo.libsyn.com/claire-gamble-lets-take-this-offline-the-power-of-face-to-face-events-in-digital-marketing"
+    },
+    {
+      "title": "From Market to Insights to Strategy – How SEO & Content really impact Business",
+      "speaker": "Björn Darko né Beth",
+      "slides": "https://www.slideshare.net/BjrnBeth/from-market-to-insights-to-strategy",
+      "audio": "https://brightonseo.libsyn.com/bjrn-darko-from-market-to-insights-to-strategy-how-seo-content-really-impact-business"
+    },
+    {
+      "title": "How Machine Learning Insights Change the Game for Enterprise SEO (A 20x ROI Case Study)",
+      "speaker": "Chris Liversidge",
+      "slides": "https://resources.queryclick.com/queryclick-brighton-seo-resource-hub",
+      "audio": "https://brightonseo.libsyn.com/chris-liversidge-how-machine-learning-insights-change-the-game-for-enterprise-seo-a-20x-roi-case-study"
+    },
+    {
+      "title": "How PageRank Really Works",
+      "speaker": "Dixon Jones",
+      "slides": "https://onedrive.live.com/view.aspx?resid=D173C2CDAB88B309!30523&ithint=file%2cpptx&authkey=!AHWcpmq32IbL14c",
+      "audio": "https://brightonseo.libsyn.com/dixon-jones-how-pagerank-really-works"
+    },
+    {
+      "title": "Growing Ecommerce Revenue with Google Ads in a Declining Economy",
+      "speaker": "Pinar Ünsal",
+      "slides": "https://www.slideshare.net/KubixDigital/growing-ecommerce-revenue-with-google-ads-in-a-declining-economy",
+      "audio": "https://brightonseo.libsyn.com/pnar-nsal-growing-ecommerce-revenue-with-google-ads-in-a-declining-economy"
+    },
+    {
+      "title": "E-commerce PPC in an Automated World",
+      "speaker": "Frederik Hyldig",
+      "audio": "https://brightonseo.libsyn.com/frederik-hyldig-e-commerce-ppc-in-an-automated-world"
+    },
+    {
+      "title": "Why B2B product marketers must be brave to succeed internationally",
+      "speaker": "Daiana Damacus",
+      "slides": "https://www.slideshare.net/DaianaDamacus/daiana-damacus-how-b2b-marketers-can-be-brave-to-succeed-internationally",
+      "audio": "https://brightonseo.libsyn.com/daiana-damacus-why-b2b-product-marketers-must-be-brave-to-succeed-internationally"
+    },
+    {
+      "title": "SEOZoom: A different approach to professional SEO Tools",
+      "speaker": "Ivano Di Biasi",
+      "audio": "https://brightonseo.libsyn.com/ivano-di-biasi-seozoom-a-different-approach-to-professional-seo-tools"
+    },
+    {
+      "title": "Increase your level cap with the SEO Performance expansion pack",
+      "speaker": "Wesley Maynard",
+      "slides": "https://www.slideshare.net/WezMaynard/increase-your-level-cap-with-the-seo-performance-expansion-pack-171479850",
+      "audio": "https://brightonseo.libsyn.com/wesley-maynard-increase-your-level-cap-with-the-seo-performance-expansion-pack"
+    },
+    {
+      "title": "Site Migrations: Getting On Site, Off Site & Technical Right",
+      "speaker": "Chloe Bodard",
+      "slides": "https://www.slideshare.net/chloebodard/site-migrations-brighton-seo-2019"
+    },
+    {
+      "title": "Think like a bot, rank like a boss: How Googlebot renders",
+      "speaker": "Jamie Alberico",
+      "slides": "https://www.slideshare.net/JamieAlberico/how-googlebot-renders",
+      "audio": "https://brightonseo.libsyn.com/jamie-alberico-think-like-a-bot-rank-like-a-boss-how-googlebot-renders"
+    },
+    {
+      "title": "How serverless technologies can help SEOs overcome legacy (and modern) tech obstacles",
+      "speaker": "Dan Taylor",
+      "slides": "https://www.slideshare.net/DanTaylor29/brightonseo-2019-edge-seo-using-cdns-to-perform-seo-on-the-edge",
+      "audio": "https://brightonseo.libsyn.com/dan-taylor-how-serverless-technologies-can-help-seos-overcome-legacy-and-modern-tech-obstacles"
+    },
+    {
+      "title": "Web Server Logs As Technical SEO Key Data Source",
+      "speaker": "Aysun Akarsu",
+      "slides": "https://www.searchdatalogy.com/blog/brightonseo/",
+      "audio": "https://brightonseo.libsyn.com/aysun-akarsu-web-server-logs-as-technical-seo-key-data-source"
+    },
+    {
+      "title": "Improve your Rankings with Internal Links, like these 7 Popular Sites",
+      "speaker": "Christoph C. Cemper",
+      "audio": "https://brightonseo.libsyn.com/christoph-c-cemper-improve-your-rankings-with-internal-links-like-these-7-popular-sites"
+    },
+    {
+      "title": "How to turn a press release into unique ranking content",
+      "speaker": "Eleni Cashell",
+      "slides": "https://www.slideshare.net/EleniCashell/how-to-turn-press-releases-into-unique-content-draft",
+      "audio": "https://brightonseo.libsyn.com/eleni-cashell-how-to-turn-a-press-release-into-unique-ranking-content"
+    },
+    {
+      "title": "Medic update – easy and actionable tips for recovery",
+      "speaker": "Steve Haynes",
+      "slides": "https://www.slideshare.net/Centreradical/recovering-from-the-medic-update-easy-and-actionable-tips",
+      "haynes": "https://brightonseo.libsyn.com/steve-haynes-medic-update-easy-and-actionable-tips-for-recovery"
+    },
+    {
+      "title": "Insights, Not Data: Automated Reporting That Works",
+      "speaker": "Dana DiTomaso",
+      "slides": "https://www.slideshare.net/ditomaso/insights-not-data-automated-reporting-that-works",
+      "audio": "https://brightonseo.libsyn.com/dana-ditomaso-insights-not-data-automated-reporting-that-works"
+    },
+    {
+      "title": "How Basic Programming Skills Can Save You a Ton of Time",
+      "speaker": "Sabine Langmann",
+      "slides": "https://www.slideshare.net/SabineLangmann/save-time-with-basic-coding-skills-brightonseo-september-2019",
+      "audio": "https://brightonseo.libsyn.com/sabine-langmann-how-basic-programming-skills-can-save-you-a-ton-of-time"
+    },
+    {
+      "title": "Utilizing the power of PowerShell for SEO",
+      "speaker": "Mike Osolinski",
+      "slides": "https://www.slideshare.net/MikeOsolinski/brighton-seo-sept-2019-powershell",
+      "audio": "https://brightonseo.libsyn.com/mike-osolinski-utilizing-the-power-of-powershell-for-seo"
+    },
+    {
+      "title": "Email Anatomy: How to Get Top Tier Links",
+      "speaker": "Alex Cassidy",
+      "slides": "https://www.slideshare.net/AlexCassidy/email-anatomy-how-to-get-top-tier-links",
+      "audio": "https://brightonseo.libsyn.com/alex-cassidy-email-anatomy-how-to-get-top-tier-links"
+    },
+    {
+      "title": "Artificial Relationships: How we used Google’s AI to read the Guardian and befriend journalists",
+      "speaker": "Jack Merlin Bruce & Ross Tavendale",
+      "audio": "https://brightonseo.libsyn.com/ross-tavendale-artificial-relationships-how-we-used-googlea-ai-to-read-the-guardian-and-befriend-journalists"
+    },
+    {
+      "title": "SEO 2.1: How To Own Influencer & Content Campaigns",
+      "speaker": "Shannon Maybury & Sonali Ohrie",
+      "slides": "https://www.slideshare.net/ShannonMaybury/brightonseo-how-to-own-influencer-content-campaigns",
+      "audio": "https://brightonseo.libsyn.com/shannon-maybury-sonali-ohrie-how-to-own-influencer-content-campaigns"
+    },
+    {
+      "title": "What makes your SEO fail (and how to fix it)",
+      "speaker": "Aleyda Solis",
+      "slides": "https://www.slideshare.net/aleydasolis/what-makes-your-seo-fail-and-how-to-fix-it-brightonseo",
+      "audio": "https://brightonseo.libsyn.com/aleyda-solis-what-makes-your-seo-fail-and-how-to-fix-it"
+    },
+    {
+      "title": "Persona-Led Reporting: Designing Blinding Reports to Keep Every Stakeholder Happy",
+      "speaker": "Rumble Romagnoli",
+      "slides": "https://www.slideshare.net/RumbleRomagnoli/personaled-reporting-designing-blinding-reports-to-keep-every-stakeholder-happy-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/rumble-romagnoli-collating-data-using-data-studio-supermetrics-funnel-friends-to-create-blinding-seo-reports"
+    },
+    {
+      "title": "How we got Brighton to #BeMoreSnail",
+      "speaker": "Hannah Clare",
+      "slides": "https://www.slideshare.net/HannahEllenClare/brighton-seo-how-we-got-brighton-to-bemoresnail",
+      "audio": "https://brightonseo.libsyn.com/hannah-clare-how-we-got-brighton-to-bemoresnail"
+    },
+    {
+      "title": "How to get Facebook Groups working for your business",
+      "speaker": "Marie Page",
+      "slides": "https://thedigiterati.com/brightonseo-talk-how-to-get-facebook-groups-working-for-your-business/",
+      "audio": "https://brightonseo.libsyn.com/marie-page-how-to-get-facebook-groups-working-for-your-business"
+    },
+    {
+      "title": "The Relationship Between Pop Culture and Social Media Marketing!",
+      "speaker": "Yumna Kumran",
+      "slides": "http://bit.ly/YUMNABSEO",
+      "audio": "https://brightonseo.libsyn.com/yumna-kumran-the-relationship-between-pop-culture-and-social-media-marketing"
+    },
+    {
+      "title": "How To Turn Your SEO From Zero To Hero with GAP",
+      "speaker": "Lukasz Zelezny",
+      "slides": "https://www.dropbox.com/sh/7o25hjst4gg8xxx/AADNWG9ng0nYUqtH3i7HQS_Ua?dl=0&preview=LukaszZelezny-BrightonSEOSeptember2019.pptx",
+      "audio": "https://brightonseo.libsyn.com/lukasz-zelezny-how-to-turn-your-seo-from-zero-to-hero-with-gap"
+    },
+    {
+      "title": "Simple is smart. Complicated is stupid",
+      "speaker": "Dave Trott",
+      "audio": "https://brightonseo.libsyn.com/keynote-dave-trott-simple-is-smart-complicated-is-stupid"
+    }
+  ]
+}
+

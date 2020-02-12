@@ -1,0 +1,22 @@
+{
+  "conference": "ReadingSEO",
+  "sub_title": "August",
+  "date": "2019-08-01",
+  "talks" : [
+    {
+      "title": "Dicking Around With The DOM and Chrome Dev Tools",
+      "speaker": "Mark Osborne",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-1st-august-2019"
+    },{
+      "title": "How Information Will Transform The Digital Landscape",
+      "speaker": "Ric Rodriguez",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-1st-august-2019"
+    },
+    {
+      "title": "How to properly optimise your internal search for big SEO and revenue returns",
+      "speaker": "Luke Carthy",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-1st-august-2019"
+    }
+  ]
+}
+

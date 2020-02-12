@@ -1,0 +1,23 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "August",
+  "date": "2018-08-23",
+  "talks" : [
+    {
+      "title": "Future-Facing PPC: Facts, Speculation And A Badly Timed Press Release",
+      "speaker": "Trevor Koen",
+      "audio": "https://www.buzzsprout.com/165697/793932-trevor-koen-future-facing-ppc-facts-speculation-and-a-badly-timed-press-release"
+    },
+    {
+      "title": "How To Build High-Quality Backlinks And Authority In A Post-GDPR World",
+      "speaker": "Irina Nica",
+      "audio": "https://www.buzzsprout.com/165697/793937-irina-nica-how-to-build-high-quality-backlinks-and-authority-in-a-post-gdpr-world"
+    },
+    {
+      "title": "Know Your Audience: Spend Less, Earn More, Be Smarter",
+      "speaker": "Gavin Duff",
+      "audio": "https://www.buzzsprout.com/165697/793934-gavin-duff-know-your-audience-spend-less-earn-more-be-smarter"
+    }
+  ]
+}
+

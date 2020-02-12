@@ -1,0 +1,23 @@
+{
+  "conference": "Women In Tech SEO",
+  "sub_title": "February",
+  "date": "2020-02-06",
+  "talks" : [
+    {
+      "title": "Subdomains versus Subfolders and ccTLDs vs TLDs for SEO",
+      "speaker": "Polly Pospelova",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-7/"
+    },
+    {
+      "title": "Why topic clusters will help you gain customers and search visibility",
+      "speaker": "Maret Reutelingsperger",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-7/"
+    },
+    {
+      "title": "In-house SEO Success: Know the Past to Win the Future",
+      "speaker": "Petra Kis-Herczegh",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-7/"
+    }
+  ]
+}
+

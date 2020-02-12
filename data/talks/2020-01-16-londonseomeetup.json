@@ -1,0 +1,32 @@
+{
+  "conference": "LondonSEOMeetup",
+  "sub_title": "Jan Edition",
+  "date": "2020-01-16",
+  "talks" : [
+    {
+      "title": "BigQuery & SQL for SEOs",
+      "speaker": "Areej AbuAli",
+      "slides": "https://www.slideshare.net/areejabuali/londonseo-2020-bigquery-sql-for-seos",
+      "recap": "https://www.bluearray.co.uk/news/conferences/london-seo-meetup-january/"
+    },
+    {
+      "title": "How To Make Any Site Blazing Fast!!!",
+      "speaker": "Tom Pool",
+      "slides": "https://www.slideshare.net/TomPool/how-to-make-any-site-blazing-fast-tom-pool-london-seo-meetup-jan20",
+      "recap": "https://www.bluearray.co.uk/news/conferences/london-seo-meetup-january/"
+    },
+    {
+      "title": "How to Find Killer eCommerce CRO & UX Gems with Google Analytics",
+      "speaker": "Luke Carthy",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/how-to-smash-google-analytics-for-ecommerce-luke-carthy-londonseo",
+      "recap": "https://www.bluearray.co.uk/news/conferences/london-seo-meetup-january/"
+    },
+    {
+      "title": "4 Search Trends and Tips for 2020",
+      "speaker": "Lisa Luu",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/hitwise-4-search-trends-and-tips-for-2020-lisa-luu-londonseo",
+      "recap": "https://www.bluearray.co.uk/news/conferences/london-seo-meetup-january/"
+    }
+  ]
+}
+

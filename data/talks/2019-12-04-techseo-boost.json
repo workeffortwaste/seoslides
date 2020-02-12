@@ -1,0 +1,74 @@
+{
+  "conference": "TechSEO Boost",
+  "sub_title": null,
+  "date": "2019-12-04",
+  "talks" : [
+    {
+      "title": "Bias in Search and Recommender Systems",
+      "speaker": "Ricardo Baeza-Yates",
+      "slides": "https://www.slideshare.net/CatalystDigital/keynote-bias-in-search-and-recommender-systems",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "NLP Powered Outreach Link Building",
+      "speaker": "Gareth Simpson",
+      "slides": "https://www.slideshare.net/CatalystDigital/nlp-powered-outreach-link-building",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "NLP for SEO",
+      "speaker": "Paul Shapiro",
+      "slides": "https://www.slideshare.net/CatalystDigital/nlp-for-seo",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "Faceted Nav: (Almost) Everyone Is Doing it Wrong",
+      "speaker": "Frank Vitovitch",
+      "slides": "https://www.slideshare.net/CatalystDigital/faceted-nav-almost-everyone-is-doing-it-wrong",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "Automate, Create Tools, & Test Ideas Quickly with Google Apps Script",
+      "speaker": "Dave Sottimano",
+      "slides": "https://www.slideshare.net/CatalystDigital/automate-create-tools-test-ideas-quickly-with-google-apps-script",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "Generating Qualitative Content with GPT-2 in All Languages",
+      "speaker": "Vincent Terrasi",
+      "slides": "https://www.slideshare.net/CatalystDigital/generating-qualitative-content-with-gpt2-in-all-languages",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "What I Learned Building a Toy Example to Crawl & Render like Google",
+      "speaker": "JR Oakes",
+      "slides": "https://www.slideshare.net/CatalystDigital/what-i-learned-building-a-toy-example-to-crawl-render-like-google",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "The User is The Query: The Rise of Predictive Proactive Search",
+      "speaker": "Dawn Anderson",
+      "slides": "https://www.slideshare.net/CatalystDigital/the-user-is-the-query-the-rise-of-predictive-proactive-search-204972126",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "The Ultimate Pagination for SEO",
+      "speaker": "Tobias Schwarz",
+      "slides": "https://www.slideshare.net/CatalystDigital/the-ultimate-pagination-for-seo",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "Ranking Factors Going Causal: Regressions, Machine Learning, and Neural Networks",
+      "speaker": "Micah Fisher-Kirshner",
+      "slides": "https://www.slideshare.net/CatalystDigital/ranking-factors-going-causal-regressions-machine-learning-and-neural-networks",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    },
+    {
+      "title": "Crawl Budget Conqueror - Take Control of Your Crawl Budget",
+      "speaker": "Jori Ford",
+      "slides": "https://www.slideshare.net/CatalystDigital/crawl-budget-conqueror-take-control-of-your-crawl-budget",
+      "video": "https://www.catalystdigital.com/techseoboost/#register"
+    }
+  ]
+}
+

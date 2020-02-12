@@ -1,0 +1,23 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "May",
+  "date": "2019-05-23",
+  "talks" : [
+    {
+      "title": "PPC and SEO for Double Domination in the SERPs",
+      "speaker": "Kevin Moore",
+      "audio": "https://www.buzzsprout.com/165697/1194389-kevin-moore-ppc-and-seo-for-double-domination-in-the-serps"
+    },
+    {
+      "title": "Stop making decisions whilst stumbling in the dark",
+      "speaker": "Helen Pollitt",
+      "audio": "https://www.buzzsprout.com/165697/1194383-helen-pollitt-stop-making-decisions-whilst-stumbling-in-the-dark"
+    },
+    {
+      "title": "Automated Reports to Help You Survive Facebook Ads",
+      "speaker": "Jon Quinton",
+      "audio": "https://www.buzzsprout.com/165697/1194386-jon-quinton-automated-reports-to-help-you-survive-facebook-ads-nightmares"
+    }
+  ]
+}
+

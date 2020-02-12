@@ -1,0 +1,23 @@
+{
+  "conference": "Women In Tech SEO",
+  "sub_title": "December Meetup",
+  "date": "2019-12-05",
+  "talks" : [
+    {
+      "title": "SEP Features Glossary: Redefining the SEO landscape",
+      "speaker": "Paige Hobart",
+      "slides": "https://www.slideshare.net/paigehobart/serp-features-glossary-redefining-the-seo-landscape-brightonseo-september-2019",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-5/"
+    },{
+      "title": "Website Performance",
+      "speaker": "Faye Watt",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-5/"
+    },
+    {
+      "title": "Why Start Your Own Site?",
+      "speaker": "Alina Ghost",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meet-up-5/"
+    }
+  ]
+}
+

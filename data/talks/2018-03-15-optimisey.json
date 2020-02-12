@@ -1,0 +1,22 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#4",
+  "date": "2018-03-15",
+  "talks" : [
+    {
+      "title": "How to predict organic conversions from search",
+      "speaker": "Richard Petersen-Hall",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/03/how-to-predict-organic-conversions-without-the-need-for-expensive-tools.compressed.pdf",
+      "video": "https://youtu.be/dn1iGhCsw7Y",
+      "recap": "https://optimisey.com/seo-advice/how-to-predict-organic-conversions-from-search/"
+    },
+    {
+      "title": "The Power of Internal Linking and Hub Pages",
+      "speaker": "Andy Drinkwater",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/03/internal-linking-andy-drinkwater.pptx",
+      "video": "https://youtu.be/31Pr8SZPvnE",
+      "recap": "https://optimisey.com/seo-advice/the-power-of-internal-links-and-hub-pages/"
+    }
+  ]
+}
+

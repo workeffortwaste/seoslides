@@ -1,0 +1,22 @@
+{
+  "conference": "Women In Tech SEO",
+  "sub_title": "November Meetup",
+  "date": "2019-11-14",
+  "talks" : [
+    {
+      "title": "Surviving Seasonal SEO",
+      "speaker": "Steph Whatley",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-14th-of-november-master-deck"
+    },{
+      "title": "Automated Content Generation",
+      "speaker": "Emma Russell",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-14th-of-november-master-deck"
+    },
+    {
+      "title": "Literacy, Keyword Research and Content Choices",
+      "speaker": "Hannah Butcher",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-14th-of-november-master-deck"
+    }
+  ]
+}
+

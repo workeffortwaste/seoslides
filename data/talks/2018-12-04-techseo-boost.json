@@ -1,0 +1,67 @@
+{
+  "conference": "TechSEO Boost",
+  "date": "2018-12-04",
+  "talks" : [
+    {
+      "title": "The Statelessness of Technical SEO",
+      "speaker": "Mike King",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-the-statelessness-of-technical-seo",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "SEO, WPO, SPA, AMP, PWA & Other Acronyms: Performance that Matters",
+      "speaker": "Tim Kadlec",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-seo-wpo-spa-amp-pwa-other-acronyms-performance-that-matters",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Machine Learning for SEOs",
+      "speaker": "Britney Muller",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-machine-learning-for-seos",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Search & Spam Fighting in the Age of Deep Learning",
+      "speaker": "Frédéric Dubut",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-search-spam-fighting-in-the-age-of-deep-learning",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Implementing Hreflang on Legacy Tech Stacks Using Service Workers, Does it Work?",
+      "speaker": "Dan Taylor",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-implementing-hreflang-on-legacy-tech-stacks-using-service-workers-does-it-work",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "You Have Structured Data, Now What?",
+      "speaker": "Frank Vitovitch",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-you-have-structured-data-now-what",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Extreme Full Contact Google APIs",
+      "speaker": "Sean Malseed",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-extreme-full-contact-google-apis",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Watching Googlebot Watching You: Optimizing with Server Logs",
+      "speaker": "Jamie Alberico",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-watching-googlebot-watching-you-optimizing-with-server-logs",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Python for SEOs",
+      "speaker": "Hamlet Batista",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-python-for-seos",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    },
+    {
+      "title": "Internal Link Optimization on Steroids",
+      "speaker": "Kevin Indig",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2018-internal-link-optimization-on-steroids",
+      "video": "https://www.catalystdigital.com/techseoboost-2018/#register"
+    }
+  ]
+}
+

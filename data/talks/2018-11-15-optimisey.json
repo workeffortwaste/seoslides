@@ -1,0 +1,22 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#8",
+  "date": "2018-11-15",
+  "talks" : [
+    {
+      "title": "SEOs vs. Devs or SEOs and Devs?",
+      "speaker": "Julia Logan",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/12/SEOs-vs-Devs.pdf",
+      "video": "https://youtu.be/wr01jRdbX7Y",
+      "recap": "https://optimisey.com/seo-advice/seos-vs-devs-or-seos-and-devs-julia-logan/"
+    },
+    {
+      "title": "Google’s Quality Raters’ Guidelines",
+      "speaker": "Jennifer Hoffman",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/12/Optimisey-November-2018-FINAL.pdf",
+      "video": "https://youtu.be/xmqdotM_L2k",
+      "recap": "https://optimisey.com/seo-advice/the-business-value-of-seo/"
+    }
+  ]
+}
+

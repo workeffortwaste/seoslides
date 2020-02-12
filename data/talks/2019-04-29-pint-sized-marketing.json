@@ -1,0 +1,23 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "April",
+  "date": "2019-04-29",
+  "talks" : [
+    {
+      "title": "Using Social Media as a PR Tool",
+      "speaker": "David White",
+      "audio": "https://www.buzzsprout.com/165697/1057502-david-white-using-social-media-as-a-pr-tool"
+    },
+    {
+      "title": "Wordpress Security",
+      "speaker": "Julia Logan",
+      "audio": "https://www.buzzsprout.com/165697/1057501-julia-logan-wordpress-security"
+    },
+    {
+      "title": "Data Studio for SEOs: Creating BAMF Dashboards That Inform & Persuade",
+      "speaker": "Sam Marsden",
+      "audio": "https://www.buzzsprout.com/165697/1057500-sam-marsden-data-studio-for-seos-creating-bamf-dashboards-that-inform-persuade"
+    }
+  ]
+}
+

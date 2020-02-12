@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#1",
+  "date": "2017-10-19",
+  "talks" : [
+    {
+      "title": "SEO First-Steps 7 Must dos",
+      "speaker": "Andrew Martin",
+      "slides": "https://optimisey.com/wp-content/uploads/2017/10/SEO-First-Steps-7-Must-dos-andrew-martin.pdf"
+    },
+    {
+      "title": "How to do Onsite SEO",
+      "speaker": "Andrew Rayner",
+      "slides": "https://optimisey.com/wp-content/uploads/2017/10/How-to-do-Onsite-SEO.pdf"
+    }
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#14",
+  "date": "2019-11-21",
+  "talks" : [
+    {
+      "title": "The Secret Weapon that is Google Data Studio",
+      "speaker": "Daniel Cartland",
+      "video": "https://www.youtube.com/watch?v=o7wVN9JMRwI"
+    },
+    {
+      "title": "SEO Tactics You Can Implement Tonight",
+      "speaker": "Lukasz Zelezny",
+      "video": "https://www.youtube.com/watch?v=KofQYxY3BLE"
+    }
+  ]
+}
+

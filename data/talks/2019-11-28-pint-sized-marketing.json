@@ -1,0 +1,23 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "November",
+  "date": "2019-11-28",
+  "talks" : [
+    {
+      "title": "How Getting to Grips with APIs Will Make Your Life Easier",
+      "speaker": "Sam Nemzer",
+      "audio": "https://www.buzzsprout.com/165697/2206373-sam-nemzer-how-getting-to-grips-with-apis-will-make-your-life-easier"
+    },
+    {
+      "title": "Google As Your New Home Page - Optimising Google My Business in a No Click World",
+      "speaker": "Claire Carlile",
+      "audio": "https://www.buzzsprout.com/165697/2206331-claire-carlile-google-as-your-new-home-page-optimising-google-my-business-in-a-no-click-world"
+    },
+    {
+      "title": "A Repeatable Content Generation Process that Generated Over 100,000 Search Clicks in Less Than 12 Months",
+      "speaker": "Matthew Kay",
+      "audio": "https://www.buzzsprout.com/165697/2206367-matthew-kay-a-repeatable-content-generation-process-that-generated-over-100-000-search-clicks-in-less-than-12-months"
+    }
+  ]
+}
+

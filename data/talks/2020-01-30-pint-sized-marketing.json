@@ -1,0 +1,18 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "January",
+  "date": "2020-01-30",
+  "talks" : [
+    {
+      "title": "Tackling Python: What is it and How Can it Help with Technical SEO?",
+      "speaker": "Ruth Everett",
+      "slides": "https://www.slideshare.net/RuthEverett1/tackling-python-how-it-can-help-with-technical-seo-pint-sized-meetup-january-2020-ruth-everett"
+    },
+    {
+      "title": "How To Save Time In Digital PR: From Ideation to Outreach",
+      "speaker": "Sarah Fleming",
+      "slides": "https://www.slideshare.net/SarahFleming24/how-to-save-time-in-digital-pr-from-ideation-to-outreach-225843339/1"
+    }
+  ]
+}
+

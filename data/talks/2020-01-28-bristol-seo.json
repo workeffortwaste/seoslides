@@ -1,0 +1,18 @@
+{
+  "conference": "Bristol SEO",
+  "sub_title": "January",
+  "date": "2020-01-28",
+  "talks" : [
+    {
+      "title": "Technical SEO at Scale",
+      "speaker": "Hayden Roche",
+      "slides": "https://www.slideshare.net/haydenroche1/bristolseo-technical-seo-at-scale"
+    },
+    {
+      "title": "Data Studio and SEO",
+      "speaker": "Neil Clark",
+      "slides": "https://docs.google.com/presentation/d/1Pmmu8Taut102C-MlDfObMD9N7ZcIhsEBzN2IX2Ruepg/edit?usp=sharing"
+    }
+  ]
+}
+

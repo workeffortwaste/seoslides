@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#2",
+  "date": "2017-12-21",
+  "talks" : [
+    {
+      "title": "Voice Search 101",
+      "speaker": "Andrew Martin",
+      "slides": "https://optimisey.com/wp-content/uploads/2017/12/Voice-Search-101-Carolyn-Lyden-at-Optimisey.pdf"
+    },
+    {
+      "title": "How to do Onsite SEO",
+      "speaker": "Ellie Morgan & Luke Thomas",
+      "slides": "https://optimisey.com/wp-content/uploads/2017/12/SEO-audit-of-madetv.org-by-Optimisey.pdf"
+    }
+  ]
+}
+

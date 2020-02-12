@@ -1,0 +1,22 @@
+{
+  "conference": "ReadingSEO",
+  "sub_title": "May",
+  "date": "2019-05-30",
+  "talks" : [
+    {
+      "title": "Managing filters and facets on your e-commerce website",
+      "speaker": "Sean Butcher",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-30th-may-2019-162643901"
+    },{
+      "title": "Spying On Google: How To Use Log File Analysis To Reveal Invaluable SEO Insights",
+      "speaker": "Faisal Anderson",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-30th-may-2019-162643901"
+    },
+    {
+      "title": "How to use SEO tools to save time, money, & effort",
+      "speaker": "Daniel Cartland",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-30th-may-2019-162643901"
+    }
+  ]
+}
+

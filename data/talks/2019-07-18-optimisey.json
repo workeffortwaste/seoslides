@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#12",
+  "date": "2019-07-18",
+  "talks" : [
+    {
+      "title": "Media Relations for Link Building 101",
+      "speaker": "Jasmine Granton",
+      "video": "https://www.youtube.com/watch?v=xo2trBRkSvM"
+    },
+    {
+      "title": "The 3 Laws of SEO",
+      "speaker": "Jono Alderson",
+      "video": "https://www.youtube.com/watch?v=tTGUcMd6ct8"
+    }
+  ]
+}
+

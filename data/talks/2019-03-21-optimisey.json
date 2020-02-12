@@ -1,0 +1,20 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#10",
+  "date": "2019-03-21",
+  "talks" : [
+    {
+      "title": "SEO Revenue Growth with Your Discontinued Ecommerce Products",
+      "speaker": "Luke Carthy",
+      "video": "https://www.youtube.com/watch?v=w2jQLl20hYo"
+    },
+    {
+      "title": "How to do a Technical SEO Audit",
+      "speaker": "Barry Adams",
+      "slides": "https://optimisey.com/wp-content/uploads/2019/06/Optimisey-Tech-SEO-Audit-barry-adams.pdf",
+      "video": "https://youtu.be/OOTaHjM8DBg",
+      "recap": "https://optimisey.com/seo-advice/how-to-do-a-technical-seo-audit-barry-adams/"
+    }
+  ]
+}
+

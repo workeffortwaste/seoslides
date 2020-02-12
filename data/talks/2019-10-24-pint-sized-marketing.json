@@ -1,0 +1,22 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "October",
+  "date": "2019-10-24",
+  "talks" : [
+    {
+      "title": "The Psychology of Language and Online Persuasion - Tactics We Should Be Using For PR & Link Building",
+      "speaker": "Aoife O'Connor",
+      "audio": "https://www.buzzsprout.com/165697/1999924-aoife-o-connor-the-psychology-of-language-and-online-persuasion-tactics-we-should-be-using-for-pr-link-building"
+    },
+    {
+      "title": "Decoding The World's Second Largest Search Engine",
+      "speaker": "Danielle Clarke & Paul Carey"
+    },
+    {
+      "title": "How To Track Traffic Like A Champ",
+      "speaker": "Aiden Carroll",
+      "audio": "https://www.buzzsprout.com/165697/1999885-aiden-carroll-how-to-track-traffic-like-a-champ"
+    }
+  ]
+}
+

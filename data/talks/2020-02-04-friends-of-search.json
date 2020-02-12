@@ -1,0 +1,17 @@
+{
+  "conference": "Friends of Search",
+  "date": "2020-02-04",
+  "talks" : [
+    {
+      "title": "How To Gain SEO Traffic In A Zero-Click World",
+      "speaker": "Cindy Krum",
+      "video": "https://www.loom.com/share/46bd55309b9042d8aee443775162bff5"
+    },
+    {
+      "title": "Connecting The Probably Dots In Entity Oriented Search And Natural Language Understanding",
+      "speaker": "Dawn Anderson",
+      "slides": "https://www.slideshare.net/DawnFitton/disambiguating-equiprobability-in-seo-dawn-anderson-friends-of-search-2020"
+    }
+  ]
+}
+

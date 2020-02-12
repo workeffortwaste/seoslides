@@ -1,0 +1,22 @@
+{
+  "conference": "ReadingSEO",
+  "sub_title": "September",
+  "date": "2019-09-05",
+  "talks" : [
+    {
+      "title": "Using Google Data Studio and Big Query to create your own SEO tools and reporting",
+      "speaker": "Nick Wilsdon",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-5th-september-2019"
+    },{
+      "title": "Product Image Optimisation",
+      "speaker": "Roxana Stingu",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-5th-september-2019"
+    },
+    {
+      "title": "The rise of 'pre-search': tips for optimising for Google Discover",
+      "speaker": "Luci Wood",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-5th-september-2019"
+    }
+  ]
+}
+

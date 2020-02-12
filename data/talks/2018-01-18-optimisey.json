@@ -1,0 +1,22 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#3",
+  "date": "2018-01-18",
+  "talks" : [
+    {
+      "title": "How can UX design affect your SEO?",
+      "speaker": "Kamil Kuczynski & Nick Duffield",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/01/kamil-kuczynski-nick-duffield-ux-seo-optimisey.pdf",
+      "video": "https://youtu.be/SToG2fxcaYE",
+      "recap": "https://optimisey.com/seo-advice/how-can-ux-design-affect-your-seo/"
+    },
+    {
+      "title": "Hat vs. Black Hat SEO",
+      "speaker": "Craig Campbell",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/01/craig-campbell-black-hat-white-hat-seo-optimisey.pdf",
+      "video": "https://youtu.be/vjCt_qE1b0Q",
+      "recap": "https://optimisey.com/seo-advice/black-hat-vs-white-hat-seo/"
+    }
+  ]
+}
+

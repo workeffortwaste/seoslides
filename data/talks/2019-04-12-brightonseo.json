@@ -1,0 +1,487 @@
+{
+  "conference": "BrightonSEO",
+  "sub_title": "April",
+  "date": "2019-04-12",
+  "talks" : [
+    {
+      "title": "Driving *meaningful* clicks with enriched SERPs",
+      "speaker": "Izzi Smith",
+      "slides": "https://www.slideshare.net/IsobelSmith10/driving-meaningful-clicks-with-enriched-serps-brightonseo-2019",
+      "audio": "https://brightonseo.libsyn.com/izzi-smith-driving-meaningful-clicks-with-enriched-serps"
+    },
+    {
+      "title": "Featured Snippets – the achievable SERP feature?",
+      "speaker": "Emily Potter",
+      "slides": "https://www.slideshare.net/EmilyPotter7/emily-potter-brighton-seo-2019-slideshare",
+      "audio": "https://brightonseo.libsyn.com/emily-potter-featured-snippets-the-achievable-serp-feature"
+    },
+    {
+      "title": "A Structured Data Case Study: How to Make Your Websites Stand Out in Search",
+      "speaker": "Kenichi Suzuki",
+      "slides": "https://drive.google.com/file/d/1IOCmpmDIHZOpIQ4_0lPvY_6M5u5ZfiXa/view",
+      "audio": "https://brightonseo.libsyn.com/kenichi-suzuki-a-structured-data-case-study-how-to-make-your-websites-stand-out-in-search"
+    },
+    {
+      "title": "Speed & Performance Optimisation: How to Meet Users’ High Expectations",
+      "speaker": "Rachel Costello",
+      "slides": "https://www.slideshare.net/DeepCrawl/speed-performance-optimisation-how-to-meet-users-high-expectations-rachel-costello-technical-seo-content-manager-at-deepcrawl-140328199",
+      "audio": "https://brightonseo.libsyn.com/rachel-costello-speed-performance-optimisation-how-to-meet-users-high-expectations"
+    },
+    {
+      "title": "How to get a 100% Lighthouse performance score",
+      "speaker": "Polly Pospelova",
+      "slides": "https://www.slideshare.net/PollyPospelova/how-to-get-a-100-lighthouse-performance-score",
+      "audio": "https://brightonseo.libsyn.com/polly-pospelova-how-to-get-a-100-lighthouse-performance-score"
+    },
+    {
+      "title": "How to Trim JS, CSS and External Stuff to Slim Down and Speed up your Site",
+      "speaker": "Chris Simmance",
+      "slides": "https://drive.google.com/file/d/1-3wUy80TwsfSOXpdTlQ4jeFc9_6a5tVy/view",
+      "audio": "https://brightonseo.libsyn.com/chris-simmance-how-to-trim-js-css-and-external-stuff-to-slim-down-and-speed-up-your-site"
+    },
+    {
+      "title": "Small Biz Small Budget – 10 Do’s and 5 Don’ts for Local SEO Success",
+      "speaker": "Claire Carlile",
+      "slides": "https://www.clairecarlilemarketing.com/brighton-seo/",
+      "audio": "https://brightonseo.libsyn.com/claire-carlile-small-biz-small-budget-10-dos-and-5-donts-for-local-seo-success"
+    },
+    {
+      "title": "Can You Rank in Local Without a Website?",
+      "speaker": "Darren Shaw",
+      "slides": "https://www.slideshare.net/darrenshaw1/darren-shaw-brightonseo-2019-can-you-rank-in-local-without-a-website",
+      "audio": "https://brightonseo.libsyn.com/darren-shaw-can-you-rank-in-local-without-a-website"
+    },
+    {
+      "title": "Harry and Lloyd’s Idiot Proof Guide to GMB Optimization",
+      "speaker": "Greg Gifford",
+      "slides": "https://www.slideshare.net/GregGifford/harry-and-lloyds-idiotproof-guide-to-gmb-optimization",
+      "audio": "https://brightonseo.libsyn.com/greg-gifford-harry-and-lloyds-idiot-proof-guide-to-gmb-optimization"
+    },
+    {
+      "title": "8 Ways to Increase your Ecommerce Conversion Rate",
+      "speaker": "Faye Watt",
+      "slides": "https://edicomedia.com/blog/60/8-ways-increase-your-ecommerce-conversion-rate-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/faye-watt-8-ways-to-increase-your-ecommerce-conversion-rate"
+    },
+    {
+      "title": "Black Friday SEO: where and when to start, quick wins and top tips",
+      "speaker": "Alexandra Coutts",
+      "slides": "https://www.slideshare.net/Thoughtshift/how-to-maximise-your-ecommerce-revenue-over-black-friday-by-alexandra-coutts",
+      "audio": "https://brightonseo.libsyn.com/alexandra-coutts-black-friday-seo-where-and-when-to-start-quick-wins-and-top-tips"
+    },
+    {
+      "title": "Social Proof and Leveraging the Power of Consumers",
+      "speaker": "Justin Clarke",
+      "slides": "https://business.psydro.com/business-blog/brighton-seo-social-proof-leveraging-power-consumers/",
+      "audio": "https://brightonseo.libsyn.com/justin-clarke-social-proof-and-leveraging-the-power-of-consumers"
+    },
+    {
+      "title": "Big budget video advertising on a small business budget",
+      "speaker": "Phil Nottingham",
+      "slides": "https://www.slideshare.net/philnottingham/big-brand-video-advertising-on-a-small-business-budget",
+      "audio": "https://brightonseo.libsyn.com/phil-nottingham-big-budget-video-advertising-on-a-small-business-budget"
+    },
+    {
+      "title": "LMFAO: Leveraging Machines for Awesome Outreach",
+      "speaker": "Gareth Simpson",
+      "audio": "https://brightonseo.libsyn.com/gareth-simpson-lmfao-leveraging-machines-for-awesome-outreach"
+    },
+    {
+      "title": "The Art of Content Necromancy: How to Resurrect a Dead Campaign",
+      "speaker": "Kat Kynes",
+      "slides": "https://www.slideshare.net/KatKynes/the-art-of-content-necromancy-how-to-resurrect-a-dead-campaign",
+      "audio": "https://brightonseo.libsyn.com/kat-kynes-the-art-of-content-necromancy-how-to-resurrect-a-dead-campaign"
+    },
+    {
+      "title": "Google Smart bidding: How to train your algorithm",
+      "speaker": "Kian Njie",
+      "slides": "https://www.slideshare.net/KianNjie1/brighton-seo-2019-how-to-train-your-algorithm",
+      "audio": "https://brightonseo.libsyn.com/kian-njie-account-structure-in-an-ai-world"
+    },
+    {
+      "title": "Land Grab: How to win business from your competitors with Google PPC",
+      "speaker": "Tanesha Stafford",
+      "slides": "https://www.slideshare.net/TaneshaMarieStafford/land-grabhow-to-win-business-from-your-competitors",
+      "audio": "https://brightonseo.libsyn.com/tanesha-stafford-land-grab-how-to-win-business-from-your-competitors-with-google-ppc"
+    },
+    {
+      "title": "The importance of tagging when it comes to reporting and optimising in paid search",
+      "speaker": "Charlotte Self",
+      "audio": "https://brightonseo.libsyn.com/charlotte-self-the-importance-of-tagging-when-it-comes-to-reporting-and-optimising-in-paid-search"
+    },
+    {
+      "title": "Embrace WeChat Marketing",
+      "speaker": "Christina Xu",
+      "slides": "https://www.slideshare.net/ChristinaXu1/embrace-wechat-marketing",
+      "audio": "https://brightonseo.libsyn.com/christina-xu-embrace-wechat-marketing"
+    },
+    {
+      "title": "Harnessing the Russian digital opportunity",
+      "speaker": "Anna Milburn",
+      "slides": "https://www.slideshare.net/AnnaMilburn/harnessing-the-russian-digital-opportunity-anna-milburn-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/anna-milburn-harnessing-the-russian-digital-opportunity"
+    },
+    {
+      "title": "Maximising Your Media Through SEO – How To Drive More From Your ATL Campaigns",
+      "speaker": "Ric Rodriguez",
+      "slides": "https://www.slideshare.net/RicRodriguez1/maximising-media-through-seo-how-to-drive-more-from-you-atl-campaigns-ric-rodriguez-brighton-seo-2019",
+      "audio": "https://brightonseo.libsyn.com/ric-rodriguez-maximising-your-media-through-seo-how-to-drive-more-from-your-atl-campaigns"
+    },
+    {
+      "title": "Corvidae: Identifying new customer acquisition opportunities",
+      "speaker": "Ross Paton",
+      "slides": "https://resources.queryclick.com/queryclick-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/ross-paton-corvidae-identifying-new-customer-acquisition-opportunities"
+    },
+    {
+      "title": "How to drive content marketing success",
+      "speaker": "Irma Hunkeler & Edward Trippier",
+      "slides": "https://www.slideshare.net/EdwardTrippier/how-to-drive-content-marketing-success",
+      "audio": "https://brightonseo.libsyn.com/irma-hunkeler-edward-trippier-how-to-drive-content-marketing-success"
+    },
+    {
+      "title": "Improve your Rankings with Internal Link Building, and no headaches",
+      "speaker": "Christoph C. Cemper",
+      "audio": "https://brightonseo.libsyn.com/christoph-cemper-improve-your-rankings-with-internal-link-building-and-no-headaches"
+    },
+    {
+      "title": "Why I adore Sitemaps, an ex-Google engineer’s love story",
+      "speaker": "Fili Wiese",
+      "audio": "https://brightonseo.libsyn.com/fili-wiese-why-i-adore-sitemaps-an-ex-google-engineers-love-story"
+    },
+    {
+      "title": "Building an SEO Exponential Growth model by Closing Your Content Gaps",
+      "speaker": "Razvan Gavrilas",
+      "slides": "https://www.slideshare.net/razvan_gavrilas/building-an-seo-exponential-growth-model-by-closing-your-content-gaps",
+      "audio": "https://brightonseo.libsyn.com/razvan-gavrilas-building-an-seo-exponential-growth-model-by-closing-your-content-gaps"
+    },
+    {
+      "title": "Search Presence Intelligence – Where Search Meets Business Intelligence",
+      "speaker": "Stephan Bajaio",
+      "slides": "https://spaces.hightail.com/receive/hUMyaFtOZ3/c3RlcGhhbkBjb25kdWN0b3IuY29t",
+      "audio": "https://brightonseo.libsyn.com/stephan-bajaio-search-presence-intelligence-where-search-meets-business-intelligence"
+    },
+    {
+      "title": "Why UX is SEO’s best friend",
+      "speaker": "Luke Hay & Michelle Wilding-Baker",
+      "slides": "https://www.slideshare.net/MichelleWilding1/brightonseo-why-ux-is-seos-best-friend-12th-april-2019-140567347",
+      "audio": "https://brightonseo.libsyn.com/michelle-wilding-baker-why-ux-is-seos-best-friend"
+    },
+    {
+      "title": "Uncovering SERPs: What happens in search right now and how to benefit from it",
+      "speaker": "Olga Andrienko",
+      "audio": "https://brightonseo.libsyn.com/olga-andrienko-uncovering-serps-what-happens-in-search-right-now-and-how-to-benefit-from-it"
+    },
+    {
+      "title": "Using Google Tag Manager to send Scroll Depth and YouTube view measurements to Analytics",
+      "speaker": "Azeem Ahmad",
+      "slides": "https://www.slideshare.net/Azeem_Ahmad20/brightonseo-2019-azeem-ahmad-using-google-tag-manager-to-send-scroll-depth-and-youtube-view-measurements-to-google-analytics",
+      "audio": "https://brightonseo.libsyn.com/azeem-ahmad-using-google-tag-manager-to-send-scroll-depth-and-youtube-view-measurements-to-analytics"
+    },
+    {
+      "title": "Changing the game with Supermetrics",
+      "speaker": "Sam Caesar",
+      "slides": "https://www.sleepinggiantmedia.co.uk/giant-brighton-seo/#utm_source=event&utm_medium=brightonseo&utm_content=brightonseoslidedownload",
+      "audio": "https://brightonseo.libsyn.com/sam-caesar-changing-the-game-with-supermetrics"
+    },
+    {
+      "title": "Restructuring Websites to Improve Indexability",
+      "speaker": "Areej AbuAli",
+      "slides": "https://www.slideshare.net/areejabuali/restructuring-websites-to-improve-indexability-140072104",
+      "audio": "https://brightonseo.libsyn.com/areej-abuali-restructuring-websites-to-improve-indexability"
+    },
+    {
+      "title": "Simple ways to visualise your crawl data with no coding knowledge required",
+      "speaker": "Anders Riise Koch",
+      "slides": "https://www.slideshare.net/AndersRiiseKoch/simple-ways-to-visualise-crawl-data-with-no-coding-knowledge-required-brightonseo-april-2019/1",
+      "audio": "https://brightonseo.libsyn.com/anders-riise-koch-simple-ways-to-visualise-your-crawl-data-with-no-coding-knowledge-required"
+    },
+    {
+      "title": "Crawl Budget is dead, please welcome Rendering Budget",
+      "speaker": "Robin Eisenberg",
+      "slides": "https://www.slideshare.net/BotifySEO/brightonseo-2019-crawl-budget-is-dead-please-welcome-rendering-budget",
+      "audio": "https://brightonseo.libsyn.com/robin-eisenberg-crawl-budget-is-dead-please-welcome-rendering-budget"
+    },
+    {
+      "title": "Why we all should stop ignoring Bing",
+      "speaker": "Julia Logan",
+      "slides": "http://www.irishwonder.com/blog/2019/04/15/why-we-should-stop-ignoring-bing-my-brightonseo-talk/",
+      "audio": "https://brightonseo.libsyn.com/julia-logan-why-we-all-should-stop-ignoring-bing"
+    },
+    {
+      "title": "Voice Visibility: Tracking voice results on Alexa & Google",
+      "speaker": "Steff Preyer",
+      "slides": "https://www.slideshare.net/StephaniePreyer/voice-optimisation-tracking-voice-results-on-alexa-and-google",
+      "audio": "https://brightonseo.libsyn.com/steff-preyer-voice-visibility-tracking-voice-results-on-alexa-google"
+    },
+    {
+      "title": "Using data science to work smarter, not harder in PPC",
+      "speaker": "Duncan Sills"
+    },
+    {
+      "title": "Become a Local Hero: PPC Tips to Boss Your Neighbourhood",
+      "speaker": "Oliver Ewbank",
+      "slides": "https://www.slideshare.net/OliverEwbank/oliver-ewbank-become-a-local-hero-ppc-tips-to-boss-your-neighbourhood-140211902/",
+      "audio": "https://brightonseo.libsyn.com/oliver-ewbank-become-a-local-hero-ppc-tips-to-boss-your-neighbourhood"
+    },
+    {
+      "title": "Killer Competitor Content Research and Strategy",
+      "speaker": "Lana Burgess",
+      "slides": "http://lanaburgess.com/content-marketing/brighton-seo-killer-competitor-content-research-and-strategy/",
+      "audio": "https://brightonseo.libsyn.com/lana-burgess-killer-competitor-content-research-and-strategy"
+    },
+    {
+      "title": "How to Marie Kondo your SEO",
+      "speaker": "Rebekah Dunne",
+      "slides": "https://www.slideshare.net/RebekahDunne/how-to-marie-kondo-your-seo",
+      "audio": "https://brightonseo.libsyn.com/rebekah-dunne-maximising-your-media-through-seo-how-to-drive-more-from-your-atl-campaigns"
+    },
+    {
+      "title": "5 Time-Saving SEO Alerts to Use Right Now",
+      "speaker": "Marco Bonomo",
+      "slides": "https://www.slideshare.net/MarcoBonomo4/5-timesaving-seo-alerts-to-use-right-now-brightonseo-2019",
+      "audio": "https://brightonseo.libsyn.com/marco-bonomo-5-time-saving-seo-alerts-to-use-right-now"
+    },
+    {
+      "title": "100 million keywords. Now what?!",
+      "speaker": "Alen-Jelco Todorov",
+      "audio": "https://brightonseo.libsyn.com/alen-jelco-todorov-100-million-keywords-now-what"
+    },
+    {
+      "title": "Competitor Analysis: A Scientific Method",
+      "speaker": "Paola Didone",
+      "audio": "https://brightonseo.libsyn.com/paola-didone-competitor-analysis-a-scientific-method"
+    },
+    {
+      "title": "How you should build your new detail content strategy based on SERP and competitive analysis",
+      "speaker": "Alexandre Sigoigne",
+      "slides": "https://www.slideshare.net/myposeo/build-seo-content-strategy-based-on-serp-and-competitive-analysis-brighton-2019-talk-140846440",
+      "audio": "https://brightonseo.libsyn.com/alexandre-sigoigne-how-you-should-build-your-new-etail-content-strategy-based-on-serp-and-competitive-analysis"
+    },
+    {
+      "title": "Podcasting for subscribers, mentions and really big links",
+      "speaker": "Corinne Card",
+      "slides": "https://www.slideshare.net/CorinneCard/corinne-card-brightonseo-2019-podcasting-for-subscribers-mentions-and-really-big-links",
+      "audio": "https://brightonseo.libsyn.com/corinne-card-podcasting-for-subscribers-mentions-and-really-big-links"
+    },
+    {
+      "title": "Standing out online with a unique and compelling brand voice",
+      "speaker": "Bethany Joy",
+      "slides": "http://bethanyjoy.org/brightonseo/",
+      "audio": "https://brightonseo.libsyn.com/bethany-joy-standing-out-online-with-a-unique-and-compelling-brand-voice"
+    },
+    {
+      "title": "The Content Comeback: 5 Steps for Bouncing Back When Your Campaign Fails",
+      "speaker": "Shannon McGuirk",
+      "slides": "https://www.slideshare.net/ShannonMcGuirk/the-content-comeback-brightonseo-140481770",
+      "audio": "https://brightonseo.libsyn.com/shannon-mcguirk-the-content-comeback-5-steps-for-bouncing-back-when-your-campaign-fails"
+    },
+    {
+      "title": "How to Make Fake News For Links",
+      "speaker": "Oliver Brett",
+      "slides": "https://www.slideshare.net/OliverBrett/how-to-make-fake-news-for-links",
+      "audio": "https://brightonseo.libsyn.com/oliver-brett-how-to-make-fake-news-for-links"
+    },
+    {
+      "title": "10 tips to scale link building for your clients!",
+      "speaker": "Sam Morton",
+      "slides": "https://www.slideshare.net/SamMorton6/sam-morton-10-tips-to-scale-link-building-for-your-clients",
+      "audio": "https://brightonseo.libsyn.com/sam-morton-10-tips-to-scale-link-building-for-your-clients"
+    },
+    {
+      "title": "Gamification: Link building in a Fortnite",
+      "speaker": "Becky Simms",
+      "slides": "https://www.reflectdigital.co.uk/blog/gamification-brightonseo-19",
+      "audio": "https://brightonseo.libsyn.com/becky-simms-gamification-link-building-in-a-fortnite"
+    },
+    {
+      "title": "Living on the Edge: Elevating your SEO toolkit to the CDN",
+      "speaker": "Nils De Moor",
+      "slides": "https://www.slideshare.net/ndemoor/living-on-the-edge-elevating-your-seo-toolkit-to-the-cdn",
+      "audio": "https://brightonseo.libsyn.com/nils-de-moor-living-on-the-edge-elevating-your-seo-toolkit-to-the-cdn"
+    },
+    {
+      "title": "How To Use Chrome Puppeteer to Fake Googlebot & Monitor Your Site",
+      "speaker": "Tom Pool",
+      "slides": "https://www.slideshare.net/TomPool/brightonseo-april-2019-tom-pool-chrome-puppeteer-fake-googlebot-monitor-your-site",
+      "audio": "https://brightonseo.libsyn.com/tom-pool-how-to-use-chrome-puppeteer-to-fake-googlebot-monitor-your-site"
+    },
+    {
+      "title": "CLI Automation – Using the Command Line to Automate Repetitive Tasks",
+      "speaker": "Mike Osolinski",
+      "slides": "https://www.slideshare.net/MikeOsolinski/command-line-automation-for-repetitive-tasks",
+      "audio": "https://brightonseo.libsyn.com/mike-osolinski-cli-automation-using-the-command-line-to-automate-repetitive-tasks"
+    },
+    {
+      "title": "Leveraging E-A-T for SEO Success",
+      "speaker": "Lily Ray",
+      "slides": "https://www.pathinteractive.com/blog/seo/lily-ray-at-brighton-seo-leveraging-e-a-t-for-seo-success/",
+      "audio": "https://brightonseo.libsyn.com/lily-ray-leveraging-e-a-t-for-seo-success"
+    },
+    {
+      "title": "6 Things Your Boss Expects You Should Know About SEO",
+      "speaker": "Lukasz Zelezny",
+      "audio": "https://brightonseo.libsyn.com/lukasz-zelezny-6-things-your-boss-expects-you-should-know-about-seo"
+    },
+    {
+      "title": "How to Repurpose Existing Content to Help your Strategy",
+      "speaker": "Coral Luck",
+      "slides": "https://www.slideshare.net/coraleva93/how-to-repurpose-existing-content-to-help-with-your-strategy-brightonseo-april-2019-coral-luck",
+      "audio": "https://brightonseo.libsyn.com/coral-luck-how-to-repurpose-existing-content-to-help-your-strategy"
+    },
+    {
+      "title": "Search vs. Bureaucracy: How to Stand Up an Organic Search Program for Your Client",
+      "speaker": "Heather Physioc",
+      "audio": "https://brightonseo.libsyn.com/heather-physioc-search-vs-bureaucracy-how-to-stand-up-an-organic-search-program-for-your-client"
+    },
+    {
+      "title": "Retaining Struggling Clients: How To Rebuild Trust",
+      "speaker": "Laura Hogan",
+      "slides": "https://www.slideshare.net/LauraHogan1/retaining-clients-winning-back-their-trust",
+      "audio": "https://brightonseo.libsyn.com/laura-hogan-retaining-struggling-clients-how-to-rebuild-trust"
+    },
+    {
+      "title": "Efficiency in the workplace: Mindset mastery and meditation",
+      "speaker": "Briony Gunson",
+      "slides": "https://www.slideshare.net/EllaGunson/efficiency-in-the-workplace-mindset-mastery-and-meditation-brightonseo-2019-pole-star-digital",
+      "audio": "https://brightonseo.libsyn.com/briony-gunson-efficiency-in-the-workplace-mindset-mastery-and-meditation"
+    },
+    {
+      "title": "The impact of translation on SEO and how they can work together",
+      "speaker": "Valentine Lacour",
+      "slides": "https://www.slideshare.net/ValentineLacour/brighton-seo-the-impact-of-translation-on-seo",
+      "audio": "https://brightonseo.libsyn.com/valentine-lacour-the-impact-of-translation-on-seo-and-how-they-can-work-together"
+    },
+    {
+      "title": "Why hreflang is crucial to international SEO success",
+      "speaker": "Mauro Cattaneo",
+      "slides": "https://www.slideshare.net/MauroCattaneo5/why-hreflang-is-crucial-to-international-seo-success-mauro-cattaneo-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/mauro-cattaneo-why-hreflang-is-crucial-to-international-seo-success"
+    },
+    {
+      "title": "Why Google isn’t giving update advice anymore",
+      "speaker": "John Warner",
+      "slides": "https://www.slideshare.net/JohnWarner16/john-warner-why-google-isnt-giving-update-advice-anymore",
+      "audio": "https://brightonseo.libsyn.com/john-warner-why-google-isnt-giving-update-advice-anymore"
+    },
+    {
+      "title": "Perfect outcomes: Rapid prototyping and experience testing improves everything!",
+      "speaker": "Justin Taylor",
+      "slides": "https://www.slideshare.net/JustinGraphitas/brightonseo-perfect-outcomes-create-amazing-websites-10x-faster-with-rapid-prototyping-140739311",
+      "audio": "https://brightonseo.libsyn.com/justin-taylor-perfect-outcomes-create-amazing-websites-10x-faster-with-rapid-prototyping"
+    },
+    {
+      "title": "The Seedy Underbelly of Keyword Research and Search Intent",
+      "speaker": "Mark Osborne",
+      "slides": "https://www.slideshare.net/MarkOsborne41/mark-osborne-brighton-seo-april-2019-the-seedy-underbelly-of-keyword-research-and-search-intent/1",
+      "audio": "https://brightonseo.libsyn.com/mark-osborne-the-seedy-underbelly-of-keyword-research-and-search-intent"
+    },
+    {
+      "title": "Huge SEO success stories and what we can learn from them",
+      "speaker": "Marcus Tober",
+      "audio": "https://brightonseo.libsyn.com/marcus-tober-huge-seo-success-stories-and-what-we-can-learn-from-them"
+    },
+    {
+      "title": "How to Drive Big Site SEO Impact in Google’s New, Linkless Algorithm",
+      "speaker": "Chris Liversidge",
+      "slides": "https://resources.queryclick.com/queryclick-brighton-seo",
+      "audio": "https://brightonseo.libsyn.com/chris-liversidge-how-to-drive-big-site-seo-impact-in-googles-new-linkless-algorithm"
+    },
+    {
+      "title": "Forget Alexa, The Voice Search Devices Of The Future",
+      "speaker": "Patrick Reinhart",
+      "slides": "https://www.slideshare.net/PatrickReinhart",
+      "audio": "https://brightonseo.libsyn.com/patrick-reinhart-forget-alexa-the-voice-search-devices-of-the-future"
+    },
+    {
+      "title": "Sexy AF SEO Revenue Growth with Your Discontinued Products",
+      "speaker": "Luke Carthy",
+      "audio": "https://brightonseo.libsyn.com/luke-carthy-how-to-bag-sexy-af-seo-revenue-growth-with-your-discontinued-products"
+    },
+    {
+      "title": "The State of Pagination and Infinite Scroll on the Web",
+      "speaker": "Adam Gent",
+      "slides": "https://www.slideshare.net/AdamGent3/the-state-of-the-web-pagination-and-infinite-scroll",
+      "audio": "https://brightonseo.libsyn.com/adam-gent-the-state-of-pagination-and-infinite-scroll-on-the-web"
+    },
+    {
+      "title": "Predicting the Impact of Technical SEO changes",
+      "speaker": "François Goube",
+      "slides": "https://www.slideshare.net/OnCrawl/predict-the-impact-of-technical-seo-changes-brightonseo",
+      "audio": "https://brightonseo.libsyn.com/franois-goube-predicting-the-impact-of-technical-seo-changes"
+    },
+    {
+      "title": "How to protect your online reputation: Lessons from the FTSE 100",
+      "speaker": "Alex Judd",
+      "slides": "https://www.grayling.com/global/en/insight/how_to_manage_your_online_reputation",
+      "audio": "https://brightonseo.libsyn.com/alex-judd-how-to-protect-your-online-reputation-lessons-from-the-ftse-100"
+    },
+    {
+      "title": "The killer outreach email that gets opened, replied to and mainly gains links",
+      "speaker": "Hana Bednarova",
+      "slides": "https://www.slideshare.net/HanaBednarova1/brightonseo-april-deck-hana-bednarova",
+      "audio": "https://brightonseo.libsyn.com/hana-bednarova-the-killer-outreach-email-that-gets-opened-replied-to-and-mainly-gains-links"
+    },
+    {
+      "title": "How to pitch an idea your client/boss can’t say no to",
+      "speaker": "Chris Lee",
+      "slides": "https://www.slideshare.net/SilFinch/brightonseo-how-to-pitch-and-idea-your-clientboss-cannot-say-no-to",
+      "audio": "https://brightonseo.libsyn.com/chris-lee-content-marketing-fundamentals"
+    },
+    {
+      "title": "The Circle of Trust: SEO Data",
+      "speaker": "Matthew Brown",
+      "slides": "https://www.slideshare.net/MatthewBrownPDX/seo-data-the-circle-of-trust",
+      "audio": "https://brightonseo.libsyn.com/matthew-brown-the-circle-of-trust-seo-data"
+    },
+    {
+      "title": "Turning Your Data Into Compelling Stories",
+      "speaker": "Jeroen Maljers",
+      "slides": "https://www.slideshare.net/Swydo2/turning-your-data-into-compelling-stories-brightonseo-april-2019/",
+      "audio": "https://brightonseo.libsyn.com/jeroen-maljers-turning-your-data-into-compelling-stories"
+    },
+    {
+      "title": "Why data science analysis is better than YOUR analysis",
+      "speaker": "George Karapalidis",
+      "slides": "https://www.slideshare.net/GeorgeKarapalidisMBA/why-data-science-analysis-in-better-than-yours",
+      "audio": "https://brightonseo.libsyn.com/george-karapalidis-why-data-science-analysis-is-better-than-your-analysis"
+    },
+    {
+      "title": "Screaming Frog + Xpath: A Guide to Analyse the Pants Off Your Competition",
+      "speaker": "Sabine Langmann",
+      "slides": "https://www.slideshare.net/SabineLangmann/screaming-frog-xpath-brightonseo-april-2019-140573074",
+      "audio": "https://brightonseo.libsyn.com/sabine-langmann-screaming-frog-xpath-a-guide-to-analyse-the-pants-off-your-competition"
+    },
+    {
+      "title": "Automate your SEO tasks with custom extraction",
+      "speaker": "Max Coupland",
+      "slides": "https://typeamedia.net/blog/automate-your-seo-tasks-with-custom-extraction-brightonseo/",
+      "audio": "https://brightonseo.libsyn.com/max-coupland-automate-your-seo-tasks-with-custom-extraction"
+    },
+    {
+      "title": "Bringing the fun back to SEO with Python",
+      "speaker": "Benjamin Goerler",
+      "slides": "https://www.slideshare.net/secret/w2tIHfAe0r0QDE",
+      "audio": "https://brightonseo.libsyn.com/benjamin-goerler-bringing-the-fun-back-to-seo-with-python"
+    },
+    {
+      "title": "How to tell if there’s a demand to launch your business overseas",
+      "speaker": "James Brown",
+      "slides": "https://www.slideshare.net/OBAN-IDForum/how-to-tell-if-theres-demand-to-launch-your-business-overseas-brightonseo-april-2019-james-brown",
+      "audio": "https://brightonseo.libsyn.com/james-brown-how-to-tell-if-theres-a-demand-to-launch-your-business-overseas"
+    },
+    {
+      "title": "How to measure the value of generic keyword success",
+      "speaker": "Timothy Hawes & John Sadeghipoor",
+      "slides": "https://drive.google.com/file/d/1FH8Ah7xJGu_ZAEy1c_km_FnDhYZUcCln/view",
+      "audio": "https://brightonseo.libsyn.com/timothy-hawes-john-sadeghipoor-how-to-measure-the-value-of-generic-keyword-success"
+    },
+    {
+      "title": "Using data to keep your customers happy",
+      "speaker": "Eli Zheleva",
+      "slides": "https://www.slideshare.net/Feefo_Official/brighton-seo-2019-using-data-to-keep-your-customers-happy-eli-zheleva",
+      "audio": "https://brightonseo.libsyn.com/eli-zheleva-using-data-to-keep-your-customers-happy"
+    }
+  ]
+}
+

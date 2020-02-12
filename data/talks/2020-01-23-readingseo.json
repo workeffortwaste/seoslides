@@ -1,0 +1,25 @@
+{
+  "conference": "ReadingSEO",
+  "sub_title": "January",
+  "date": "2020-01-23",
+  "talks" : [
+    {
+      "title": "Nice down vs Numbers up!",
+      "speaker": "Karen Julia",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-23rd-january",
+      "recap" : "https://www.bluearray.co.uk/news/conferences/readingseo-roundup-january-2020/"
+    },{
+      "title": "In House vs Agency. Fight?!",
+      "speaker": "Natalie Arney",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-23rd-january",
+      "recap" : "https://www.bluearray.co.uk/news/conferences/readingseo-roundup-january-2020/"
+    },
+    {
+      "title": "Standing on the shoulders of giants: beating the big companies at SEO",
+      "speaker": "Helen Pollitt",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/readingseo-master-deck-23rd-january",
+      "recap" : "https://www.bluearray.co.uk/news/conferences/readingseo-roundup-january-2020/"
+    }
+  ]
+}
+

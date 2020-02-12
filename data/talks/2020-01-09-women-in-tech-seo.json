@@ -1,0 +1,23 @@
+{
+  "conference": "Women In Tech SEO",
+  "sub_title": "January Meetup",
+  "date": "2020-01-09",
+  "talks" : [
+    {
+      "title": "Tech SEO Horror Stories",
+      "speaker": "Helen Pollitt",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meetup-6/"
+    },
+    {
+      "title": "TALK FAST, DRINK COFFEE, OPTIMISE IMAGES",
+      "speaker": "Rebekah Dunne",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meetup-6/"
+    },
+    {
+      "title": "Information Architecture Methodologies",
+      "speaker": "Naomi Sanderson",
+      "recap": "https://weareroast.com/news/women-in-tech-seo-meetup-6/"
+    }
+  ]
+}
+

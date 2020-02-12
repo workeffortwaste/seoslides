@@ -1,0 +1,23 @@
+{
+  "conference": "Pint-Sized Marketing",
+  "sub_title": "January",
+  "date": "2019-01-28",
+  "talks" : [
+    {
+      "title": "The Death of 'SEO Content'",
+      "speaker": "Clark Boyd",
+      "audio": "https://www.buzzsprout.com/165697/969731-clark-boyd-the-death-of-seo-content"
+    },
+    {
+      "title": "Tactics for Landing Big Links on Low Budgets",
+      "speaker": "Shannon McGuirk",
+      "audio": "https://www.buzzsprout.com/165697/934098-shannon-mcguirk-tactics-for-landing-big-links-on-low-budgets"
+    },
+    {
+      "title": "How to Earn Links with Incentivised Guest Posting",
+      "speaker": "Danny Richman",
+      "audio": "https://www.buzzsprout.com/165697/969739-danny-richman-how-to-earn-links-with-incentivised-guest-posting"
+    }
+  ]
+}
+

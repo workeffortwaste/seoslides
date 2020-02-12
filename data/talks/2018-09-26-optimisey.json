@@ -1,0 +1,22 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#7",
+  "date": "2018-09-26",
+  "talks" : [
+    {
+      "title": "Optimising Onsite Search",
+      "speaker": "JP Sherman",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/10/Onsite-Search-Presentation-Optimisey-JP-Sherman.pptx",
+      "video": "https://youtu.be/vVOipLaoR20",
+      "recap": "https://optimisey.com/seo-advice/optimise-your-on-site-search-jp-sherman/"
+    },
+    {
+      "title": "Google’s Quality Raters’ Guidelines",
+      "speaker": "Marie Haynes",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/10/google-quality-raters-guidelines-marie-haynes-optimisey.pdf",
+      "video": "https://youtu.be/iReQtzFqEMs",
+      "recap": "https://optimisey.com/seo-advice/googles-quality-raters-guidelines-marie-haynes/"
+    }
+  ]
+}
+

@@ -1,0 +1,22 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#5",
+  "date": "2018-05-17",
+  "talks" : [
+    {
+      "title": "Killing Giants: How to beat the blue chips in search",
+      "speaker": "Ross Tavendale",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/05/Ross-Tavendale-Killing-Giants-Optimisey-Slides.pdf",
+      "video": "https://youtu.be/3Y5EOvA9EHw",
+      "recap": "https://optimisey.com/seo-advice/killing-giants-how-to-beat-the-blue-chips-in-search/"
+    },
+    {
+      "title": "Advanced PR – influence, strategy and tactics",
+      "speaker": "Lexi Mills",
+      "slides": "https://optimisey.com/wp-content/uploads/2018/05/Lexi-Mills-Cambridge-Optimisey-V3.pdf",
+      "video": "https://youtu.be/uC4bsA0w5CQ",
+      "recap": "https://optimisey.com/seo-advice/advanced-pr-influence-strategy-and-tactics/"
+    }
+  ]
+}
+

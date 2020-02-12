@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#13",
+  "date": "2019-09-19",
+  "talks" : [
+    {
+      "title": "Technical SEO Competitive Analysis",
+      "speaker": "Niki Mosier",
+      "video": "https://www.youtube.com/watch?v=cNkh_L1ZHYg"
+    },
+    {
+      "title": "SEO Strategy 101",
+      "speaker": "Natalie Mott",
+      "video": "https://www.youtube.com/watch?v=dtoi0187wDc"
+    }
+  ]
+}
+
