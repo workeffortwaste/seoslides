@@ -1,0 +1,13 @@
+{
+  "conference": "SEOCampus",
+  "sub_title": "Paris",
+  "date": "2018-03-23",
+  "talks" : [
+    {
+      "title": "Website Migration : From voyages-sncf.com to oui.sncf",
+      "speaker": "Sébastien Bulté",
+      "recap": "https://blog.resoneo.com/2018/04/migration-sncf-seocampus/",
+      "slides": "https://www.slideshare.net/resoneo/case-study-migration-seo-ouisncf-seocampus-2018"
+    }
+  ]
+}
