@@ -1,0 +1,19 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #09",
+  "date": "2018-09-20",
+  "talks" : [
+    {
+      "title": "Local SEO - 15 things you should be doing but might not be, and 5 things you might be doing and you should stop (right now)",
+      "speaker": "Claire Carlile",
+      "video": "https://www.youtube.com/watch?v=tcw6539aDpY",
+      "slides": "https://www.slideshare.net/clairecarlile/local-seo-10-things-you-should-be-doing-but-might-not-be-and-5-things-you-might-be-doing-and-should-stop-right-now/clairecarlile/local-seo-10-things-you-should-be-doing-but-might-not-be-and-5-things-you-might-be-doing-and-should-stop-right-now"
+    },
+    {
+      "title": "Everything you think about your analytics is probably wrong",
+      "speaker": "Russell McAthy",
+      "video": "https://www.youtube.com/watch?v=5Cgzt4SSI7o"
+    }
+  ]
+}
+

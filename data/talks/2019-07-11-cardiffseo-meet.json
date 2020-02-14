@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #13",
+  "date": "2019-07-11",
+  "talks" : [
+    {
+      "title": "Design-led Thinking for Data-led Problems",
+      "speaker": "Louis Halton Davies",
+      "video": "https://www.youtube.com/watch?v=jLTUZy-6f4M"
+    },
+    {
+      "title": "Adventures in Outsourcing your Digital Marketing on the Cheap",
+      "speaker": "Dom Hodgson",
+      "video": "https://www.youtube.com/watch?v=9-viBLKP24Q"
+    }
+  ]
+}
+

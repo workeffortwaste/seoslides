@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #16",
+  "date": "2020-01-30",
+  "talks" : [
+    {
+      "title": "Looking at PPC with 2020 vision",
+      "speaker": "Alix Charles",
+      "video": "https://www.youtube.com/watch?v=kQCgw-zcEYg"
+    },
+    {
+      "title": "How to monetise traffic with affiliate marketing",
+      "speaker": "Sarah Tamsin",
+      "video": "https://www.youtube.com/watch?v=BSTXe2GHayQ"
+    }
+  ]
+}
+

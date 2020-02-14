@@ -1,0 +1,13 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #01",
+  "date": "2016-05-19",
+  "talks" : [
+    {
+      "title": "On-site SEO Fundamentals",
+      "speaker": "Jonathan Walker",
+      "video": "https://youtu.be/5lAqJlOF7bE?t=1m15s"
+    }
+  ]
+}
+

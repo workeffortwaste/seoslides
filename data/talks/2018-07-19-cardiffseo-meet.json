@@ -1,0 +1,19 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #08",
+  "date": "2018-07-19",
+  "talks" : [
+    {
+      "title": "Ready, Aim, FIRE! Fast & Accurate SEO reporting and diagnostics with Google Analytics",
+      "speaker": "Emma Barnes",
+      "video": "https://www.youtube.com/watch?v=hTgm4w-U6q8",
+      "slides": "https://www.slideshare.net/Branded3/fast-and-accurate-seo-reporting-and-diagnostics-with-google-analytics-cardiff-seo-meet-emma-barnes"
+    },
+    {
+      "title": "Get a Super-fast SEO Optimised Website (for a fraction of the price you would pay developers",
+      "speaker": "Nick Brown",
+      "slides": "https://www.accelerate-agency.com/wp-content/uploads/2018/07/Linkedin-and-seo-data-studio-1.pdf"
+    }
+  ]
+}
+

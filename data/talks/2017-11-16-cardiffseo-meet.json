@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #06",
+  "date": "2017-11-16",
+  "talks" : [
+    {
+      "title": "PR & SEO: It's Complicated",
+      "speaker": "James Davies",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1OyKAdnLQlexb"
+    },
+    {
+      "title": "Why You're Overthinking Your Website Content",
+      "speaker": "Emily Bater",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1vAGRMRDOgNKl"
+    }
+  ]
+}
+

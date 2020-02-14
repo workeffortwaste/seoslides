@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #04",
+  "date": "2017-02-16",
+  "talks" : [
+    {
+      "title": "Why YOU are your business' biggest asset",
+      "speaker": "Grace Quantock",
+      "video": "https://youtu.be/eEOIcuCHL34?t=35s"
+    },
+    {
+      "title": "5 Ways to Build a Great Brand Using YouTube - The Careercake Story",
+      "speaker": "Aimee Bateman",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1jMJgYzLoMlKL"
+    }
+  ]
+}
+

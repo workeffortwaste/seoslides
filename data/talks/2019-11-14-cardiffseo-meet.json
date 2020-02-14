@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #15",
+  "date": "2019-11-14",
+  "talks" : [
+    {
+      "title": "Link Building with Longevity",
+      "speaker": "Christopher Czermak",
+      "video": "https://www.youtube.com/watch?v=_ge828HtxTg"
+    },
+    {
+      "title": "How to Start Right",
+      "speaker": "Lee Woodman",
+      "video": "https://www.youtube.com/watch?v=O67IFPRJBdw"
+    }
+  ]
+}
+

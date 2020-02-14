@@ -1,0 +1,20 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #02",
+  "date": "2016-08-16",
+  "talks" : [
+    {
+      "title": "Technical SEO FTW!",
+      "speaker": "Andrew Isidoro",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1lDxLQzBEQbKm",
+      "slides": "https://www.slideshare.net/AndrewIsidoro1/technical-seo-ftw"
+    },
+    {
+      "title": "The 5 Most Common AdWords Fails (& How To Fix Them)",
+      "speaker": "Sara Jones",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1ypKdPqbnZgKW",
+      "slides": "https://www.slideshare.net/SaraJones12/the-5-most-common-adwords-fails-how-to-fix-them"
+    }
+  ]
+}
+

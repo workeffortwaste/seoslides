@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #12",
+  "date": "2019-05-23",
+  "talks" : [
+    {
+      "title": "Making Headlines: Pitching Tips From An Ex-Journalist",
+      "speaker": "Surena Chande",
+      "video": "https://www.youtube.com/watch?v=0nAR-WkMkCY"
+    },
+    {
+      "title": "The 6 Step Program for Delivering Great Digital CX",
+      "speaker": "Pete Watson-Wailes",
+      "video": "https://www.youtube.com/watch?v=arW9fKToZUM"
+    }
+  ]
+}
+

@@ -1,0 +1,25 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #03",
+  "date": "2016-11-17",
+  "talks" : [
+    {
+      "title": "Black Hat SEO Basics - The Good, The Bad & The Ugly",
+      "speaker": "Tom Buckland",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1gqxvRnQPEzxB",
+      "slides": "https://www.slideshare.net/tombuckers/black-hat-seo-slides-cardiff-seo-meet-november-2017"
+    },
+    {
+      "title": "Social Currency - Why Won't People Share My Content?",
+      "speaker": "Miranda Bishop",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1YqKDjygEaOJV"
+    },
+    {
+      "title": "Lightning Talk - The History of SEO in 5 Minutes (or Less)...",
+      "speaker": "Steve Morgan",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1vAxRXyDRYVGl",
+      "slides": "https://www.slideshare.net/steviephil/lightning-talk-the-history-of-seo-in-3-minutes-cardiff-seo-meet"
+    }
+  ]
+}
+

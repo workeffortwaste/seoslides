@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #10",
+  "date": "2018-11-22",
+  "talks" : [
+    {
+      "title": "Developing Personas for Customer Usability and Search Performance",
+      "speaker": "Russell O’Sullivan",
+      "video": "https://www.youtube.com/watch?v=fgYZFEj4N6c"
+    },
+    {
+      "title": "How To Achieve 'Position 0'",
+      "speaker": "Kali Mason",
+      "video": "https://www.youtube.com/watch?v=BXVq8s1ybGk"
+    }
+  ]
+}
+

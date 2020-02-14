@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #11",
+  "date": "2019-03-21",
+  "talks" : [
+    {
+      "title": "Discovering and Engaging Audiences through Voice",
+      "speaker": "Siobhan Congreve & Michael Gearon",
+      "video": "https://www.youtube.com/watch?v=0u7yQzNlXwg"
+    },
+    {
+      "title": "Friends with benefits: how to integrate your SEO and PPC for better results",
+      "speaker": "Gus Pelogia",
+      "video": "https://www.youtube.com/watch?v=UCat6DRAJlA"
+    }
+  ]
+}
+

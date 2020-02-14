@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #05",
+  "date": "2017-05-18",
+  "talks" : [
+    {
+      "title": "Google Home is here, but what does it mean for your SEO strategy?",
+      "speaker": "Sharon Flaherty",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1lDxLjQWdDzGm"
+    },
+    {
+      "title": "Outreaching to Richard Branson",
+      "speaker": "Joe Tannorella",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1dRKZAqweqzxB"
+    }
+  ]
+}
+

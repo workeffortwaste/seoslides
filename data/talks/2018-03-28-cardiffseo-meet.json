@@ -1,0 +1,18 @@
+{
+  "conference": "Cardiff SEO Meet",
+  "sub_title": "Meet #07",
+  "date": "2018-03-28",
+  "talks" : [
+    {
+      "title": "All About The Links",
+      "speaker": "Rhydian Ball",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1ynJOAklQOqKR"
+    },
+    {
+      "title": "How To Use Cognitive Biases In Ecommerce To Increase Your Conversion Rate",
+      "speaker": "Francesca Irving",
+      "video": "https://www.periscope.tv/CardiffSEOMeet/1djxXdEVZPNxZ"
+    }
+  ]
+}
+
