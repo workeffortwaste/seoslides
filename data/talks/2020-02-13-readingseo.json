@@ -1,0 +1,17 @@
+{
+  "conference": "ReadingSEO",
+  "sub_title": "February",
+  "date": "2020-02-13",
+  "talks" : [
+    {
+      "title": "Technical SEO at Scale",
+      "speaker": "Hayden Roche",
+      "slides": "https://www.slideshare.net/HaydenRoche1/readingseo-technical-seo-at-scale"
+    },{
+      "title": "The Massive Growth Of Structured Data - What Can You Do About It?",
+      "speaker": "Tom Pool",
+      "slides": "https://www.slideshare.net/TomPool/reading-seo-feb-2020-the-massive-growth-of-structured-data-tom-pool-bluearray"
+    }
+  ]
+}
+
