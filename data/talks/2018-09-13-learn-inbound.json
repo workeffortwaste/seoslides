@@ -1,0 +1,128 @@
+{
+  "conference": "Learn Inbound",
+  "sub_title": null,
+  "date": "2018-09-13",
+  "talks" : [
+    {
+      "title": "Technical SEO in the Wild – Real World Issues and Fixes",
+      "speaker": "Barry Adams",
+      "video": "https://learninbound.com/videos/barry-adams-2018/"
+    },
+    {
+      "title": "The Copywriting Snapshot: Making Prospects See, Believe, and Buy",
+      "speaker": "Amy Harrison",
+      "video": "https://learninbound.com/videos/amy-harrison-2018/"
+    },
+    {
+      "title": "Content-Driven Link Building – What Does Good Look Like?",
+      "speaker": "Paddy Moogan",
+      "video": "https://learninbound.com/videos/paddy-moogan-2018/"
+    },
+    {
+      "title": "Reporting: Be Better",
+      "speaker": "Dana DiTomaso",
+      "video": "https://learninbound.com/videos/dana-ditomaso-2018/"
+    },
+    {
+      "title": "Measurement for Growth",
+      "speaker": "Krista Seiden",
+      "video": "https://learninbound.com/videos/krista-seiden-2018/"
+    },
+    {
+      "title": "Advanced Content Workflow for One (or Two, or Three)",
+      "speaker": "Ian Lurie",
+      "video": "https://learninbound.com/videos/ian-lurie-2018/"
+    },
+    {
+      "title": "6 Lessons from a Marketing Fraud: How to Stop Imposter Syndrome & Get S@# Done.",
+      "speaker": "Tiffany Dasilva",
+      "video": "https://learninbound.com/videos/tiffany-dasilva-2018/"
+    },
+    {
+      "title": "Thriving on Change: How to Drive Growth and Optimization in a Chaotic Environment",
+      "speaker": "Hana Abaza",
+      "video": "https://learninbound.com/videos/hana-abaza-2018/"
+    },
+    {
+      "title": "More Opens, More Sales: Email Conversion Copywriting",
+      "speaker": "Joanna Wiebe",
+      "video": "https://learninbound.com/videos/joanna-wiebe-2018/"
+    },
+    {
+      "title": "Connect & Convert: How to Create Experiences People Actually Want To Convert To",
+      "speaker": "Talia Wolf",
+      "video": "https://learninbound.com/videos/talia-wolf-2018/"
+    },
+    {
+      "title": "Content Marketing is Broken and Only Your M.O.M. Can Save You",
+      "speaker": "Oli Gardner",
+      "video": "https://learninbound.com/videos/oli-gardner-2018/"
+    },
+    {
+      "title": "The Consultants Rut & How to Escape it",
+      "speaker": "Wil Reynolds",
+      "video": "https://learninbound.com/videos/wil-reynolds-2018/"
+    },
+    {
+      "title": "How Content Helped Intercom Grow From $1-$50m",
+      "speaker": "John Collins",
+      "video": "https://learninbound.com/videos/john-collins-2018/"
+    },
+    {
+      "title": "Person Identity Management For The Digital Age",
+      "speaker": "Lindsay Wassell",
+      "video": "https://learninbound.com/videos/lindsay-wassell-2018/"
+    },
+    {
+      "title": "Making Your Campaign Work Harder",
+      "speaker": "Laura Crimmons",
+      "video": "https://learninbound.com/videos/laura-crimmons-2018/"
+    },
+    {
+      "title": "How To Build, Structure And Manage A Successful PR SEO And Content Marketing Team",
+      "speaker": "Lexi Mills",
+      "video": "https://learninbound.com/videos/lexi-mills-2018/"
+    },
+    {
+      "title": "Beyond Vanilla Audience Targeting",
+      "speaker": "Purna Virji",
+      "video": "https://learninbound.com/videos/purna-virji-2018/"
+    },
+    {
+      "title": "The Latest Paid Media Launches You Wish You Knew About",
+      "speaker": "Samantha Noble",
+      "video": "https://learninbound.com/videos/samantha-noble-2018/"
+    },
+    {
+      "title": "The Mobile First Index, what, why and more importantly when!",
+      "speaker": "Jon Myers",
+      "video": "https://learninbound.com/videos/jon-myers-2018/"
+    },
+    {
+      "title": "The Future of SEO",
+      "speaker": "Britney Muller",
+      "video": "https://learninbound.com/videos/britney-muller-2018/"
+    },
+    {
+      "title": "Optimising For Voice Search: Practical Steps To Take",
+      "speaker": "Aleyda Solis",
+      "video": "https://learninbound.com/videos/aleyda-solis-2018/"
+    },
+    {
+      "title": "Making Performance a Marketing Priority",
+      "speaker": "Emily Grossman",
+      "video": "https://learninbound.com/videos/emily-grossman-2018/"
+    },
+    {
+      "title": "Lighting a Fire With Facebook Funnels",
+      "speaker": "Susan Wenograd",
+      "video": "https://learninbound.com/videos/susan-wenograd-2018/"
+    },
+    {
+      "title": "Breathe Life into your Data: Unlocking Insights with GTM",
+      "speaker": "Tom Bennet",
+      "video": "https://learninbound.com/videos/tom-bennet-2018/"
+    }
+  ]
+}
+

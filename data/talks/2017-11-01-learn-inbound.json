@@ -1,0 +1,88 @@
+{
+  "conference": "Learn Inbound",
+  "sub_title": null,
+  "date": "2017-11-01",
+  "talks" : [
+    {
+      "title": "The Search Marketer’s Guide to Testing Chatbots",
+      "speaker": "Purna Virji",
+      "video": "https://learninbound.com/videos/purna-virji-2017/"
+    },
+    {
+      "title": "Winning in a Mobile Search World",
+      "speaker": "Aleyda Solis",
+      "video": "https://learninbound.com/videos/aleyda-solis-2017/"
+    },
+    {
+      "title": "Bursting Data Bubbles",
+      "speaker": "Annie Cushing",
+      "video": "https://learninbound.com/videos/annie-cushing-2017/"
+    },
+    {
+      "title": "Data-Driven Experience Design for Marketing Teams",
+      "speaker": "Oli Gardner",
+      "video": "https://learninbound.com/videos/oli-gardner-2017/"
+    },
+    {
+      "title": "Using Content to Connect",
+      "speaker": "Hannah Thorpe",
+      "video": "https://learninbound.com/videos/hannah-thorpe-2017/"
+    },
+    {
+      "title": "The Modern SEO Players Guide",
+      "speaker": "Michael King",
+      "video": "https://learninbound.com/videos/michael-king-2017/"
+    },
+    {
+      "title": "Living Your Purpose: How to Build High-Performing, Self-Managed Teams",
+      "speaker": "Mackenzie Fogelson",
+      "video": "https://learninbound.com/videos/mackenzie-fogelson-2017/"
+    },
+    {
+      "title": "What’s happening in the World of Local",
+      "speaker": "Mike Ramsey",
+      "video": "https://learninbound.com/videos/mike-ramsey-2017/"
+    },
+    {
+      "title": "A Place Of Possibility- The Future Of Influence",
+      "speaker": "Lexi Mills",
+      "video": "https://learninbound.com/videos/lexi-mills-2017/"
+    },
+    {
+      "title": "How I’ve Used PPC Data To Supercharge Content, SEO, Outreach And More",
+      "speaker": "Wil Reynolds",
+      "video": "https://learninbound.com/videos/wil-reynolds-2017/"
+    },
+    {
+      "title": "Demystifying Website Personalization: The Building Blocks to Grow Your Business",
+      "speaker": "Cara Harshman",
+      "video": "https://learninbound.com/videos/cara-harshman-2017/"
+    },
+    {
+      "title": "Growth Avengers: Uniting IT & Marketing Teams to Kicka$$",
+      "speaker": "Angie Schottmuller",
+      "video": "https://learninbound.com/videos/angie-schottmuller-2017/"
+    },
+    {
+      "title": "Creating Predictable Growth: How to find your Product-Channel Fit and Acquire Users that Stick Around",
+      "speaker": "Kieran Flanagan",
+      "video": "https://learninbound.com/videos/kieran-flanagan-2017/"
+    },
+    {
+      "title": "Who Are We Writing For? Choose Fact Over Fiction.",
+      "speaker": "Dana DiTomaso",
+      "video": "https://learninbound.com/videos/dana-ditomaso-2017/"
+    },
+    {
+      "title": "State of Search in Ireland",
+      "speaker": "Stephen Kenwright",
+      "video": "https://learninbound.com/videos/stephen-kenwright-2017/"
+    },
+    {
+      "title": "UMP and the Adventure of Audience Understanding",
+      "speaker": "Samantha Noble",
+      "video": "https://learninbound.com/videos/samantha-noble-2017/"
+    }
+  ]
+}
+
