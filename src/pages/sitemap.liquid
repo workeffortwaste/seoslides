@@ -1,0 +1,42 @@
+---
+permalink: "sitemap.xml"
+baseurl : "https://seoslides.page/"
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>{{ baseurl }}</loc>
+    </url>
+    <url>
+        <loc>{{ baseurl }}contribute/</loc>
+    </url>
+{%- for talk_bundle in data -%}
+    <url>
+        <loc>{{ baseurl }}conferences/{{talk_bundle.conference | slug}}/{{talk_bundle.date}}/</loc>
+    </url>
+{%- endfor -%}
+    <url>
+        <loc>{{ baseurl }}speakers/</loc>
+    </url>
+{%- for speaker in speakers -%}
+    <url>
+        <loc>{{ baseurl }}speakers/{{ speaker | slug}}/</loc>
+    </url>
+{%- endfor -%}
+    <url>
+        <loc>{{ baseurl }}conferences/</loc>
+    </url>
+{%- for conference in conferences -%}
+    <url>
+        <loc>{{ baseurl }}conferences/{{ conference | slug}}/</loc>
+    </url>
+{%- endfor -%}
+    <url>
+        <loc>{{ baseurl }}talks/</loc>
+    </url>
+{%- for year in years -%}
+    <url>
+        <loc>{{ baseurl }}talks/{{ year }}/</loc>
+    </url>
+{%- endfor -%}
+</urlset>
