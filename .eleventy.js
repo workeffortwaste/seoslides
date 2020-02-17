@@ -1,7 +1,7 @@
 const htmlmin = require("html-minifier");
 var slugify = require('slugify');
 var moment = require('moment');
-// moment.locale('en-GB');
+const gitlog = require('gitlog');
 
 module.exports = function (eleventyConfig) {
 
@@ -9,6 +9,33 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('src/js');
     eleventyConfig.addPassthroughCopy('src/meta');
     eleventyConfig.addPassthroughCopy('src/_headers');
+
+    eleventyConfig.addCollection("changelog", function() {
+        // Set up gitlog options.
+        const options =
+            { repo: __dirname,
+                number: 50,
+                fields:
+                    [ 'hash',
+                        'abbrevHash',
+                        'subject',
+                        'authorName',
+                        'authorDate',
+                        'subject',
+                    ]
+            };
+        // Get commits
+        let commits = gitlog(options);
+        // Filter only the commits we've flagged for posting
+        let output = commits.filter (e => e.subject.includes('[p]'));
+        // Convert the date format simply into YYYY-MM-DD
+        output.forEach((e) => {
+            const t = moment(e.authorDate,'YYYY-MM-DD HH:mm:ss ZZ');
+            e.authorDate = t.format('YYYY-MM-DD');
+        });
+        // Return our sanitised data
+        return commits.filter (e => e.subject.includes('[p]'));
+    });
 
     eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
         if (outputPath.endsWith(".html")) {

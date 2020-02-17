@@ -5,6 +5,7 @@
   "main": ".eleventy.js",
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
+    "gitlog": "^3.1.2",
     "gulp": "^4.0.2",
     "gulp-clean-css": "^4.2.0",
     "gulp-file": "^0.4.0",
