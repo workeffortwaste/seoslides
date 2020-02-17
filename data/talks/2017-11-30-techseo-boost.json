@@ -1,0 +1,67 @@
+{
+  "conference": "TechSEO Boost",
+  "date": "2017-11-30",
+  "talks" : [
+    {
+      "title": "Making the Web Fast",
+      "speaker": "Patrick Meenan",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-making-the-web-fast",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Your Search Universe: Links, Log Files, GSC, and Everything in Between",
+      "speaker": "Sam Marsden",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-your-search-universe-links-log-files-gsc-everything-in-between",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Implementing and Tracking Semantic Markup with Google Tag Manager",
+      "speaker": "Mike Arnesen & Ruth Burr Reedy",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-implementing-and-tracking-semantic-markup-with-google-tag-manager",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Amping Airbnb.com",
+      "speaker": "Gil Birman & Brian Ta",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-amping-airbnb",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Enhancing Your Local Presence With and Without Physical Locations",
+      "speaker": "Joe Esposito",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-enhancing-your-local-presence-with-and-without-physical-locations",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Everything That Can Go Wrong Will Go Wrong",
+      "speaker": "Patrick Stox",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-everything-that-can-go-wrong-will-go-wrong",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Fun with Machines. How Machine Learning is Shaping Google and Technical SEO",
+      "speaker": "JR Oakes",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-fun-with-machine-learning-how-machine-learning-is-shaping-google-and-technical-seo",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "SEO Best Practices for Javascript-Based Websites",
+      "speaker": "Max Prin",
+      "slides": "https://www.slideshare.net/MaxPrin/max-prin-techseo-boost-2017-seo-best-practices-for-javascriptbased-websites",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "Working Smarter: SEO Automation to Increase Efficiency & Effectiveness",
+      "speaker": "Paul Shapiro",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-working-smarter-seo-automation-to-increase-efficiency-effectiveness",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    },
+    {
+      "title": "The State of Technical SEO",
+      "speaker": "Russ Jones",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2017-the-state-of-technical-seo",
+      "video": "https://www.catalystdigital.com/techseoboost-2017/#register"
+    }
+  ]
+}
+
