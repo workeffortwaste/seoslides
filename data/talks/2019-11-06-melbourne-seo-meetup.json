@@ -1,0 +1,23 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "November",
+  "date": "2019-11-14",
+  "talks" : [
+    {
+      "title": "Website performance for better marketing outcomes",
+      "speaker": "Robert Li",
+      "slides": "https://dsh.re/104754"
+    },
+    {
+      "title": "Marketing Signals: Attribution of paid media spend to offline store visits",
+      "speaker": "Gareth Hoyle",
+      "slides": "https://seo.im/c2b/"
+    },
+    {
+      "title": "SEMrush: Voice search",
+      "speaker": "Olga Andrienko",
+      "slides": "https://bit.ly/voice-search-semrush"
+    }
+  ]
+}
+

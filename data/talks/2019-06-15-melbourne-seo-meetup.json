@@ -1,0 +1,23 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "June",
+  "date": "2019-06-15",
+  "talks" : [
+    {
+      "title": "The Future of Enterprise SEO",
+      "speaker": "Adam Kelly",
+      "slides": "https://docs.google.com/presentation/d/1v2u3bwOtbdpeZzjei2UfdLHWf7sdKM-7IahKANuMvdA/edit#slide=id.g35f391192_00"
+    },
+    {
+      "title": "The Future of Ecommerce SEO",
+      "speaker": "Gabriel Grossman",
+      "slides": "https://docs.google.com/presentation/d/1pdIrJooAdV_gwnFirXkugbN2Y3LCTyqvsgmY3YpX_Bs/edit#slide=id.g5b057c5d46_2_36"
+    },
+    {
+      "title": "The Future of Local SEO",
+      "speaker": "Tom Lutrov",
+      "slides": "https://docs.google.com/presentation/d/1ClLpajb6n-88l6FQoY8DNPPYX43vPU6sSTdYHcUXpfk/edit#slide=id.p"
+    }
+  ]
+}
+
