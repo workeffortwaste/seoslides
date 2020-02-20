@@ -1,0 +1,23 @@
+{
+  "conference": "SMX West",
+  "sub_title": null,
+  "date": "2020-02-20",
+  "talks" : [
+    {
+      "title": "Solving Complex JavaScript Issues And Leveraging Semantic HTML5",
+      "speaker": "Hamlet Batista",
+      "slides": "https://www.slideshare.net/hamletbatista/solving-complex-javascript-issues-and-leveraging-semantic-html5"
+    },
+    {
+      "title": "Future-Proof Your Site For Google Core Algorithm Updates",
+      "speaker": "Lily Ray",
+      "slides": "https://www.pathinteractive.com/blog/seo/future-proof-your-site-for-google-core-algorithm-updates/"
+    },
+    {
+      "title": "Leveraging Structured Data for Maximum Effect",
+      "speaker": "Abby Hamilton",
+      "slides": "https://www.slideshare.net/AbbyHamilton4/smx-west-2020-leveraging-structured-data-for-maximum-effect"
+    }
+  ]
+}
+
