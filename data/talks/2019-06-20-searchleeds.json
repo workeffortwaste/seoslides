@@ -1,0 +1,253 @@
+{
+  "conference": "SearchLeeds",
+  "sub_title": null,
+  "date": "2019-06-20",
+  "talks" : [
+    {
+      "title": "The state of PWAs",
+      "speaker": "Nichola Stott",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-nichola-stott-the-state-of-pwas",
+      "video": "https://www.youtube.com/watch?v=7eDWEuTwdWw"
+    },
+    {
+      "title": "How science can help you have better ideas",
+      "speaker": "Kirsty Hulse",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-kirsty-hulse-how-science-can-help-you-have-better-ideas",
+      "video": "https://www.youtube.com/watch?v=qSCQHNjBzsw"
+    },
+    {
+      "title": "AI in Paid Media and strategies you can use tomorrow",
+      "speaker": "Jon Greenhalgh",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-jon-greenhalgh-edit-agency-ai-in-paid-media-and-strategies-you-can-use-tomorrow",
+      "video": "https://www.youtube.com/watch?v=v-G-LsttyiE"
+    },
+    {
+      "title": "Who should bring PPC in house and who shouldn’t?",
+      "speaker": "Owen Gill",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-pendragon-owen-gill-who-should-bring-ppc-in-house-and-who-shouldnt",
+      "video": "https://www.youtube.com/watch?v=fkprTarr_Rg"
+    },
+    {
+      "title": "Intent optimisation: Why it matters and how it can improve your SEO results",
+      "speaker": "Rory Truesdale",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-rory-truesdale-intent-optimisation-why-it-matters-and-how-it-can-improve-your-seo-results",
+      "video": "https://www.youtube.com/watch?v=TM_0VzEdTuw"
+    },
+    {
+      "title": "Research and execution: Marketing’s most important relationship",
+      "speaker": "Puneet Vaghela & Sal Mohammed",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-pun-sal-adzooma-research-and-execution-marketings-most-important-relationship",
+      "video": "https://www.youtube.com/watch?v=kIuEt9baTz4"
+    },
+    {
+      "title": "Land Grab: How to win business from your competitors with Google PPC",
+      "speaker": "Tanesha Stafford",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-tanesha-stafford-land-grab-how-to-win-business-from-your-competitors-with-google-ppc",
+      "video": "https://www.youtube.com/watch?v=-svw87vbHq4"
+    },
+    {
+      "title": "Multi-million pound keyword",
+      "speaker": "Hannah Perry",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-hannah-perry-multimillion-pound-keyword",
+      "video": "https://www.youtube.com/watch?v=H2rGK_WtqK0"
+    },
+    {
+      "title": "The achievable SERP feature",
+      "speaker": "Emily Potter",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-emily-potter-the-achievable-serp-feature",
+      "video": "https://www.youtube.com/watch?v=zrxULuHcHgI"
+    },
+    {
+      "title": "Discovering the truth in dark traffic",
+      "speaker": "Helen Pollitt",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-helen-pollitt-discovering-the-truth-in-dark-traffic",
+      "video": "https://www.youtube.com/watch?v=dkQI0dEdxq8"
+    },
+    {
+      "title": "How to run a great request for proposal (RFP) process",
+      "speaker": "Matt Holmes",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-matt-holmes-how-to-run-a-great-request-for-proposal-rfp-process",
+      "video": "https://www.youtube.com/watch?v=c1CVTDUADWc"
+    },
+    {
+      "title": "There’s Nothing Wrong With Being A Vulture – Using Your Competitors For SEO Wins",
+      "speaker": "Laura Hogan",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-laura-hogan-theres-nothing-wrong-with-being-a-vulture-using-your-competitors-for-seo-wins",
+      "video": "https://www.youtube.com/watch?v=lVjsvYWkjDs"
+    },
+    {
+      "title": "Demystifying in-housing for advertisers and agencies",
+      "speaker": "Rob Smith",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-rob-smith-dqa-demystifying-inhousing-for-advertisers-and-agencies",
+      "video": "https://www.youtube.com/watch?v=YHuU5pE8bDc"
+    },
+    {
+      "title": "Building, hacking and killing a bespoke CMS",
+      "speaker": "Fabrizio Ballarini",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-fabrizio-ballarini-transferwise-building-hacking-and-killing-a-bespoke-cms",
+      "video": "https://www.youtube.com/watch?v=dO0FAbXWTcM"
+    },
+    {
+      "title": "The Butterfly Effect in SEO",
+      "speaker": "Lukasz Zelezny",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-lukasz-zelezny-the-butterfly-effect-in-seo",
+      "video": "https://www.youtube.com/watch?v=5xPEE5yZKHw"
+    },
+    {
+      "title": "How to hack rankings with page speed optimisation",
+      "speaker": "Polly Pospelova",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-polly-pospelova-how-to-hack-rankings-with-page-speed-optimisation",
+      "video": "https://www.youtube.com/watch?v=dTb3I4zurWs"
+    },
+    {
+      "title": "Killer CRO tips with a SEO web crawler",
+      "speaker": "Luke Carthy",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-luke-carthy-killler-cro-tips-with-a-seo-web-crawler",
+      "video": "https://www.youtube.com/watch?v=b1Q1_yXtR30"
+    },
+    {
+      "title": "Site speed: Time to meet the mobile expectation",
+      "speaker": "Luke Monaghan",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-luke-monaghan-site-speed-time-to-meet-the-mobile-expectation",
+      "video": "https://www.youtube.com/watch?v=7v4vV2Ex_nM"
+    },
+    {
+      "title": "The Coloring In Department - UX and marketing: A tinder match made in heaven",
+      "speaker": "Jill Quick",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-jill-quick-the-coloring-in-department-ux-and-marketing-a-tinder-match-made-in-heaven",
+      "video": "https://www.youtube.com/watch?v=TMl2XO3IcM8"
+    },
+    {
+      "title": "Rise of the robots",
+      "speaker": "Andy Duke",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-andy-duke-rise-of-the-robots",
+      "video": "https://www.youtube.com/watch?v=zFRPllQS0zs"
+    },
+    {
+      "title": "Why social media should be part of your search strategy",
+      "speaker": "Will Hobson",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-will-hobson-edit-agency-why-social-media-should-be-part-of-your-search-strategy",
+      "video": "https://www.youtube.com/watch?v=KaFffOdPwzg"
+    },
+    {
+      "title": "Search Listening: Why and how you should be using Google data way beyond traditional keyword research",
+      "speaker": "Sophie Coley",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-sophie-coley-search-listening-why-and-how-you-should-be-using-google-data-way-beyond-traditional-keyword-research",
+      "video": "https://www.youtube.com/watch?v=VPuinULEtYs"
+    },
+    {
+      "title": "Why social media is more than just the numbers",
+      "speaker": "Laura Bartlett",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-laura-bartlett-house-of-coco-magazine-why-social-media-is-more-than-just-the-numbers",
+      "video": "https://www.youtube.com/watch?v=qcGGLvQmo8w"
+    },
+    {
+      "title": "Build SEO content strategy based on SERP and competitive analysis",
+      "speaker": "Alexandre Sigoigne",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-myposeo-alexandre-sigoigne-build-seo-content-strategy-based-on-serp-and-competitive-analysis",
+      "video": "https://www.youtube.com/watch?v=yf603lVP59k"
+    },
+    {
+      "title": "Search, the easy way: The content sales-person analogy explained",
+      "speaker": "Shyam Dattani",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-shyam-dattani-searchmetrics-search-the-easy-way-the-content-salesperson-analogy-explained",
+      "video": "https://www.youtube.com/watch?v=bZdMv_tNerM"
+    },
+    {
+      "title": "JavaScript is ruining the web (And I love it)",
+      "speaker": "Barry Adams",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-barry-adams-javascript-is-ruining-the-web-and-i-love-it",
+      "video": "https://www.youtube.com/watch?v=DclxINJtZfE"
+    },
+    {
+      "title": "One Search – combining your organic and paid strategies for greater effect",
+      "speaker": "Sarah Barker",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-sarah-barker-one-search-combining-your-organic-and-paid-strategies-for-greater-effect",
+      "video": "https://www.youtube.com/watch?v=96H-irj49gI"
+    },
+    {
+      "title": "Overcoming technical seo challenges for enterprise sites",
+      "speaker": "Sam Marsden",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-sam-marsden-deepcrawl-overcoming-technical-seo-challenges-for-enterprise-sites",
+      "video": "https://www.youtube.com/watch?v=p3E9uXBdjtM"
+    },
+    {
+      "title": "Content marketing frameworks",
+      "speaker": "Stephen Kenwright",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-stephen-kenwright-content-marketing-frameworks",
+      "video": "https://www.youtube.com/watch?v=Ra-7ModEP48"
+    },
+    {
+      "title": "Put your money where your data is",
+      "speaker": "Sam Noble",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-sam-noble-put-your-money-where-your-data-is",
+      "video": "https://www.youtube.com/watch?v=e9z7fYF08oA"
+    },
+    {
+      "title": "Everything you need to know before scaling SEO internationally",
+      "speaker": "Matt Howells-Barby",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-matt-howellsbarby-everything-you-need-to-know-before-scaling-seo-internationally",
+      "videos": "https://www.youtube.com/watch?v=NSc6H7_fW2o"
+    },
+    {
+      "title": "Personalisation in a Search journey",
+      "speaker": "Gary Arnold",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-gary-arnold-edit-personalisation-in-a-search-journey",
+      "video": "https://www.youtube.com/watch?v=zCD8S0E9mPc"
+    },
+    {
+      "title": "Machine Learning for SEOs",
+      "speaker": "Britney Muller",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-britney-muller-moz-machine-learning-for-seos",
+      "video": "https://www.youtube.com/watch?v=5U-SF1UUCz0"
+    },
+    {
+      "title": "Why most SEO audits are sh*t",
+      "speaker": "Bastian Grimm",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-bastian-grimm-peak-ace-why-most-seo-audits-are-sht",
+      "video": "https://www.youtube.com/watch?v=uoC-fTyLUfU"
+    },
+    {
+      "title": "The business value of technical SEO",
+      "speaker": "Jen Hoffman",
+      "slides": "https://www.slideshare.net/SearchLeeds/searchleeds-2019-jen-hoffman-deepcrawl-the-business-value-of-technical-seo",
+      "video": "https://www.youtube.com/watch?v=G6lr10bNVRo"
+    },
+    {
+      "title": "Delighting your customers",
+      "speaker": "Dom Hodgson",
+      "video": "https://www.youtube.com/watch?v=kbtv1ZxeTaw"
+    },
+    {
+      "title": "Analytics and SEO - The perfect partners in crime",
+      "speaker": "Grant Kemp",
+      "video": "https://www.youtube.com/watch?v=8rIPkGMnOaQ"
+    },
+    {
+      "title": "Leveraging your first party data",
+      "speaker": "Angus Hamilton",
+      "video": "https://www.youtube.com/watch?v=GX8LGKjkoXc"
+    },
+    {
+      "title": "How to make fake news for links",
+      "speaker": "Oliver Brett",
+      "video": "https://www.youtube.com/watch?v=6OXpTMaPIlc"
+    },
+    {
+      "title": "Making headlines",
+      "speaker": "Shannon McGuirk",
+      "video": "https://www.youtube.com/watch?v=m2iV1P4-10s"
+    },
+    {
+      "title": "PR that drives performance",
+      "speaker": "Beth Nunnington",
+      "video": "https://www.youtube.com/watch?v=3mWM5_2BUbQ"
+    },
+    {
+      "title": "All things mobile in a mobile led world! Optimise or fail",
+      "speaker": "Jon Myers",
+      "video": "https://www.youtube.com/watch?v=k79YP2wLjU4"
+    }
+  ]
+}
+
