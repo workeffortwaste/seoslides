@@ -6,11 +6,19 @@
     {
       "title": "Technical SEO at Scale",
       "speaker": "Hayden Roche",
-      "slides": "https://www.slideshare.net/HaydenRoche1/readingseo-technical-seo-at-scale"
+      "slides": "https://www.slideshare.net/HaydenRoche1/readingseo-technical-seo-at-scale",
+      "recap": "https://www.bluearray.co.uk/news/conferences/readingseo-roundup-february-2020/"
     },{
+      "title": "F*cking Up Google My Business: how it broke, how we fixed it",
+      "speaker": "Gus Pelogia",
+      "slides": "https://pelogia.it/readingSEO",
+      "recap": "https://www.bluearray.co.uk/news/conferences/readingseo-roundup-february-2020/"
+    },
+    {
       "title": "The Massive Growth Of Structured Data - What Can You Do About It?",
       "speaker": "Tom Pool",
-      "slides": "https://www.slideshare.net/TomPool/reading-seo-feb-2020-the-massive-growth-of-structured-data-tom-pool-bluearray"
+      "slides": "https://www.slideshare.net/TomPool/reading-seo-feb-2020-the-massive-growth-of-structured-data-tom-pool-bluearray",
+      "recap": "https://www.bluearray.co.uk/news/conferences/readingseo-roundup-february-2020/"
     }
   ]
 }
