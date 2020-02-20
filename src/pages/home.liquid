@@ -19,7 +19,7 @@ renderData:
 <p><a href="/speakers/">Browse the speakers alphabetically</a></p>
 <h2>Recent Changes</h2>
 <ul class="changelog">
-{%- for commit in collections.changelog limit:5 -%}
+{%- for commit in collections.changelog limit:10 -%}
   <li><span class="change-date">{{ commit.authorDate }}</span> {{ commit.subject | remove: "[p] "}}</li>
 {%- endfor -%}
 <ul>
