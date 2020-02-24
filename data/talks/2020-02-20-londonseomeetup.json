@@ -1,0 +1,26 @@
+{
+  "conference": "LondonSEOMeetup",
+  "sub_title": "Feb Edition",
+  "date": "2020-02-20",
+  "talks" : [
+    {
+      "title": "Basic SEO B*tch",
+      "speaker": "Victoria Olsina",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/london-seo-master-feb-2020",
+      "recap": "https://www.bluearray.co.uk/news/seo/londonseomeetup-february-2020/"
+    },
+    {
+      "title": "Post-Aristosomething representation of reality and websites",
+      "speaker": "Enrico Chiodino",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/london-seo-master-feb-2020",
+      "recap": "https://www.bluearray.co.uk/news/seo/londonseomeetup-february-2020/"
+    },
+    {
+      "title": "Dealing with Rejection (From Google News) ",
+      "speaker": "Patrick Langridge",
+      "slides": "https://www.slideshare.net/MatthewWilliamson57/london-seo-master-feb-2020",
+      "recap": "https://www.bluearray.co.uk/news/seo/londonseomeetup-february-2020/"
+    }
+  ]
+}
+
