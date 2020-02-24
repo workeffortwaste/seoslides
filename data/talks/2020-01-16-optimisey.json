@@ -1,0 +1,18 @@
+{
+  "conference": "Optimisey",
+  "sub_title": "#15",
+  "date": "2020-01-16",
+  "talks" : [
+    {
+      "title": "How to Rank Great Video Content",
+      "speaker": "Aleyda Solis",
+      "video": "https://www.youtube.com/watch?v=304ce31gKQ4"
+    },
+    {
+      "title": "How to Create Engaging Video Content",
+      "speaker": "Jess Hawkins & Mark Pirrie",
+      "video": "https://www.youtube.com/watch?v=u7KIAYWx_HE"
+    }
+  ]
+}
+
