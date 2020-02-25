@@ -1,0 +1,82 @@
+{
+  "conference": "MeasureFest",
+  "sub_title": "September",
+  "date": "2019-09-12",
+  "talks" : [
+    {
+      "title": "BigQuery Without Analytics 360",
+      "speaker": "Adam EngleBright",
+      "slides": "https://www.slideshare.net/AdamEnglebright/bigquery-without-analytics-360-measurefest-2019-adam-englebright",
+      "audio": "https://brightonseo.libsyn.com/adam-englebright-bigquery-without-analytics-360"
+    },
+    {
+      "title": "No Customer? No Problem! Tips To Measure On Site Behaviour Using Signals",
+      "speaker": "Azeem Ahmad",
+      "slides": "https://www.slideshare.net/Azeem_Ahmad20/no-customer-no-problem-tips-to-measure-on-site-behaviour-using-signals",
+      "audio": "https://brightonseo.libsyn.com/azeem-ahmad-no-customer-no-problem-tips-to-measure-on-site-behaviour-using-signals"
+    },
+    {
+      "title": "Weighted Sort: Google’s Not-So-Hidden Algorithm That Could Transform Your Marketing",
+      "speaker": "Matthew Kay",
+      "slides": "https://www.slideshare.net/MatthewKay1/measurefest-weighted-sort-googles-notsohidden-algorithm-that-could-transform-your-marketing",
+      "audio": "https://brightonseo.libsyn.com/matthew-kay-weighted-sort-googles-not-so-hidden-algorithm-that-could-transform-your-marketing"
+    },
+    {
+      "title": "Traffic Vs Conversions: How SEO And CRO Can Work Together",
+      "speaker": "Chloe Fair",
+      "slides": "https://www.impression.co.uk/blog/15519/measurefest-2019-traffic-vs-conversions-how-seo-cro-can-work-together/",
+      "audio": "https://brightonseo.libsyn.com/chloe-fair-traffic-vs-conversions-how-seo-and-cro-can-work-together"
+    },
+    {
+      "title": "Experiment Culture: Creating A Culture That Celebrates Failure And Drives Performance",
+      "speaker": "Stephen Pavlovich",
+      "slides": "https://docs.google.com/presentation/d/1ZnHmsR2kMynMX0DUMYGhp-VrSCOi3YGOEqDiDi4Oc9k/edit#slide=id.g3fd0a61bd8_0_34",
+      "audio": "https://brightonseo.libsyn.com/stephen-pavlovich-experiment-culture-creating-a-culture-that-celebrates-failure-and-drives-performance"
+    },
+    {
+      "title": "How Marketers Miss Up To 60% Of Their Conversions And How To Capture Them",
+      "speaker": "Adam Chapman-Ballard",
+      "audio": "https://brightonseo.libsyn.com/adam-chapman-ballard-how-marketers-miss-up-to-60-of-their-conversions-and-how-to-capture-them-0"
+    },
+    {
+      "title": "Data Studio: Developer Features And New Product Developments",
+      "speaker": "Yulan Lin & Morgan AW",
+      "audio": "https://brightonseo.libsyn.com/yulan-lin-data-studio-developer-features-and-new-product-developments"
+    },
+    {
+      "title": "How To Use Datastudio To Understand The Impact Of Content",
+      "speaker": "Kelly Edwards",
+      "audio": "https://brightonseo.libsyn.com/kelly-edwards-how-to-use-datastudio-to-understand-the-impact-of-content"
+    },
+    {
+      "title": "How We Got 2,000 Journalists To Start Using Audience Data",
+      "speaker": "Rob Millard",
+      "slides": "https://docs.google.com/presentation/d/1n5X-zwLEFd1Uc52w9ncxlpT6UAhrokPWZ202foz04Mo/edit#slide=id.p",
+      "audio": "https://brightonseo.libsyn.com/rob-millard-how-we-got-2000-journalists-to-start-using-audience-data"
+    },
+    {
+      "title": "Advanced Supermetrics And Google Sheets For Dummies",
+      "speaker": "Michelle Vickerman",
+      "slides": "https://typeamedia.net/blog/advanced-google-sheets-supermetrics-for-dummies-measurefest/",
+      "audio": "https://brightonseo.libsyn.com/michelle-vickerman-advanced-supermetrics-google-sheets-for-dummies"
+    },
+    {
+      "title": "5 False Assumptions About Your Traffic",
+      "speaker": "Andraz Stalec",
+      "slides": "https://www.slideshare.net/redorbit/measurefest-2019-5-false-assumptions-about-your-online-traffic",
+      "audio": "https://brightonseo.libsyn.com/andraz-stalec-5-false-assumptions-about-your-traffic"
+    },
+    {
+      "title": "Running A High-Performing Marketing Team Using The Agile/Scrum Framework",
+      "speaker": "Bethan Vincent",
+      "slides": "https://www.slideshare.net/BethanVincent/running-a-high-performing-marketing-team-using-the-agilescrum-framework",
+      "audio": "https://brightonseo.libsyn.com/bethan-vincent-running-a-high-performing-marketing-team-using-the-agilescrum-framework"
+    },
+    {
+      "title": "Simplifying Attribution",
+      "speaker": "Damian Koblintz",
+      "audio": "https://brightonseo.libsyn.com/damian-koblintz-simplifying-attribution"
+    }
+  ]
+}
+
