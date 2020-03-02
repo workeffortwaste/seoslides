@@ -1,0 +1,74 @@
+{
+  "conference": "Search Advertising Show",
+  "sub_title": "September",
+  "date": "2019-09-12",
+  "talks" : [
+    {
+      "title": "Keeping an Eye on Google’s AI using Scripts",
+      "speaker": "Nils Rooijmans",
+      "slides": "https://nilsrooijmans.com/wp-content/uploads/2019/09/Keeping_an_Eye_on_Google_AI_SAS_v1.pdf",
+      "audio": "https://brightonseo.libsyn.com/nils-rooijmans-keeping-an-eye-on-googles-ai-using-scripts"
+    },
+    {
+      "title": "Machine Learning in Google Ads: Tips, Tricks & Best Practice",
+      "speaker": "Halide Ebcinoglu",
+      "slides": "https://www.slideshare.net/KubixDigital/machine-learning-in-google-ads-tips-tricks-and-best-practices-172539924",
+      "audio": "https://brightonseo.libsyn.com/halide-ebcinoglu-machine-learning-in-google-ads-tips-tricks-best-practice"
+    },
+    {
+      "title": "The Future Is Here – A Paid Search Perspective On Automation",
+      "speaker": "Matthew Soakell",
+      "slides": "https://docs.google.com/presentation/d/1_37KCggJIrKC8St46Vbt21j10kAnkqtT577O06GDoM8/edit",
+      "audio": "https://brightonseo.libsyn.com/matthew-soakell-the-future-is-here-a-paid-search-perspective-on-automation"
+    },
+    {
+      "title": "The use of PPC for multi-channel audience management",
+      "speaker": "Nadya Birca",
+      "audio": "https://brightonseo.libsyn.com/nadya-birca-the-use-of-ppc-for-multi-channel-audience-management"
+    },
+    {
+      "title": "Stacking the Adwords deck",
+      "speaker": "Richard Falconer",
+      "audio": "https://brightonseo.libsyn.com/richard-falconer-stacking-the-adwords-deck"
+    },
+    {
+      "title": "The Great Balancing Act: Walking the tightrope between Google parity and innovation",
+      "speaker": "James Murray",
+      "audio": "https://brightonseo.libsyn.com/james-murray-the-great-balancing-act-walking-the-tightrope-between-google-parity-and-innovation"
+    },
+    {
+      "title": "After 12 months of testing, why I’m moving all campaigns over to Smart bidding",
+      "speaker": "Rob Watson",
+      "slides": "https://www.slideshare.net/RobWatson34/after-12-months-of-testing-why-im-moving-all-campaigns-over-to-smart-bidding",
+      "audio": "https://brightonseo.libsyn.com/rob-watson-after-12-months-of-testing-why-im-moving-all-campaigns-over-to-smart-bidding"
+    },
+    {
+      "title": "De-Junking Google Ads Accounts",
+      "speaker": "Corey Lendru",
+      "audio": "https://brightonseo.libsyn.com/corey-lendrum-de-junking-google-ads-accounts"
+    },
+    {
+      "title": "Supercharging PPC performance with GA",
+      "speaker": "Louise Childs",
+      "audio": "https://brightonseo.libsyn.com/louise-childs-supercharging-ppc-performance-with-ga"
+    },
+    {
+      "title": "Make More Money By Building Sexy AF PPC Landing Pages For Your Brand",
+      "speaker": "Duane Brown",
+      "audio": "https://brightonseo.libsyn.com/duane-brown-make-more-money-by-building-sexy-af-ppc-landing-pages-for-your-brand"
+    },
+    {
+      "title": "Managing Shopping Ads in an Automated World (With a Variety of Memes Along the Way)",
+      "speaker": "Kirk Williams",
+      "slides": "https://www.slideshare.net/PPCKirk/search-advertising-show-2019-advance-google-shopping-ads",
+      "audio": "https://brightonseo.libsyn.com/kirk-williams-my-top-shopping-ad-tips-for-2019-building-managing"
+    },
+    {
+      "title": "Applying The Pareto Principle to Amazon Advertising",
+      "speaker": "Alec Burns",
+      "slides": "https://www.slideshare.net/AlecBurns3/search-advertising-show-alec-burns-applying-the-pareto-principle-to-amazon-advertising-1",
+      "audio": "https://brightonseo.libsyn.com/alec-burns-applying-the-pareto-principle-to-amazon-advertising"
+    }
+  ]
+}
+
