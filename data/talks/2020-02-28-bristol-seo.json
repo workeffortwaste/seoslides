@@ -1,0 +1,23 @@
+{
+  "conference": "Bristol SEO",
+  "sub_title": "February",
+  "date": "2020-02-28",
+  "talks" : [
+    {
+      "title": "Search In 2020 - it's No Longer About Ranking",
+      "speaker": "Ric Rodriguez",
+      "slides": "https://www.slideshare.net/RicRodriguez1/ric-rodriguez-search-in-2020-its-no-longer-about-ranking"
+    },
+    {
+      "title": "Digital PR that doesn't cost the earth",
+      "speaker": "Fran Griffin",
+      "slides": "https://www.slideshare.net/FranGriffin/fran-griffin-digital-pr-that-doesnt-cost-the-earth-bristolseo-talk-229325928"
+    },
+    {
+      "title": "The SEO headaches of A/B testing",
+      "speaker": "William Barnes",
+      "slides": "https://www.slideshare.net/WilliamBarnes38/the-seo-headaches-of-ab-testing-229392118"
+    }
+  ]
+}
+
