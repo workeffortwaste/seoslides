@@ -1,0 +1,28 @@
+{
+  "conference": "Women In Tech SEO",
+  "sub_title": "Festival",
+  "date": "2020-03-06",
+  "talks" : [
+    {
+      "title": "On-Page Best Practices That Harm Your Traffic",
+      "speaker": "Emily Potter",
+      "slides": "https://www.slideshare.net/EmilyPotter7/final-women-in-tech-seo-emily-potter-2020-229598481"
+    },
+    {
+      "title": "SEO For Marketplaces: Overcoming Technical Challenges",
+      "speaker": "Aleyda Solis",
+      "slides": "https://www.slideshare.net/aleydasolis/seo-for-marketplaces-overcoming-technical-challenges-wtsfest"
+    },
+    {
+      "title": "Delimit Your Data: Formulas For Success",
+      "speaker": "Hannah Rampton",
+      "slides": "https://www.slideshare.net/HannahRamptonButler/delimit-your-data-with-google-sheets-wtsfest-2020"
+    },
+    {
+      "title": "Tackling Python: How It Can Help With Technical SEO",
+      "speaker": "Ruth Everett",
+      "slides": "https://www.slideshare.net/RuthEverett1/python-for-technical-seo-women-in-tech-seo-festival-march-2020-ruth-everett"
+    }
+  ]
+}
+
