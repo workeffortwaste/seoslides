@@ -1,0 +1,38 @@
+{
+  "conference": "Better Together",
+  "date": "2020-04-16",
+  "talks" : [
+    {
+      "title": "Debugging JavaScript",
+      "speaker": "Martin Splitt",
+      "video": "https://www.youtube.com/watch?v=LUOs3ZbXG7o&t=695s"
+    },
+    {
+      "title": "All or nothing: Technical SEO",
+      "speaker": "Bartosz Góralewicz",
+      "video": "https://www.youtube.com/watch?v=LUOs3ZbXG7o&t=2117s"
+    },
+    {
+      "title": "How to use data to make the right decisions for SEO during a crisis",
+      "speaker": "Kevin Indig",
+      "video": "https://www.youtube.com/watch?v=LUOs3ZbXG7o&t=3390s"
+    },
+    {
+      "title": "Language & SEO: You are doing it all wrong",
+      "speaker": "Cindy Krum",
+      "video": "https://www.youtube.com/watch?v=LUOs3ZbXG7o&t=4644s"
+    },
+    {
+      "title": "Q&A - Agency life and best practices for technical SEO strategies",
+      "speaker": "Mike King",
+      "video": "https://www.youtube.com/watch?v=LUOs3ZbXG7o&t=5810s"
+    },
+    {
+      "title": "The Remote SEO Consultant Do's & Dont's: How to keep effective SEO",
+      "speaker": "Aleyda Solis",
+      "slides": "https://www.slideshare.net/aleydasolis/the-remote-seo-dos-donts-how-to-keep-effective-seo-work-while-wfh-bettertogather",
+      "video": "https://www.youtube.com/watch?v=LUOs3ZbXG7o&t=6760s"
+    }
+  ]
+}
+
