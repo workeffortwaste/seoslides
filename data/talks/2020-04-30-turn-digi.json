@@ -1,0 +1,105 @@
+{
+  "conference": "Turn Digi",
+  "date": "2020-04-30",
+  "talks" : [
+    {
+      "title": "How To Prepare for the Un Lockdown",
+      "speaker": "SEO Jo Blogs",
+      "video": "https://www.youtube.com/watch?v=xpOXmlpQnxA"
+    },
+    {
+      "title": "How to Use Linkedin for Outreach",
+      "speaker": "Stuart Turner",
+      "video": "https://www.youtube.com/watch?v=xpOXmlpQnxA"
+    },
+    {
+      "title": "How to work effectively from home",
+      "speaker": "Ruth Turnbull",
+      "video": "https://www.youtube.com/watch?v=xpOXmlpQnxA"
+    },
+    {
+      "title": "Staying In Control No Matter the Circumstance",
+      "speaker": "Briony Gunson",
+      "video": "https://www.youtube.com/watch?v=xpOXmlpQnxA"
+    },
+    {
+      "title": "Diversity in Digital – Overcoming the barrier",
+      "speaker": "Sheri Mandour",
+      "video": "https://www.youtube.com/watch?v=xpOXmlpQnxA"
+    },
+    {
+      "title": "4 SEO tips in challenging times",
+      "speaker": "John Mueller",
+      "video": "https://www.youtube.com/watch?v=nBebkKwXatU"
+    },
+    {
+      "title": "Make the most of the power of PPC",
+      "speaker": "Arianne Donoghue",
+      "slides": "https://www.slideshare.net/ariannedonoghue/make-the-most-of-the-power-of-ppc-turn-digi-april-2020",
+      "video": "https://www.youtube.com/watch?v=nBebkKwXatU"
+    },
+    {
+      "title": "Setting up your Google Analytics for success and happiness",
+      "speaker": "Helen Pollitt",
+      "slides": "https://www.arrowsup.co.uk/industry-contributions/turndigi-april-2020/",
+      "video": "https://www.youtube.com/watch?v=nBebkKwXatU"
+    },
+    {
+      "title": "Getting your brand message right in times of crisis – how brand responded",
+      "speaker": "Shelley Walsh",
+      "slides": "https://shellshockuk.com/how-to-find-the-right-tone-of-voice-create-content-2020-pandemic/",
+      "video": "https://www.youtube.com/watch?v=nBebkKwXatU"
+    },
+    {
+      "title": "How to make eCommerce product pages content unique",
+      "speaker": "Kristina Azarenko",
+      "slides": "https://www.slideshare.net/KristinaAzarenko/how-to-make-ecommerce-product-pages-content-unique",
+      "video": "https://www.youtube.com/watch?v=OPoV-QnbbtU"
+    },
+    {
+      "title": "Practical tips and tricks on working remotely",
+      "speaker": "Jason Barnard",
+      "video": "https://www.youtube.com/watch?v=OPoV-QnbbtU"
+    },
+    {
+      "title": "Email marketing is dead. Or is it?",
+      "speaker": "Maret Reutelingsperger",
+      "slides": "https://www.mobedigital.com/talk-turn-digi/",
+      "video": "https://www.youtube.com/watch?v=OPoV-QnbbtU"
+    },
+    {
+      "title": "Executing an international migration for SEO in your dressing gown",
+      "speaker": "Joanna Lewis",
+      "video": "https://www.youtube.com/watch?v=OPoV-QnbbtU"
+    },
+    {
+      "title": "Actionable tips to increase the Authority of your site",
+      "speaker": "Lily Ray",
+      "slides": "https://www.slideshare.net/LilyRay1/actionable-tips-to-increase-your-website-authority-lily-ray",
+      "video": "https://www.youtube.com/watch?v=OPoV-QnbbtU"
+    },
+    {
+      "title": "How to measure and report on link building in 2020",
+      "speaker": "Irina Nica",
+      "video": "https://www.youtube.com/watch?v=8sURpxCDjRo"
+    },
+    {
+      "title": "The SERP Whisperer – identifying intent by studying the SERPs",
+      "speaker": "Chris Green",
+      "slides": "https://www.slideshare.net/chr156r33n/the-serp-whisperer-turn-digi-2020",
+      "video": "https://www.youtube.com/watch?v=8sURpxCDjRo"
+    },
+    {
+      "title": "Content to make you outrank your competition",
+      "speaker": "Victoria Olsina",
+      "slides": "https://www.slideshare.net/volsina1/content-to-make-you-outrank-your-competition-at-turn-digi",
+      "video": "https://www.youtube.com/watch?v=8sURpxCDjRo"
+    },
+    {
+      "title": "Accessibility online, why bother and what to do?",
+      "speaker": "Lily Dedman",
+      "video": "https://www.youtube.com/watch?v=8sURpxCDjRo"
+    }
+  ]
+}
+
