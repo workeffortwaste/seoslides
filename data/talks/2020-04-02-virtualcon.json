@@ -1,0 +1,21 @@
+{
+  "conference": "VirtuaCon",
+  "sub_title": "April",
+  "date": "2020-04-02",
+  "talks" : [
+    {
+      "title": "JavaScript, Headless, SPAs & SEO Results",
+      "speaker": "Reza Moaiandin",
+      "video": "https://youtu.be/bU7reOLU9OE?t=870"
+    },
+    {
+      "title": "Going from zero to hero through automation",
+      "speaker": "Dan Leibson",
+      "video": "https://youtu.be/bU7reOLU9OE?t=2017"
+    },
+    {
+      "title": "Navigating the Critical Rendering Path",
+      "speaker": "Jamie Alberico",
+      "video": "https://youtu.be/bU7reOLU9OE?t=3350"
+    }
+}
