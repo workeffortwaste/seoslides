@@ -1,0 +1,54 @@
+{
+  "conference": "SEO4Life",
+  "sub_title": "April",
+  "date": "2020-04-02",
+  "talks" : [
+    {
+      "title": "Top SEOs do's and don'ts during Web Migrations & How to avoid Most Errors",
+      "speaker": "Aleyda Solis",
+      "video": "https://www.youtube.com/watch?v=t3aT3r9vSrk",
+      "slides": "https://www.slideshare.net/aleydasolis/winning-seo-when-doing-web-migrations-seo4life",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "Query Classification on Steroids with BERT",
+      "speaker": "Hamlet Batista",
+      "video": "https://www.youtube.com/watch?v=_eMrfJW9WLc",
+      "slides": "https://www.slideshare.net/hamletbatista/query-classification-on-steroids-with-bert",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "Your Get-Started Guide to Inclusive Marketing",
+      "speaker": "Purna Virji",
+      "slides": "https://marketingminer-datasets-test.s3.eu-central-1.amazonaws.com/Purna_InclusiveMktg_SEO4Life_FP.pdf",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "Google's transformation from search to answer engine",
+      "speaker": "Kevin Indig",
+      "video": "https://www.youtube.com/watch?v=m2bQ8s9LO9E",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "JavaScript 101 for SEOs",
+      "speaker": "Martin Splitt",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "Russ Jones",
+      "speaker": "Assessing Content Quality Programmatically",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "Cindy Krum",
+      "speaker": "What are Fraggles & Why Do They Matter?",
+      "recap": "https://www.seo4life.stream/summary/"
+    },
+    {
+      "title": "Jono Alderson",
+      "speaker": "What happens when everybody's website is fixed",
+      "slides": "https://docs.google.com/presentation/d/1q3zm8HKImsjqn7Ynqh0gNWKDseAhgfJO3sr2XPNYWrQ/",
+      "recap": "https://www.seo4life.stream/summary/"
+    }
+  ]
+}
