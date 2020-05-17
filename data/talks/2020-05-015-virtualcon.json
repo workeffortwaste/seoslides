@@ -1,0 +1,47 @@
+{
+  "conference": "VirtuaCon",
+  "sub_title": "2.0",
+  "date": "2020-05-15",
+  "talks" : [
+    {
+      "title": "From Zero To Hero With Local Automation",
+      "speaker": "Dan Leibson",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=4014"
+    },
+    {
+      "title": "Technical SEO for JS Developers",
+      "speaker": "Martin Splitt",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=6024"
+    },
+    {
+      "title": "Crawling & Indexing Issues for Large Websites",
+      "speaker": "John Morabito",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=7936"
+    },
+    {
+      "title": "SEO Hacks for Managing Multiple Clients",
+      "speaker": "Niki Mosier",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=17200"
+    },
+    {
+      "title": "Unlock Internal Link Power",
+      "speaker": "Jenny Halasz",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=11743"
+    },
+    {
+      "title": "SEO on the JAMstack",
+      "speaker": "Scott Mathson",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=13551"
+    },
+    {
+      "title": "Serverless Computing at the Edge",
+      "speaker": "Mo Aboul-Magd",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=15915"
+    },
+    {
+      "title": "The Stages Of SEO (Campaign) Growth",
+      "speaker": "Callum Corrigan",
+      "video": "https://youtu.be/_hlZvkEeKyE?t=9762"
+    }
+  ]
+}
