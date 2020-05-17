@@ -1,0 +1,41 @@
+{
+  "conference": "Traffic Think Tank Live",
+  "date": "2020-05-16",
+  "talks" : [
+    {
+      "title": "Scaling Keyword Research to Find Content Gaps",
+      "speaker": "Hamlet Batista",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/TTT-Live-2020-Hamlet-Batista-APPROVED-V1-050120-1.pptx"
+    },
+    {
+      "title": "SEO for JavaScript Frameworks: connecting the dots between your frameworks and CMS",
+      "speaker": "Jamie Alberico",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/TTT-Live-2020-Jamie-Alberico-05042020-1.pptx"
+    },
+    {
+      "title": "State of the SERPS - A journey through 100,000 keywords and 1,200 domains",
+      "speaker": "Kevin Indig",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/TTT-Live-2020-Kevin-Indig-05042020-1.pptx"
+    },
+    {
+      "title": "Building an ROI-Based Link Building Machine",
+      "speaker": "Jon Cooper",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/TTT-Live-2020-JonCooper-05042020-1.pptx"
+    },
+    {
+      "title": "How COVID-19 is Shaping Organic Search & How SEOs Can Respond",
+      "speaker": "Lily Ray",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/TTT-Live-2020-Lily-Ray-042920-1.pptx"
+    },
+    {
+      "title": "Soft SEO - How to Win Friends and Influence Leadership",
+      "speaker": "Jackie Chu",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/TTT-Live-2020-Jackie-Chu-05032020-1.pptx"
+    },
+    {
+      "title": "Using Open Data to Create Content that Educates, Builds Links, Earns Press, and Converts",
+      "speaker": "Kristin Tynski",
+      "slides": "https://trafficthinktank.com/wp-content/uploads/2019/07/Kristin-Tynski-Fractl-Traffic-Think-Tank-LIVE-2020-Deck-.pdf"
+    }
+  ]
+}
