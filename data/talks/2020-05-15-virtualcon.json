@@ -6,22 +6,24 @@
     {
       "title": "From Zero To Hero With Local Automation",
       "speaker": "Dan Leibson",
-      "video": "https://youtu.be/_hlZvkEeKyE?t=4014"
+      "video": "https://youtu.be/_hlZvkEeKyE?t=4014",
+      "slides": "https://docs.google.com/presentation/d/1CYbDj5DIQK65rksTIRp9MnpOGXcjrFxQGO9y3AuqjM8/edit"
     },
     {
       "title": "Technical SEO for JS Developers",
       "speaker": "Martin Splitt",
-      "video": "https://youtu.be/_hlZvkEeKyE?t=6024"
+      "video": "https://www.youtube.com/watch?v=2u-gReZfV_s"
     },
     {
       "title": "Crawling & Indexing Issues for Large Websites",
       "speaker": "John Morabito",
-      "video": "https://youtu.be/_hlZvkEeKyE?t=7936"
+      "video": "https://www.youtube.com/watch?v=FQhboIb4y68"
     },
     {
       "title": "SEO Hacks for Managing Multiple Clients",
       "speaker": "Niki Mosier",
-      "video": "https://youtu.be/_hlZvkEeKyE?t=17200"
+      "video": "https://youtu.be/_hlZvkEeKyE?t=17200",
+      "slides": "https://docs.google.com/presentation/d/1KTuwub9DIqSEbQv76vN3-ZuOmubF66K0wI00Q12kKG0/edit"
     },
     {
       "title": "Unlock Internal Link Power",
@@ -31,7 +33,8 @@
     {
       "title": "SEO on the JAMstack",
       "speaker": "Scott Mathson",
-      "video": "https://youtu.be/_hlZvkEeKyE?t=13551"
+      "video": "https://youtu.be/_hlZvkEeKyE?t=13551",
+      "slides": "https://scottmathson.com/blog/2020/05/15/seo-on-the-jamstack-virtuacon-presentation/"
     },
     {
       "title": "Serverless Computing at the Edge",
