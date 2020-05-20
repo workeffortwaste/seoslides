@@ -1,0 +1,33 @@
+{
+  "conference": "SMX London",
+  "sub_title": "Virtual",
+  "date": "2020-05-19",
+  "talks" : [
+    {
+      "title": "Reporting for Results",
+      "speaker": "Helen Pollitt",
+      "slides": "https://www.arrowsup.co.uk/industry-contributions/smx-london-may-2020/"
+    },
+    {
+      "title": "All You Can EAT",
+      "speaker": "Jessica James",
+      "slides": "https://www.slideshare.net/NicholaStott/all-you-can-eat-smx-london"
+    },
+    {
+      "title": "Introducing Smart Targets",
+      "speaker": "Wijnand Meijer",
+      "slides": "https://www.slideshare.net/wijnandmeijer/introducing-smart-targets-smx-london-2020"
+    },
+    {
+      "title": "UTM Tagging for GMB",
+      "speaker": "Claire Carlile",
+      "slides": "https://www.slideshare.net/clairecarlile/utm-tagging-for-gmb-smx-london-may-2020"
+    },
+    {
+      "title": "PPC: Location, Location, Location",
+      "speaker": "Oliver Ewbank",
+      "slides": "https://www.slideshare.net/OliverEwbank/oliver-ewbank-smx-london-the-local-ads-landscape"
+    }
+  ]
+}
+
