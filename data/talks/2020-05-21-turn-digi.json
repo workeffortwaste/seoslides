@@ -1,0 +1,68 @@
+{
+  "conference": "Turn Digi",
+  "sub_title": "May",
+  "date": "2020-05-21",
+  "talks" : [
+    {
+      "title": "An introduction to #IamRemarkable - How to celebrate your achievements and feel empowered",
+      "speaker": "Kerstin Reichert",
+      "video": "https://www.youtube.com/watch?v=b1cEwxnZ740"
+    },
+    {
+      "title": "Attract more clients on LinkedIn & grow your brand power of influence",
+      "speaker": "Flavilla Fongang",
+      "video": "https://www.youtube.com/watch?v=b1cEwxnZ740"
+    },
+    {
+      "title": "Amplify what's working: Focusing on strengths over weaknesses",
+      "speaker": "Margo Barsukova",
+      "video": "https://www.youtube.com/watch?v=b1cEwxnZ740"
+    },
+    {
+      "title": "Three new data points you need to measure in Google Analytics",
+      "speaker": "Luke Carthy",
+      "video": "https://www.youtube.com/watch?v=B_GQSW7U3xA"
+    },
+    {
+      "title": "The Problem with WordPress... and what to do about it.",
+      "speaker": "Faisal Anderson",
+      "video": "https://www.youtube.com/watch?v=B_GQSW7U3xA"
+    },
+    {
+      "title": "Navigating the SERPs landscape",
+      "speaker": "Paige Hobart",
+      "video": "https://www.youtube.com/watch?v=B_GQSW7U3xA"
+    },
+    {
+      "title": "The truth about digital PR: what is 'normal' when it comes to coverage and links for campaigns?",
+      "speaker": "Shannon McGuirk",
+      "video": "https://www.youtube.com/watch?v=tEuo8sk0F2k"
+    },
+    {
+      "title": "Growing Ecommerce Revenue with Google Ads in an Economic Crisis",
+      "speaker": "Pınar Ünsal",
+      "video": "https://www.youtube.com/watch?v=tEuo8sk0F2k"
+    },
+    {
+      "title": "Why digital PR is more than just link building",
+      "speaker": "James Crawford",
+      "video": "https://www.youtube.com/watch?v=tEuo8sk0F2k"
+    },
+    {
+      "title": "Integrating Google Indexing Data in your SEO Strategy",
+      "speaker": "Jose Hernando",
+      "video": "https://www.youtube.com/watch?v=0lB77hoZHLw"
+    },
+    {
+      "title": "Preparing for the New Norm",
+      "speaker": "Hannah Thorpe",
+      "video": "https://www.youtube.com/watch?v=0lB77hoZHLw"
+    },
+    {
+      "title": "Is Behavioural Economics the Secret Weapon your PPC has Been Missing?",
+      "speaker": "Becky Simms",
+      "video": "https://www.youtube.com/watch?v=0lB77hoZHLw"
+    }
+  ]
+}
+
