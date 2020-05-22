@@ -1,0 +1,28 @@
+{
+  "conference": "SMX Munich",
+  "sub_title": "Virtual",
+  "date": "2020-03-18",
+  "talks" : [
+    {
+      "title": "Optimizing for Google Discover",
+      "speaker": "Valentin Pletzer",
+      "slides": "https://www.slideshare.net/VorticonCmdr/optimizing-for-google-discover-smx-munich-2020"
+    },
+    {
+      "title": "Your SEO Experience is Holding You Back",
+      "speaker": "Emily Potter",
+      "slides": "https://www.slideshare.net/EmilyPotter7/final-smx-virtual-emily-potter-2020-230461715"
+    },
+    {
+      "title": "Using Jupyter to Make Marketing Easier",
+      "speaker": "Robin Lord",
+      "slides": "https://www.therobinlord.com/using-jupyter-to-make-marketing-easier/"
+    },
+    {
+      "title": "PPC Data Visualisation - Beyond the Surface",
+      "speaker": "Samantha Noble",
+      "slides": "https://www.dropbox.com/s/gs5rtimnojo3326/Mar20%20-%20PPC%20Data%20Visualisation%20%E2%80%93%20Beyond%20the%20Surface.pdf?dl=0"
+    }
+  ]
+}
+
