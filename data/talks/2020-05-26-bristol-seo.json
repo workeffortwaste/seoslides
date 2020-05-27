@@ -1,0 +1,25 @@
+{
+  "conference": "Bristol SEO",
+  "sub_title": "May",
+  "date": "2020-05-26",
+  "talks" : [
+    {
+      "title": "The Power of Python: How It Can Help With Technical SEO",
+      "speaker": "Ruth Everett",
+      "video": "https://bristolseo.webinarninja.com/live-webinars/316093/register",
+      "slides": "https://www.slideshare.net/RuthEverett1/the-power-of-python-how-it-can-help-with-technical-seo-bristol-seo-may-2020-ruth-everett"
+    },
+    {
+      "title": "Spying on Google: Using Log File Analysis To Reveal Invaluable SEO Insights",
+      "speaker": "Faisal Anderson",
+      "video": "https://bristolseo.webinarninja.com/live-webinars/316093/register"
+    },
+    {
+      "title": "How to Use Screaming Frog Custom Extractions",
+      "speaker": "Jessica James",
+      "video": "https://bristolseo.webinarninja.com/live-webinars/316093/register",
+      "slides": "https://www.slideshare.net/NicholaStott/how-to-use-screaming-frog-custom-extractions"
+    }
+  ]
+}
+
