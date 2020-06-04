@@ -1,0 +1,19 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "June",
+  "date": "2020-06-02",
+  "talks" : [
+    {
+      "title": "How To Create High Quality eCommerce Categories?",
+      "speaker": "Kristina Azarenko",
+      "video": "https://www.youtube.com/watch?v=JQiAEmB9WPY",
+      "slides": "https://marketingsyrup.com/the-8-step-ecommerce-framework/"
+    },
+    {
+      "title": "What To Do When Just One Data Source Is Not Enough",
+      "speaker": "Gaston Riera",
+      "video": "https://www.youtube.com/watch?v=JQiAEmB9WPY"
+    }
+  ]
+}
+

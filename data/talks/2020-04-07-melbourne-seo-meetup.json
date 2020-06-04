@@ -1,0 +1,18 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "April",
+  "date": "2020-04-07",
+  "talks" : [
+    {
+      "title": "How To Win DR70+ Links At Scale With HARO",
+      "speaker": "Daniel Cheung",
+      "video": "https://www.youtube.com/watch?v=BOnxsvHX5Lk"
+    },
+    {
+      "title": "Optimising Ad Copy With Data Driven Testing",
+      "speaker": "James Polidoras",
+      "video": "https://www.youtube.com/watch?v=BOnxsvHX5Lk"
+    }
+  ]
+}
+

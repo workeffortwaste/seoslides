@@ -1,0 +1,18 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "May",
+  "date": "2020-05-05",
+  "talks" : [
+    {
+      "title": "Speeding up WordPress",
+      "speaker": "Cory Wolf",
+      "video": "https://www.youtube.com/watch?v=-xekTsL5qgY"
+    },
+    {
+      "title": "Creative Content Ideas & How To Leverage Them To Maximise Your SEO Efforts",
+      "speaker": "Girish Sawlani",
+      "video": "https://www.youtube.com/watch?v=-xekTsL5qgY"
+    }
+  ]
+}
+
