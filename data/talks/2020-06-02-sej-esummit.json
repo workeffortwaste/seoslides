@@ -1,0 +1,17 @@
+{
+  "conference": "SEJ eSummit",
+  "sub_title": "June",
+  "date": "2020-05-02",
+  "talks" : [
+    {
+      "title": "International SEO for E-Commerce Websites",
+      "speaker": "Aleyda Solis",
+      "slides": "https://www.slideshare.net/aleydasolis/international-seo-for-ecommerce-websites-sejlive-sejesummit"
+    },
+    {
+      "title": "How to Improve Your Website’s E-A-T",
+      "speaker": "Lily Ray",
+      "slides": "https://www.pathinteractive.com/wp-content/uploads/2020/06/E-A-T-SEJ-Summit-Lily-Ray.pdf"
+    }
+  ]
+}
