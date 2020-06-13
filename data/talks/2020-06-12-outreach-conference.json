@@ -1,0 +1,11 @@
+{
+  "conference": "outREACH Conference",
+  "date": "2020-06-12",
+  "talks" : [
+    {
+      "title": "Great Expectations: The Truth About Digital PR",
+      "speaker": "Shannon McGuirk",
+      "slides": "https://www.slideshare.net/ShannonMcGuirk/outreach-online-the-truth-about-digital-pr"
+    }
+  ]
+}
