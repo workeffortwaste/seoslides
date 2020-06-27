@@ -1,0 +1,21 @@
+{
+  "conference": "Upload Conference",
+  "date": "2020-06-25",
+  "talks" : [
+    {
+      "title": "Still No Eye Deer (or things to do when your imaginary friends refuse to talk to you)",
+      "speaker": "Hannah Smith",
+      "slides": "https://www.slideshare.net/HannahBoBanna/still-no-eye-deer-or-things-to-do-when-your-imaginary-friends-refuse-to-talk-to-you"
+    },
+    {
+      "title": "Prioritizing SEO for Success in a World of Uncertainty",
+      "speaker": "Aleyda Solis",
+      "slides": "https://www.slideshare.net/aleydasolis/prioritizing-seo-for-success-in-a-world-of-uncertainty-uploadconf"
+    },
+    {
+      "title": "Why you need a strategy first approach to SEO",
+      "speaker": "Kevin Gibbons",
+      "slides": "https://www.slideshare.net/kevgibbo/why-you-need-a-strategy-first-approach-to-seo"
+    }
+  ]
+}
