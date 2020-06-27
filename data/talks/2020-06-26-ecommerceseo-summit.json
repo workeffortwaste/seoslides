@@ -1,0 +1,75 @@
+{
+  "conference": "ecommerceSEO. Summit",
+  "date": "2020-06-26",
+  "talks" : [
+    {
+      "title": "Getting Ecommerce Analytics Reporting Right During A Pandemic",
+      "speaker": "Azeem Ahmad",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/getting-ecommerce-analytics-reporting-right-during-a-pandemic/"
+    },
+    {
+      "title": "Fuelling your growth through conversion research",
+      "speaker": "Andra Baragan",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/fuelling-your-growth-through-conversion-research/"
+    },
+    {
+      "title": "The Step-by-Step Guide to Bootstrapping your eCommerce Business to $1m in revenue",
+      "speaker": "Kris Sugatan",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/the-step-by-step-guide-to-bootstrapping-your-ecommerce-business-to-1mm-in-revenue/"
+    },
+    {
+      "title": "Glo Up: Visual Search Optimization for the New Online Shopper",
+      "speaker": "Joelle Irvine",
+      "slides": "https://www.slideshare.net/JoelleIrvine/glo-up-visual-search-optimization-for-the-new-online-shopper-ecommerce-seo-summit-2020",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/glo-up-visual-search-optimization-for-the-new-online-shopper/"
+    },
+    {
+      "title": "Snap Ads: Learn Why Its Every DTC Brands Secret Weapon For Growth",
+      "speaker": "Duane Brown",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/snap-ads-learn-why-its-every-dtc-brands-secret-weapon-for-growth/"
+    },
+    {
+      "title": "Strength and weakness of Shopify SEO",
+      "speaker": "Nicole Bingham",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/strength-and-weakness-of-shopify-seo/"
+    },
+    {
+      "title": "Keyword research for Amazon SEO",
+      "speaker": "Emanuele Arosio",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/keywords-research-for-amazon-seo/"
+    },
+    {
+      "title": "User Centric Technical SEO",
+      "speaker": "Edd Wilson",
+      "slides": "https://www.slideshare.net/EddWilson1/edd-wilson-user-centric-technical-seo-236201042",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/user-centric-technical-seo/"
+    },
+    {
+      "title": "Could your e-commerce strategy benefit from some post COVID-19 therapy?",
+      "speaker": "Becky Simms",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/could-your-e-commerce-strategy-benefit-from-some-post-covid-19-therapy/"
+    },
+    {
+      "title": "Local SEO Glow-Up: Easy Strategies for eCommerce & Retail",
+      "speaker": "Jayna Grassel",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/local-seo-glow-up-easy-strategies-for-ecommerce-retail/"
+    },
+    {
+      "title": "How Online Stores Quickly Build Sub-categories Targeting Long-tail Keywords",
+      "speaker": "Kristina Azarenko",
+      "slides": "https://www.slideshare.net/KristinaAzarenko/how-online-stores-can-quickly-build-subcategories-targeting-longtail-keywords-brightonseo-ecommerce-summit",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/how-online-stores-quickly-build-sub-categories-targeting-long-tail-keywords/"
+    },
+    {
+      "title": "Structured Data: Is It Worth Your Time?",
+      "speaker": "Sam Nemzer",
+      "slides": "https://www.slideshare.net/SamNemzer/structured-data-is-it-worth-your-time-ecommerce-seo-summit-june-2020",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/structured-data-is-it-worth-your-time/"
+    },
+    {
+      "title": "The top 10 fatal errors of all E-commerces and How to fix them",
+      "speaker": "Fernando Angula",
+      "video": "https://ecommerceseosummit.heysummit.com/talks/the-top-10-fatal-errors-of-all-e-commerces-and-how-to-fix-them/"
+    }
+  ]
+}
