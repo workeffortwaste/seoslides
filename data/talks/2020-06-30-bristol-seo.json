@@ -1,0 +1,25 @@
+{
+  "conference": "Bristol SEO",
+  "sub_title": "June",
+  "date": "2020-06-30",
+  "talks" : [
+    {
+      "title": "Using Schema during a time of crisis: what can we learn for search?",
+      "speaker": "Beth Barnham",
+      "video": "https://www.youtube.com/watch?v=SG5I6RlXaf4",
+      "slides": "https://www.slideshare.net/BristolSEOMeetup/bristolseo-using-schema-during-a-time-of-crisis-what-can-we-learn-for-search"
+    },
+    {
+      "title": "How To Get Big Links Without A Big Budget",
+      "speaker": "Louise Parker",
+      "video": "https://www.youtube.com/watch?v=SG5I6RlXaf4",
+      "slides": "https://www.slideshare.net/BristolSEOMeetup/bristolseo-how-to-get-big-links-without-a-big-budget"
+    },
+    {
+      "title": "6 steps to create a data-driven content strategy",
+      "speaker": "Lisiane Ndong",
+      "video": "https://www.youtube.com/watch?v=SG5I6RlXaf4"
+    }
+  ]
+}
+
