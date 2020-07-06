@@ -1,0 +1,67 @@
+{
+  "conference": "Turn Digi",
+  "sub_title": "July",
+  "date": "2020-07-02",
+  "talks" : [
+    {
+      "title": "Boosting Product Discovery for SMBs ",
+      "speaker": "Joelle Irvine",
+      "video": "https://www.youtube.com/watch?v=pCdJf8uSW9M",
+      "slides": "https://www.slideshare.net/JoelleIrvine/boosting-product-discovery-for-small-businesses-turn-digi"
+    },
+    {
+      "title": "The importance of workplace culture ",
+      "speaker": "Cheryl Luzet",
+      "video": "https://www.youtube.com/watch?v=b1cEwxnZ740"
+    },
+    {
+      "title": "Automate the Monotonous or Die Trying",
+      "speaker": "Chris Simmance",
+      "video": "https://www.youtube.com/watch?v=pCdJf8uSW9M",
+      "slides": "https://www.slideshare.net/chrissimmance/automate-or-die-turndigi-2nd-july-2020"
+    },
+    {
+      "title": "Getting Tech SEO Implemented",
+      "speaker": "Areej AbuAli",
+      "video": "https://www.youtube.com/watch?v=GWwJLzze0co",
+      "slides": "https://www.slideshare.net/areejabuali/turndigi-2020-getting-tech-seo-implemented"
+    },
+    {
+      "title": "Adventures in the land of Wix",
+      "speaker": "Simon Cox",
+      "video": "https://www.youtube.com/watch?v=GWwJLzze0co"
+    },
+    {
+      "title": "Topic Clusters - The why and the how",
+      "speaker": "Maret Reutelingsperger",
+      "video": "https://www.youtube.com/watch?v=GWwJLzze0co"
+    },
+    {
+      "title": "Small budget - big problem? Tips to succeed in local PPC.",
+      "speaker": "Azeem Ahmad",
+      "video": "https://www.youtube.com/watch?v=k9UPemnieqA"
+    },
+    {
+      "title": "How to make local landing pages that Google (and users!) will love",
+      "speaker": "Andrew Cock-Starkey",
+      "video": "https://www.youtube.com/watch?v=k9UPemnieqA"
+    },
+    {
+      "title": "UTM FTW - How to Win in GMB with UTM Tagging",
+      "speaker": "Claire Carlile",
+      "video": "https://www.youtube.com/watch?v=k9UPemnieqA",
+      "slides": "https://www.clairecarlilemarketing.com/speaking-events/turn-digi-online-event/"
+    },
+    {
+      "title": "International SERPs",
+      "speaker": "SEO Jo Blogs",
+      "video": "https://www.youtube.com/watch?v=qmFrJRkMjSs"
+    },
+    {
+      "title": "How to Achieve More than a Million Euros from Online Leads in 9 months",
+      "speaker": "Sabiha Shakil",
+      "video": "https://www.youtube.com/watch?v=qmFrJRkMjSs"
+    }
+  ]
+}
+
