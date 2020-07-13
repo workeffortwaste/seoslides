@@ -1,0 +1,58 @@
+{
+  "conference": "VirtuaCon",
+  "sub_title": "3.0",
+  "date": "2020-07-10",
+  "talks" : [
+    {
+      "title": "Applied NLP SEO",
+      "speaker": "Emilija Gjorgjevska",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=2639"
+    },
+    {
+      "title": "How To Craft an Audience-Driven SEO Content Strategy",
+      "speaker": "Yasmin Davila",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=4095"
+    },
+    {
+      "title": "6 Steps To Create A Data-Driven Content Strategy",
+      "speaker": "Lisiane Ndong",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=6089"
+    },
+    {
+      "title": "Search Engine Algorithms and User Experience",
+      "speaker": "Karla Abua",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=7724"
+    },
+    {
+      "title": "Experiments with Internal Linking",
+      "speaker": "Chris Green",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=9421"
+    },
+    {
+      "title": "Content Reoptimization",
+      "speaker": "Heba Said",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=15092"
+    },
+    {
+      "title": "GMB for SMBs",
+      "speaker": "Amy Toman",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=16597"
+    },
+    {
+      "title": "So You Want To Be A Content Creation Master?",
+      "speaker": "Luke David",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=18718"
+    },
+    {
+      "title": "Site Speed, And How To Create A Copy Of Your Site To Test Fixes!",
+      "speaker": "Patrick Stox",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=20231"
+    },
+    {
+      "title": "SEO & Patents",
+      "speaker": "Bill Slawski",
+      "video": "https://youtu.be/HkcdT2xvlLM?t=22230",
+      "slides": "https://www.slideshare.net/billslawski/seo-patents-vrtualcon-v-30"
+    }
+  ]
+}
