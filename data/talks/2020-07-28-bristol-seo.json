@@ -1,0 +1,24 @@
+{
+  "conference": "Bristol SEO",
+  "sub_title": "July",
+  "date": "2020-07-28",
+  "talks" : [
+    {
+      "title": "Regular Expressions for SEO 101",
+      "speaker": "Jonathan Moore",
+      "video": "https://bristolseo.webinarninja.com/live-webinars/400500/register",
+      "slides": "https://www.slideshare.net/NathanLess/regular-expressions-for-seo"
+    },
+    {
+      "title": "We've Gone Full Circle, How Traditional PR Can Help To Build Links",
+      "speaker": "Laura Hogan",
+      "video": "https://bristolseo.webinarninja.com/live-webinars/400500/register"
+    },
+    {
+      "title": "Using python to master long-tail performance at scale",
+      "speaker": "Christopher Ford",
+      "video": "https://bristolseo.webinarninja.com/live-webinars/400500/register"
+    }
+  ]
+}
+
