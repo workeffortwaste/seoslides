@@ -1,0 +1,70 @@
+{
+  "conference": "Advanced Technical SEO Summit",
+  "date": "2020-07-30",
+  "talks" : [
+    {
+      "title": "Automating a Technical SEO pipeline",
+      "speaker": "Steve Pitchford",
+      "video": "https://advancedtechseo.heysummit.com/talks/automating-a-technical-seo-pipeline/"
+    },
+    {
+      "title": "Using off-the-shelf AI tools to augment WordPress",
+      "speaker": "David Lockie",
+      "video": "https://advancedtechseo.heysummit.com/talks/using-off-the-shelf-ai-tools-to-augment-wordpress/"
+    },
+    {
+      "title": "Exploring Google’s NLP API",
+      "speaker": "Jonny Young",
+      "video": "https://advancedtechseo.heysummit.com/talks/exploring-googles-nlp-api/"
+    },
+    {
+      "title": "Beyond the Report: How to create strategy based on search data",
+      "speaker": "Shyam Dattani",
+      "video": "https://advancedtechseo.heysummit.com/talks/beyond-the-report-how-to-create-strategy-based-on-search-data/"
+    },
+    {
+      "title": "How to work with devs to get your SEO recommendations implemented",
+      "speaker": "Maria Camanes Fores",
+      "video": "https://advancedtechseo.heysummit.com/talks/how-to-work-with-devs-to-get-your-seo-recommendations-implemented/"
+    },
+    {
+      "title": "Getting SEO Ready for Headless CMS",
+      "speaker": "Tejaswi Suresh",
+      "video": "https://advancedtechseo.heysummit.com/talks/getting-seo-ready-for-headless-cms/"
+    },
+    {
+      "title": "How to do a really good tech audit",
+      "speaker": "Dominic Woodman",
+      "video": "https://advancedtechseo.heysummit.com/talks/how-to-do-a-really-good-tech-audit/"
+    },
+    {
+      "title": "An SEO’s Guide to Website Migrations",
+      "speaker": "Faye Watt",
+      "video": "https://advancedtechseo.heysummit.com/talks/an-seos-guide-to-website-migrations/",
+      "slides": "https://seeker.digital/website-migrations/"
+    },
+    {
+      "title": "B2B Migrations: A Hidden (oft neglected) Goldmine for Mergers & Acquisitions",
+      "speaker": "Daphne Xenakis",
+      "video": "https://advancedtechseo.heysummit.com/talks/b2b-migrations-a-hidden-oft-neglected-goldmine-for-mergers-acquisitions/"
+    },
+    {
+      "title": "Technical SEO: Understanding the Crawl Before the Walk",
+      "speaker": "Marcia Ingram",
+      "video": "https://advancedtechseo.heysummit.com/talks/technical-seo-understanding-the-crawl-before-the-walk/"
+    },
+    {
+      "title": "Lessons from Crawlers, Screen Readers, the Mobile Friendly Test and the DOM",
+      "speaker": "Jess Peck",
+      "video": "https://advancedtechseo.heysummit.com/talks/lessons-from-crawlers-screen-readers-the-mobile-friendly-test-and-the-dom/",
+      "slides": "https://jessbpeck.com/posts/advancedtechtalk/"
+    },
+    {
+      "title": "JavaScript analysis is extremely important for SEOs and everyone can do it!",
+      "speaker": "Barbara Gaca-Tworek",
+      "video": "https://advancedtechseo.heysummit.com/talks/javascript-analysis-is-extremely-important-for-seos-and-everyone-can-do-it/",
+      "slides":"https://www.slideshare.net/BarbaraGacaTworek/gacatworek-javascript-analysis-is-extremely-important-and-anyone-can-do-it-brightonseo"
+    }
+  ]
+}
+
