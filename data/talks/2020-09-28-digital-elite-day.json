@@ -1,0 +1,26 @@
+{
+  "conference": "Digital Elite Day",
+  "date": "2020-09-28",
+  "talks" : [
+    {
+      "title": "1 CRO team to the whole company embracing CRO",
+      "speaker": "Ton Wesseling",
+      "slides": "https://drive.google.com/file/d/1P6XyHJsz65bDzqYlQJu0LPFmFJjt1gkM/view"
+    },
+    {
+      "title": "Web Browsers and Tracking Protections",
+      "speaker": "Simo Ahava",
+      "slides": "https://www.slideshare.net/SimoAhava/web-browsers-and-tracking-protections"
+    },
+    {
+      "title": "The Monty Python Guide to Internal Linking\n",
+      "speaker": "Grant Simmons",
+      "slides": "https://www.slideshare.net/simmonet/the-monty-python-guide-to-internal-linking-238660744"
+    },
+    {
+      "title": "SEO with free tools and Chrome Extensions",
+      "speaker": "Arnout Hellemans",
+      "slides": "https://www.slideshare.net/ArnoutHellemans1/seo-with-free-tools-and-chrome-extentions-digitalelite20"
+    }
+  ]
+}
