@@ -1,0 +1,21 @@
+{
+  "conference": "INBOUND 2020",
+  "date": "2020-09-22",
+  "talks" : [
+    {
+      "title": "The Python Cheat Sheet for the Busy Marketer",
+      "speaker": "Hamlet Batista",
+      "slides": "https://www.slideshare.net/hamletbatista/the-python-cheat-sheet-for-the-busy-marketer"
+    },
+    {
+      "title": "Bootstrapping A/B Tests for SEO",
+      "speaker": "Joy Brandon",
+      "slides": "https://www.slideshare.net/JoyBrandon/bootstrapping-abtestsforseojoybrandon"
+    },
+    {
+      "title": "The Great HubSpot Case Study",
+      "speaker": "Jon Dick",
+      "slides": "https://network.hubspot.com/slides/the-great-hubspot-case-study?p=7"
+    }
+  ]
+}
