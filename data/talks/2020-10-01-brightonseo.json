@@ -1,0 +1,124 @@
+{
+  "conference": "BrightonSEO",
+  "sub_title": "October",
+  "date": "2020-10-01",
+  "talks" : [
+    {
+      "title": "Content Audits: how we use search intent to identify a goldmine of content opportunities",
+      "speaker": "Paul Wilkinson",
+      "slides": "https://seeker.digital/content-audit/"
+    },
+    {
+      "title": "5 Reasons to Love Fuzzy Lookup",
+      "speaker": "Marco Bonomo",
+      "slides": "https://www.slideshare.net/MarcoBonomo4/5-reasons-to-love-fuzzy-lookup-brightonseo-2020"
+    },
+    {
+      "title": "Hacking Content Keyword Research",
+      "speaker": "Judith Lewis",
+      "slides": "https://www.slideshare.net/deCabbit/brightonseo-hacking-keyword-research"
+    },
+    {
+      "title": "What I learned from analysing thousands of robots.txt files",
+      "speaker": "Sam Gibson",
+      "slides": "https://www.slideshare.net/SamGipson1/what-i-learned-from-analysing-thousands-of-robotstxt-files-brightonseo-2020"
+    },
+    {
+      "title": "Why Your Culture Is More Important Than Your SEO",
+      "speaker": "Sean Butcher",
+      "slides": "https://www.slideshare.net/SeanButcher1/why-your-culture-is-more-important-than-your-seo-sean-butcher"
+    },
+    {
+      "title": "The Survival Guide for Freelance SEOs (Present & Future)",
+      "speaker": "Steve Morgan",
+      "slides": "https://www.slideshare.net/steviephil/going-solo-the-survival-guide-for-freelance-seos-present-future-brightonseo-oct-2020-238701968"
+    },
+    {
+      "title": "An SEO's Guide to Website Migrations",
+      "speaker": "Faye Watt",
+      "slides": "https://seeker.digital/website-migrations"
+    },
+    {
+      "title": "Automating Google Lighthouse",
+      "speaker": "Hamlet Batista",
+      "slides": "https://www.slideshare.net/hamletbatista/automating-google-lighthouse"
+    },
+    {
+      "title": "Competitor Analysis From A Technical Perspective",
+      "speaker": "Niki Mosier",
+      "slides": "https://www.slideshare.net/NikiMosier/technical-seo-competitive-analysis-brightonseo-2020"
+    },
+    {
+      "title": "Mastering The API and Having Fun Along The Way",
+      "speaker": "Chris Johnson",
+      "slides": "https://defaced.dev/talks/brightonseo-mastering-the-api/"
+    },
+    {
+      "title": "Punching Above Your Weight: From Almost Nowhere, to Beating the Big Names",
+      "speaker": "Natalie Arney",
+      "slides": "https://nataliearney.com/brighton-seo-punching-above-your-weight/"
+    },
+    {
+      "title": "Thank U (Rel) Next - State of Retail Pagination 1Y Later",
+      "speaker": "Orit Mutznik",
+      "slides": "https://www.slideshare.net/OritMutznikSEO/thank-u-rel-next-state-of-retail-pagination-1y-later-orit-mutznik-brightonseo-2020-1",
+      "recap": "https://www.deepcrawl.com/blog/best-practice/state-of-pagination-in-ecommerce/"
+    },
+    {
+      "title": "Designing for Digital PR",
+      "speaker": "Jaz Batisti",
+      "slides": "https://www.slideshare.net/JazmnBatisti/designing-for-digital-pr-238710743"
+    },
+    {
+      "title": "Why comparable entity mining should be an integral part of your keyword research",
+      "speaker": "Dateme Tubotamuno",
+      "slides": "https://www.slideshare.net/DatemeTubotamuno/why-comparable-entity-mining-should-be-an-integral-part-of-your-keyword-research"
+    },
+    {
+      "title": "Smart Link Prospecting or How you Can Find the Most Responsive Link Building Contacts",
+      "speaker": "Alexandra Tachalova",
+      "slides": "https://www.slideshare.net/AlexandraTachalova/brightonseo-2020-smart-link-prospecting-or-how-you-can-find-the-most-responsive-link-building-contacts"
+    },
+    {
+      "title": "How App Indexation Works",
+      "speaker": "Serena Pearson",
+      "slides": "https://www.slideshare.net/SerenaPearson2/how-app-indexation-works"
+    },
+    {
+      "title": "The future of digital PR: Are hero campaigns a thing of the past?",
+      "speaker": "Jane Hunt",
+      "slides": "https://www.slideshare.net/Janeyhunt/brightonseo-the-future-of-digital-pr-are-hero-campaigns-a-thing-of-the-past"
+    },
+    {
+      "title": "Getting Started with Python & Machine Learning for SEO",
+      "speaker": "Ruth Everett",
+      "slides": "https://www.slideshare.net/RuthEverett1/getting-started-with-python-and-machine-learning-for-seo-brightonseo-october-2020-ruth-everett-238702860"
+    },
+    {
+      "title": "Esoteric SEO Tips I Hope You Don't Already Know",
+      "speaker": "Oliver H.G. Mason",
+      "slides": "https://www.slideshare.net/OliverMason3/esoteric-seo-tips-i-hope-you-dont-already-know"
+    },
+    {
+      "title": "How To Build Links To Product Pages Without Looking Like A Spammer",
+      "speaker": "Laura Slingo",
+      "slides": "https://www.slideshare.net/LauraSlingo/how-to-build-links-to-product-pages-without-looking-like-a-spammer"
+    },
+    {
+      "title": "How to build a scalable content production system.",
+      "speaker": "Gareth Simpson",
+      "slides": "https://www.slideshare.net/GarethSimpson2/how-to-build-a-scalable-content-production-system"
+    },
+    {
+      "title": "Earning high-quality links with little or no content pieces",
+      "speaker": "Hana Bednarova",
+      "slides": "https://www.slideshare.net/HanaBednarova1/brightonseo-october-2020-talk"
+    },
+    {
+      "title": "Competitor Site Audits using Free Tools & Data",
+      "speaker": "Sophie Gibson",
+      "recap": "https://riseatseven.com/blog/competitor-site-audits-free/"
+    }
+  ]
+}
+
