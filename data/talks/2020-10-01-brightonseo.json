@@ -128,6 +128,11 @@
       "title": "Reducing the Speed Impact of Third-Party Tags",
       "speaker": "Andy Davies",
       "slides": "https://noti.st/andydavies/V3yMym/reducing-the-speed-impact-of-third-party-tags"
+    },
+    {
+      "title": "Checking Google Index Status at Scale using Node.js",
+      "speaker": "Jose Luis Hernando",
+      "slides": "https://www.slideshare.net/mobile/JoseLuisHernandoSanz/checking-google-index-status-at-scale-using-nodejs-jose-hernando-brightonseo-oct-2020-238741779"
     }
   ]
 }
