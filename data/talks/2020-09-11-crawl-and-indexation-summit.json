@@ -1,0 +1,69 @@
+{
+  "conference": "Crawl and Indexation Summit",
+  "date": "2020-09-11",
+  "talks" : [
+    {
+      "title": "Indexation: The Black Box in the Middle",
+      "speaker": "Dixon Jones",
+      "video": "https://crawlandindexation.heysummit.com/talks/indexation-the-black-box-in-the-middle/"
+    },
+    {
+      "title": "JavaScript - Crawling and indexing: Most common Myths Vs Real issues",
+      "speaker": "Maria Amelie White",
+      "video": "https://crawlandindexation.heysummit.com/talks/javascript-crawling-and-indexing-most-common-myths-vs-real-issues/"
+    },
+    {
+      "title": "Google Discover, the little known traffic source that brings huge amounts of traffic",
+      "speaker": "Panos Ladas",
+      "video": "https://scienceofsearch.heysummit.com/talks/google-discover-the-little-known-traffic-source-that-brings-huge-amounts-of-traffic/"
+    },
+    {
+      "title": "Indexing Javascript Sites: What you should know",
+      "speaker": "Tejaswi Suresh",
+      "video": "https://crawlandindexation.heysummit.com/talks/indexing-javascript-sites-what-you-should-now/"
+    },
+    {
+      "title": "How to maximize your site's crawl efficiency?",
+      "speaker": "Miracle Inameti-Archibong",
+      "video": "https://crawlandindexation.heysummit.com/talks/how-to-maximize-your-sites-crawl-efficiency/"
+    },
+    {
+      "title": "How to use Google Analytics & Google Tag Manager as a SEO crawler",
+      "speaker": "Mikko Piippo",
+      "video": "https://crawlandindexation.heysummit.com/talks/how-to-use-google-analytics-google-tag-manager-as-a-seo-crawler/",
+      "slides": "https://www.mikkopiippo.com/gtm-seo-crawler/"
+    },
+    {
+      "title": "Crawl Rate Dropping: The Usuals vs. The Oddities",
+      "speaker": "Gianna Brachetti-Truskawa",
+      "video": "https://crawlandindexation.heysummit.com/talks/crawl-rate-dropping-the-usuals-vs-the-oddities/"
+    },
+    {
+      "title": "Testing Tales - Lessons & approaches for testing internal linking changes before deployment",
+      "speaker": "Chris Green",
+      "video": "https://crawlandindexation.heysummit.com/talks/testing-tales-lessons-approaches-for-testing-internal-linking-changes-before-deployment/",
+      "slides": "https://www.footprintdigital.co.uk/testing-tales-lessons-approaches-for-testing-internal-linking-changes-before-deployment/"
+    },
+    {
+      "title": "How to Kick Ass at Internal Linking",
+      "speaker": "Martin Hayman",
+      "video": "https://crawlandindexation.heysummit.com/talks/how-to-kick-ass-at-internal-linking/"
+    },
+    {
+      "title": "Internal Linking: How to Unlock Your Site’s Hidden Potential",
+      "speaker": "Jenny Halasz",
+      "video": "https://crawlandindexation.heysummit.com/talks/internal-linking-how-to-unlock-your-sites-hidden-potential/"
+    },
+    {
+      "title": "Troubleshooting An Accidental Ecommerce Un-Indexing",
+      "speaker": "Rachel Vandernick",
+      "video": "https://crawlandindexation.heysummit.com/talks/troubleshooting-an-accidental-ecommerce-un-indexing/"
+    },
+    {
+      "title": "Crawl & Indexing for eCommerce Sites",
+      "speaker": "Sam Taylor",
+      "video": "https://crawlandindexation.heysummit.com/talks/crawl-indexing-for-ecommerce-sites/"
+    }
+  ]
+}
+
