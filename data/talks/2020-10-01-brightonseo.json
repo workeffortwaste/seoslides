@@ -6,22 +6,26 @@
     {
       "title": "Content Audits: how we use search intent to identify a goldmine of content opportunities",
       "speaker": "Paul Wilkinson",
-      "slides": "https://seeker.digital/content-audit/"
+      "slides": "https://seeker.digital/content-audit/",
+      "video": "https://vault.brightonseo.com/talks/showcase-hear-from-seeker-digital-1/"
     },
     {
       "title": "5 Reasons to Love Fuzzy Lookup",
       "speaker": "Marco Bonomo",
-      "slides": "https://www.slideshare.net/MarcoBonomo4/5-reasons-to-love-fuzzy-lookup-brightonseo-2020"
+      "slides": "https://www.slideshare.net/MarcoBonomo4/5-reasons-to-love-fuzzy-lookup-brightonseo-2020",
+      "video": "https://vault.brightonseo.com/talks/5-reasons-to-love-fuzzy-lookup/"
     },
     {
       "title": "Hacking Content Keyword Research",
       "speaker": "Judith Lewis",
-      "slides": "https://www.slideshare.net/deCabbit/brightonseo-hacking-keyword-research"
+      "slides": "https://www.slideshare.net/deCabbit/brightonseo-hacking-keyword-research",
+      "video": "https://vault.brightonseo.com/talks/hacking-content-keyword-research/"
     },
     {
       "title": "What I learned from analysing thousands of robots.txt files",
       "speaker": "Sam Gipson",
-      "slides": "https://www.slideshare.net/SamGipson1/what-i-learned-from-analysing-thousands-of-robotstxt-files-brightonseo-2020"
+      "slides": "https://www.slideshare.net/SamGipson1/what-i-learned-from-analysing-thousands-of-robotstxt-files-brightonseo-2020",
+      "video": "https://vault.brightonseo.com/talks/what-i-learned-from-analysing-thousands-of-robotstxt-files/"
     },
     {
       "title": "Why Your Culture Is More Important Than Your SEO",
@@ -31,78 +35,93 @@
     {
       "title": "The Survival Guide for Freelance SEOs (Present & Future)",
       "speaker": "Steve Morgan",
-      "slides": "https://www.slideshare.net/steviephil/going-solo-the-survival-guide-for-freelance-seos-present-future-brightonseo-oct-2020-238701968"
+      "slides": "https://www.slideshare.net/steviephil/going-solo-the-survival-guide-for-freelance-seos-present-future-brightonseo-oct-2020-238701968",
+      "video": "https://vault.brightonseo.com/talks/going-solo-the-survival-guide-for-freelance-seos-present-future/"
     },
     {
       "title": "An SEO's Guide to Website Migrations",
       "speaker": "Faye Watt",
-      "slides": "https://seeker.digital/website-migrations"
+      "slides": "https://seeker.digital/website-migrations",
+      "video": "https://vault.brightonseo.com/talks/an-seos-guide-to-website-migrations/"
     },
     {
       "title": "Automating Google Lighthouse",
       "speaker": "Hamlet Batista",
-      "slides": "https://www.slideshare.net/hamletbatista/automating-google-lighthouse"
+      "slides": "https://www.slideshare.net/hamletbatista/automating-google-lighthouse",
+      "video": "https://vault.brightonseo.com/talks/automating-google-lighthouse/"
     },
     {
       "title": "Competitor Analysis From A Technical Perspective",
       "speaker": "Niki Mosier",
-      "slides": "https://www.slideshare.net/NikiMosier/technical-seo-competitive-analysis-brightonseo-2020"
+      "slides": "https://www.slideshare.net/NikiMosier/technical-seo-competitive-analysis-brightonseo-2020",
+      "video": "https://vault.brightonseo.com/talks/competitor-analysis-from-a-technical-perspective/"
     },
     {
       "title": "Mastering The API and Having Fun Along The Way",
       "speaker": "Chris Johnson",
-      "slides": "https://defaced.dev/talks/brightonseo-mastering-the-api/"
+      "slides": "https://defaced.dev/talks/brightonseo-mastering-the-api/",
+      "video": "https://vault.brightonseo.com/talks/mastering-the-api-and-having-fun-along-the-way/"
     },
     {
       "title": "Punching Above Your Weight: From Almost Nowhere, to Beating the Big Names",
       "speaker": "Natalie Arney",
-      "slides": "https://nataliearney.com/brighton-seo-punching-above-your-weight/"
+      "slides": "https://nataliearney.com/brighton-seo-punching-above-your-weight/",
+      "video": "https://vault.brightonseo.com/talks/punching-above-your-weight-from-almost-nowhere-to-beating-the-big-names/"
     },
     {
       "title": "Thank U (Rel) Next - State of Retail Pagination 1Y Later",
       "speaker": "Orit Mutznik",
       "slides": "https://www.slideshare.net/OritMutznikSEO/thank-u-rel-next-state-of-retail-pagination-1y-later-orit-mutznik-brightonseo-2020-1",
-      "recap": "https://www.deepcrawl.com/blog/best-practice/state-of-pagination-in-ecommerce/"
+      "recap": "https://www.deepcrawl.com/blog/best-practice/state-of-pagination-in-ecommerce/",
+      "video": "https://vault.brightonseo.com/talks/thank-u-rel-next-state-of-retail-pagination-1y-later/"
     },
     {
       "title": "Designing for Digital PR",
       "speaker": "Jaz Batisti",
-      "slides": "https://www.slideshare.net/JazmnBatisti/designing-for-digital-pr-238710743"
+      "slides": "https://www.slideshare.net/JazmnBatisti/designing-for-digital-pr-238710743",
+      "video": "https://vault.brightonseo.com/talks/designing-for-digital-pr/"
     },
     {
       "title": "Why comparable entity mining should be an integral part of your keyword research",
       "speaker": "Dateme Tubotamuno",
-      "slides": "https://www.slideshare.net/DatemeTubotamuno/why-comparable-entity-mining-should-be-an-integral-part-of-your-keyword-research"
+      "slides": "https://www.slideshare.net/DatemeTubotamuno/why-comparable-entity-mining-should-be-an-integral-part-of-your-keyword-research",
+      "video": "https://vault.brightonseo.com/talks/why-comparable-entity-mining-should-be-an-integral-part-of-your-keyword-strategy/"
     },
     {
       "title": "Smart Link Prospecting or How you Can Find the Most Responsive Link Building Contacts",
       "speaker": "Alexandra Tachalova",
-      "slides": "https://www.slideshare.net/AlexandraTachalova/brightonseo-2020-smart-link-prospecting-or-how-you-can-find-the-most-responsive-link-building-contacts"
+      "slides": "https://www.slideshare.net/AlexandraTachalova/brightonseo-2020-smart-link-prospecting-or-how-you-can-find-the-most-responsive-link-building-contacts",
+      "video": "https://vault.brightonseo.com/talks/smart-link-prospecting-or-how-you-can-find-the-most-responsive-link-building-contacts/"
     },
     {
       "title": "How App Indexation Works",
       "speaker": "Serena Pearson",
-      "slides": "https://www.slideshare.net/SerenaPearson2/how-app-indexation-works"
+      "slides": "https://www.slideshare.net/SerenaPearson2/how-app-indexation-works",
+      "video": "https://vault.brightonseo.com/talks/how-app-indexation-works/"
     },
     {
       "title": "The future of digital PR: Are hero campaigns a thing of the past?",
       "speaker": "Jane Hunt",
-      "slides": "https://www.slideshare.net/Janeyhunt/brightonseo-the-future-of-digital-pr-are-hero-campaigns-a-thing-of-the-past"
+      "slides": "https://www.slideshare.net/Janeyhunt/brightonseo-the-future-of-digital-pr-are-hero-campaigns-a-thing-of-the-past",
+      "video": "https://vault.brightonseo.com/talks/the-future-of-digital-pr-are-hero-campaigns-a-thing-of-the-past/"
     },
     {
       "title": "Getting Started with Python & Machine Learning for SEO",
       "speaker": "Ruth Everett",
-      "slides": "https://www.slideshare.net/RuthEverett1/getting-started-with-python-and-machine-learning-for-seo-brightonseo-october-2020-ruth-everett-238702860"
+      "slides": "https://www.slideshare.net/RuthEverett1/getting-started-with-python-and-machine-learning-for-seo-brightonseo-october-2020-ruth-everett-238702860",
+      "video": "https://vault.brightonseo.com/talks/getting-to-grips-with-python-and-machine-learning-how-it-can-help-with-your-technical-seo/"
     },
     {
       "title": "Esoteric SEO Tips I Hope You Don't Already Know",
       "speaker": "Oliver H.G. Mason",
-      "slides": "https://www.slideshare.net/OliverMason3/esoteric-seo-tips-i-hope-you-dont-already-know"
+      "slides": "https://www.slideshare.net/OliverMason3/esoteric-seo-tips-i-hope-you-dont-already-know",
+      "video": "https://vault.brightonseo.com/talks/esoteric-seo-tips-i-hope-you-dont-already-know/"
     },
     {
       "title": "How To Build Links To Product Pages Without Looking Like A Spammer",
       "speaker": "Laura Slingo",
-      "slides": "https://www.slideshare.net/LauraSlingo/how-to-build-links-to-product-pages-without-looking-like-a-spammer"
+      "slides": "https://www.slideshare.net/LauraSlingo/how-to-build-links-to-product-pages-without-looking-like-a-spammer",
+      "video": "https://vault.brightonseo.com/talks/how-to-build-links-to-product-pages-without-looking-like-a-spammer/"
     },
     {
       "title": "How to build a scalable content production system.",
@@ -112,37 +131,249 @@
     {
       "title": "Earning high-quality links with little or no content pieces",
       "speaker": "Hana Bednarova",
-      "slides": "https://www.slideshare.net/HanaBednarova1/brightonseo-october-2020-talk"
+      "slides": "https://www.slideshare.net/HanaBednarova1/brightonseo-october-2020-talk",
+      "video": "https://vault.brightonseo.com/talks/link-building-earning-high-quality-links-with-little-or-no-content-pieces/"
     },
     {
       "title": "Competitor Site Audits using Free Tools & Data",
       "speaker": "Sophie Gibson",
-      "recap": "https://riseatseven.com/blog/competitor-site-audits-free/"
+      "recap": "https://riseatseven.com/blog/competitor-site-audits-free/",
+      "video": "https://vault.brightonseo.com/talks/how-to-audit-your-competitors-with-free-tools-and-data/"
+    },
+    {
+      "title": "How user-generated video can be your most valuable content marketing tool",
+      "speaker": "Carl Hodler",
+      "video": "https://vault.brightonseo.com/talks/how-user-generated-video-can-be-your-most-valuable-content-marketing-tool/"
+    },
+    {
+      "title": "How to deal with out of stock products",
+      "speaker": "Chantal Schinkels",
+      "video": "https://vault.brightonseo.com/talks/how-to-deal-with-out-of-stock-products/"
+    },
+    {
+      "title": "Public Service SEO During A Crisis",
+      "speaker": "Dan Morehead",
+      "video": "https://vault.brightonseo.com/talks/public-service-seo-during-a-crisis/"
+    },
+    {
+      "title": "Leveraging Voice Search For Local Businesses",
+      "speaker": "Maryna Hradovich",
+      "video": "https://vault.brightonseo.com/talks/leveraging-voice-search-for-local-businesses/"
+    },
+    {
+      "title": "Shopify platform SEO limitations and best ways to overcome them",
+      "speaker": "Izabela Wisniewska",
+      "video": "https://vault.brightonseo.com/talks/shopify-platform-seo-limitations-and-best-ways-to-overcome-them/"
+    },
+    {
+      "title": "Creating Actionable Topic Clusters That Generate Traffic And Conversions",
+      "speaker": "Maret Reutelingsperger",
+      "video": "https://vault.brightonseo.com/talks/creating-actionable-topic-clusters-that-generate-traffic-and-conversions/"
+    },
+    {
+      "title": "The CMO’s Digital Dilemma",
+      "speaker": "Douglas Bell",
+      "video": "https://vault.brightonseo.com/talks/the-cmos-digital-dilemma/"
+    },
+    {
+      "title": "Proving your SEO activity is paying off",
+      "speaker": "Helen Pollitt",
+      "video": "https://vault.brightonseo.com/talks/proving-your-seo-activity-is-paying-off/"
+    },
+    {
+      "title": "SEO | From Zero To Hero",
+      "speaker": "Rene Harris",
+      "video": "https://vault.brightonseo.com/talks/seo-from-zero-to-hero/"
+    },
+    {
+      "title": "Time Saving Tips for Google Data Studio",
+      "speaker": "Greg Gifford",
+      "video": "https://vault.brightonseo.com/talks/time-saving-tips-for-google-data-studio/"
+    },
+    {
+      "title": "How to automate your SEO with Google Apps Script",
+      "speaker": "Gabor Papp",
+      "video": "https://vault.brightonseo.com/talks/how-to-automate-your-seo-with-google-apps-script/"
+    },
+    {
+      "title": "Explainable Machine Learning for Ranking Factors",
+      "speaker": "Vincent Terrasi",
+      "video": "https://vault.brightonseo.com/talks/explainable-ml-for-ranking-factors/"
+    },
+    {
+      "title": "Top things I wish I'd known about Google Analytics When I Started",
+      "speaker": "Charlotte Upfold",
+      "video": "https://vault.brightonseo.com/talks/top-things-i-wish-id-known-about-google-analytics-when-i-started/"
+    },
+    {
+      "title": "Top things I wish I'd known about Google Analytics When I Started",
+      "speaker": "Charlotte Upfold",
+      "video": "https://vault.brightonseo.com/talks/top-things-i-wish-id-known-about-google-analytics-when-i-started/"
     },
     {
       "title": "In-house SEO success; Know the Past to Win the Future",
       "speaker": "Petra Kis-Herczegh",
-      "slides": "https://www.slideshare.net/mobile/PetraKisHerczegh/inhouse-seo-success-know-the-past-to-win-the-future-238710053"
+      "slides": "https://www.slideshare.net/mobile/PetraKisHerczegh/inhouse-seo-success-know-the-past-to-win-the-future-238710053",
+      "video": "https://vault.brightonseo.com/talks/in-house-seo-success-know-the-past-to-win-the-future/"
     },
     {
       "title": "Reducing the Speed Impact of Third-Party Tags",
       "speaker": "Andy Davies",
-      "slides": "https://noti.st/andydavies/V3yMym/reducing-the-speed-impact-of-third-party-tags"
+      "slides": "https://noti.st/andydavies/V3yMym/reducing-the-speed-impact-of-third-party-tags",
+      "video": "https://vault.brightonseo.com/talks/reducing-the-speed-impact-of-third-party-tags/"
     },
     {
       "title": "Checking Google Index Status at Scale using Node.js",
       "speaker": "Jose Luis Hernando",
-      "slides": "https://www.slideshare.net/mobile/JoseLuisHernandoSanz/checking-google-index-status-at-scale-using-nodejs-jose-hernando-brightonseo-oct-2020-238741779"
+      "slides": "https://www.slideshare.net/mobile/JoseLuisHernandoSanz/checking-google-index-status-at-scale-using-nodejs-jose-hernando-brightonseo-oct-2020-238741779",
+      "video": "https://vault.brightonseo.com/talks/checking-google-index-status-at-scale-with-nodejs/"
     },
     {
-      "title": "Go Remote in 2020",
+      "title": "Go Remote in 2020 - Practical Tips To Freelance at Home and Abroad",
       "speaker": "SEO Jo Blogs",
-      "slides": "https://www.seojoblogs.com/brightonseo-october-2020/"
+      "slides": "https://www.seojoblogs.com/brightonseo-october-2020/",
+      "video": "https://vault.brightonseo.com/talks/go-remote-in-2020-practical-tips-to-freelance-at-home-and-abroad/"
     },
     {
       "title": "Running a High Performing Marketing Team Using the Agile/Scrum Framework",
       "speaker": "Bethan Vincent",
-      "slides": "https://www.bethanvincent.com/blog/2019/9/10/how-to-run-a-marketing-team-using-agilescrum/"
+      "slides": "https://www.bethanvincent.com/blog/2019/9/10/how-to-run-a-marketing-team-using-agilescrum/",
+      "talk": "https://vault.brightonseo.com/talks/how-to-run-marketing-campaigns-and-client-accounts-with-scrum/"
+    },
+    {
+      "title": "How to Optimise TTFB",
+      "speaker": "Roxana Stingu",
+      "video": "https://vault.brightonseo.com/talks/how-to-optimise-ttfb/"
+    },
+    {
+      "title": "It's OK to fail",
+      "speaker": "Dom Hodgson",
+      "video": "https://vault.brightonseo.com/talks/its-ok-to-fail/"
+    },
+    {
+      "title": "The importance of visibility for ‘brand modifiers’ (for e-commerce brands)",
+      "speaker": "Simon Schnieders",
+      "video": "https://vault.brightonseo.com/talks/the-importance-of-visibility-for-brand-modifiers-for-e-commerce-brands/"
+    },
+    {
+      "title": "Behind the Scenes at the Online Museum: Digital Content in Heritage",
+      "speaker": "Joe Vaughan",
+      "video": "https://vault.brightonseo.com/talks/behind-the-scenes-at-the-online-museum-digital-content-in-heritage/"
+    },
+    {
+      "title": "A story of zero-click searches and SERP features",
+      "speaker": "Kevin Indig",
+      "video": "https://vault.brightonseo.com/talks/a-story-of-zero-click-searches-and-serp-features/"
+    },
+    {
+      "title": "Automating Optimisation For Featured Snippets in SERPs on a Large Scale",
+      "speaker": "Polly Pospelova",
+      "video": "https://vault.brightonseo.com/talks/automating-optimisation-for-featured-snippets-in-serps-on-a-large-scale/"
+    },
+    {
+      "title": "What SEOs Need To Know About The New Bing Webmaster Tools",
+      "speaker": "Fabrice Canel",
+      "video": "https://vault.brightonseo.com/talks/what-seos-need-to-know-about-the-new-bing-webmaster-tools/"
+    },
+    {
+      "title": "Deconstructing award-winning campaigns",
+      "speaker": "Mark Johnstone",
+      "video": "https://vault.brightonseo.com/talks/deconstructing-award-winning-campaigns/"
+    },
+    {
+      "title": "Beyond GAP Analysis: Snapshot SEO",
+      "speaker": "Lukasz Zelezny",
+      "video": "https://vault.brightonseo.com/talks/beyond-gap-analysis-snapshot-seo/"
+    },
+    {
+      "title": "Why your SEO recommendations don't get implemented, and what to do about it",
+      "speaker": "Ben Howe",
+      "video": "https://vault.brightonseo.com/talks/why-your-seo-recommendations-dont-get-implemented-and-what-to-do-about-it/"
+    },
+    {
+      "title": "How To Find & Fix Keyword Cannibalization Issues",
+      "speaker": "James Brockbank",
+      "video": "https://vault.brightonseo.com/talks/how-to-find-fix-keyword-cannibalization-issues/"
+    },
+    {
+      "title": "No one buys a quarter-inch hole: beyond drills and holes!",
+      "speaker": "Ayat Shukairy",
+      "video": "https://vault.brightonseo.com/talks/no-one-buys-a-quarter-inch-hole-beyond-drills-and-holes/"
+    },
+    {
+      "title": "Spying on Google: Using Log File Analysis to Reveal Invaluable SEO Insights",
+      "speaker": "Faisal Anderson",
+      "video": "https://vault.brightonseo.com/talks/spying-on-google-using-log-file-analysis-to-reveal-invaluable-seo-insights/"
+    },
+    {
+      "title": "People are predictable - Using consumer psychology to improve your marketing strategy",
+      "speaker": "Andi Jarvis",
+      "video": "https://vault.brightonseo.com/talks/people-are-predictable-using-consumer-psychology-to-improve-your-marketing-strategy/"
+    },
+    {
+      "title": "SEO Time Management",
+      "speaker": "Allegra Rosenbaum",
+      "video": "https://vault.brightonseo.com/talks/seo-time-management/"
+    },
+    {
+      "title": "Mission Totally Possible: Using Crime Scene Analysis To Get More Sessions & Visibility",
+      "speaker": "Rebecca Todd",
+      "video": "https://vault.brightonseo.com/talks/mission-totally-possible-using-crime-scene-analysis-to-get-more-sessions-visibility/"
+    },
+    {
+      "title": "Address your stress",
+      "speaker": "Hayley Arnold",
+      "video": "https://vault.brightonseo.com/talks/address-your-stress/"
+    },
+    {
+      "title": "Getting SEO Ready for Headless CMS",
+      "speaker": "Tejaswi Suresh",
+      "video": "https://vault.brightonseo.com/talks/getting-seo-ready-for-headless-cms/"
+    },
+    {
+      "title": "What journalists want from press releases",
+      "speaker": "Sian Elvin",
+      "video": "https://vault.brightonseo.com/talks/what-journalists-want-from-press-releases/"
+    },
+    {
+      "title": "Choice Architecture for Marketers",
+      "speaker": "Paul Wood",
+      "video": "https://vault.brightonseo.com/talks/choice-architecture-for-marketers/"
+    },
+    {
+      "title": "Mental Health and Productivity at Work - Learning to Surf the Waves of 2020",
+      "speaker": "Briony Gunson",
+      "video": "https://vault.brightonseo.com/talks/mental-health-and-productivity-at-work-learning-to-surf-the-waves-of-2020/"
+    },
+    {
+      "title": "Why Google Reviews are so important & how to get TONNES of them",
+      "speaker": "Daisy Foster",
+      "video": "https://vault.brightonseo.com/talks/why-are-google-reviews-so-important-how-to-get-tonnes-of-them/"
+    },
+    {
+      "title": "Why your culture is more important than your SEO",
+      "speaker": "Sean Butcher",
+      "video": "https://vault.brightonseo.com/talks/why-your-culture-is-more-important-than-your-seo/"
+    },
+    {
+      "title": "Why Diversity shouldn't be a buzzword, or a KPI",
+      "speaker": "Azeem Ahmad",
+      "video": "https://vault.brightonseo.com/talks/why-diversity-shouldnt-be-a-buzzword-or-a-kpi/"
+    },
+    {
+      "title": "How to maximize your site's crawl efficiency",
+      "speaker": "Miracle Inameti-Archibong",
+      "video": "https://vault.brightonseo.com/talks/how-to-maximize-your-sites-crawl-efficiency/"
+    },
+    {
+      "title": "An airtight keyword research strategy to beat any SEO competitor",
+      "speaker": "Rumble Romagnoli",
+      "video": "https://vault.brightonseo.com/talks/an-airtight-keyword-research-strategy-to-beat-any-seo-competitor/"
+    },
+    {
+      "title": "The challenges of running a digital PR team and how to overcome them",
+      "speaker": "Aoife O'Connor",
+      "video": "https://vault.brightonseo.com/talks/the-challenges-of-running-a-digital-pr-team-and-how-to-overcome-them/"
     }
   ]
 }
