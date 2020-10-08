@@ -20,7 +20,7 @@
     },
     {
       "title": "What I learned from analysing thousands of robots.txt files",
-      "speaker": "Sam Gibson",
+      "speaker": "Sam Gipson",
       "slides": "https://www.slideshare.net/SamGipson1/what-i-learned-from-analysing-thousands-of-robotstxt-files-brightonseo-2020"
     },
     {
@@ -118,6 +118,31 @@
       "title": "Competitor Site Audits using Free Tools & Data",
       "speaker": "Sophie Gibson",
       "recap": "https://riseatseven.com/blog/competitor-site-audits-free/"
+    },
+    {
+      "title": "In-house SEO success; Know the Past to Win the Future",
+      "speaker": "Petra Kis-Herczegh",
+      "slides": "https://www.slideshare.net/mobile/PetraKisHerczegh/inhouse-seo-success-know-the-past-to-win-the-future-238710053"
+    },
+    {
+      "title": "Reducing the Speed Impact of Third-Party Tags",
+      "speaker": "Andy Davies",
+      "slides": "https://noti.st/andydavies/V3yMym/reducing-the-speed-impact-of-third-party-tags"
+    },
+    {
+      "title": "Checking Google Index Status at Scale using Node.js",
+      "speaker": "Jose Luis Hernando",
+      "slides": "https://www.slideshare.net/mobile/JoseLuisHernandoSanz/checking-google-index-status-at-scale-using-nodejs-jose-hernando-brightonseo-oct-2020-238741779"
+    },
+    {
+      "title": "Go Remote in 2020",
+      "speaker": "SEO Jo Blogs",
+      "slides": "https://www.seojoblogs.com/brightonseo-october-2020/"
+    },
+    {
+      "title": "Running a High Performing Marketing Team Using the Agile/Scrum Framework",
+      "speaker": "Bethan Vincent",
+      "slides": "https://www.bethanvincent.com/blog/2019/9/10/how-to-run-a-marketing-team-using-agilescrum/"
     }
   ]
 }
