@@ -1,0 +1,70 @@
+{
+  "conference": "Science of Search Summit",
+  "date": "2020-08-21",
+  "talks" : [
+    {
+      "title": "The Science of Search",
+      "speaker": "Dixon Jones",
+      "video": "https://scienceofsearch.heysummit.com/talks/the-science-of-search/"
+    },
+    {
+      "title": "Google Featured Snippet Filtering: New Research & Identifying When You've Been Filtered",
+      "speaker": "Brodie Clark",
+      "video": "https://scienceofsearch.heysummit.com/talks/google-featured-snippet-filtering-new-research-identifying-when-youve-been-filtered/"
+    },
+    {
+      "title": "Google Discover, the little known traffic source that brings huge amounts of traffic",
+      "speaker": "Panos Ladas",
+      "video": "https://scienceofsearch.heysummit.com/talks/google-discover-the-little-known-traffic-source-that-brings-huge-amounts-of-traffic/"
+    },
+    {
+      "title": "Uncovering Search Behavior Through UX Methodology",
+      "speaker": "Ammar Badr",
+      "video": "https://scienceofsearch.heysummit.com/talks/uncovering-search-behavior-through-ux-methodology/"
+    },
+    {
+      "title": "Sentimental Analysis and SEO",
+      "speaker": "Saroosh Khan",
+      "video": "https://scienceofsearch.heysummit.com/talks/sentimental-analysis-and-seo/"
+    },
+    {
+      "title": "Persona-lise your Content Marketing - A Guide to Audience Mapping",
+      "speaker": "Dan Lapham",
+      "video": "https://scienceofsearch.heysummit.com/talks/persona-lise-your-content-marketing-a-guide-to-audience-mapping/"
+    },
+    {
+      "title": "A Practical Look at Correlational Optimisation",
+      "speaker": "Gareth Simpson",
+      "video": "https://scienceofsearch.heysummit.com/talks/next-level-optimisation-using-correlational-analysis-tools/"
+    },
+    {
+      "title": "SEO Forecasting: How to set up an SEO forecast for free using excel",
+      "speaker": "Marie Turner",
+      "video": "https://scienceofsearch.heysummit.com/talks/seo-forecasting-how-to-set-up-an-seo-forecast-for-free-using-excel/",
+      "slides": "https://www.slideshare.net/MarieTurner8/how-to-set-up-an-seo-forecast-for-free-using-excel"
+    },
+    {
+      "title": "People Are Predictable - What you need to know about how your customers behave",
+      "speaker": "Andi Jarvis",
+      "video": "https://scienceofsearch.heysummit.com/talks/people-are-predictable-what-you-need-to-know-about-how-your-customers-behave/"
+    },
+    {
+      "title": "Navigating the SERPs landscape",
+      "speaker": "Paige Hobart",
+      "video": "https://scienceofsearch.heysummit.com/talks/navigating-the-serps-landscape/",
+      "recap": "https://weareroast.com/whitepapers/the-serp-landscape-report/"
+    },
+    {
+      "title": "Retrieving SERP results at Scale using a Custom Search Engine",
+      "speaker": "Matthew Hill",
+      "video": "https://scienceofsearch.heysummit.com/talks/retrieving-serp-results-at-scale-using-a-custom-search-engine/",
+      "recap": "https://www.precisdigital.com/blog/retrieving-serp-results-at-scale-using-a-custom-search-engine/"
+    },
+    {
+      "title": "Placing bets and making hard choices - how to make the right decisions in the digital world",
+      "speaker": "Paddy Moogan",
+      "video": "https://scienceofsearch.heysummit.com/talks/placing-bets-and-making-hard-choices-how-to-make-the-right-decisions-in-the-digital-world/"
+    }
+  ]
+}
+
