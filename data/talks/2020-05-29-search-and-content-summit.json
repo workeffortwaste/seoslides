@@ -1,0 +1,70 @@
+{
+  "conference": "Search and Content Summit",
+  "date": "2020-05-29",
+  "talks" : [
+    {
+      "title": "Content for People and for Google",
+      "speaker": "Olga Andrienko",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/content-for-people-and-for-google/"
+    },
+    {
+      "title": "Structured Data and Google Tag Manager",
+      "speaker": "Paul Lovell",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/structured-data-and-google-tag-manager/"
+    },
+    {
+      "title": "Google Discover, the little known traffic source that brings huge amounts of traffic",
+      "speaker": "Panos Ladas",
+      "video": "https://scienceofsearch.heysummit.com/talks/google-discover-the-little-known-traffic-source-that-brings-huge-amounts-of-traffic/"
+    },
+    {
+      "title": "Talk fast, drink coffee, optimise images",
+      "speaker": "Rebekah Dunne",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/talk-fast-drink-coffee-optimise-images/",
+      "slides": "https://www.slideshare.net/RebekahDunne/talk-fast-drink-coffee-optimise-images-234721339"
+    },
+    {
+      "title": "Managing your reputation online with SEO fundamentals",
+      "speaker": "Lianna Kissinger Virizlay",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/managing-your-reputation-online-with-seo-fundamentals/",
+      "recap": "https://resources.investisdigital.com/brightonseo/"
+    },
+    {
+      "title": "How to Repurpose Existing Content to Help you Achieve More",
+      "speaker": "Judith Lewis",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/how-to-repurpose-existing-content-to-help-you-achieve-more/",
+      "slides": "https://www.slideshare.net/deCabbit/how-to-repurpose-existing-content-to-help-you-achieve-more-brightonseo-searchandcontentsummit"
+    },
+    {
+      "title": "7-Step Framework to Creating Content that Drives More Traffic, Conversions, + ROI",
+      "speaker": "Carolyn Lyden",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/7-step-framework-to-creating-content-that-drives-more-traffic-conversions-roi/"
+    },
+    {
+      "title": "Unlock your site's hidden potential with internal links",
+      "speaker": "Jenny Halasz",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/unlock-your-sites-hidden-potential-with-internal-links/"
+    },
+    {
+      "title": "How to audit your voice footprint and use SEO to improve your voice search presence",
+      "speaker": "Katherine Ong",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/how-to-audit-your-voice-footprint-and-use-seo-to-improve-your-voice-search-presence/"
+    },
+    {
+      "title": "Behind the Scenes at the Online Museum: Digital Content in Heritage",
+      "speaker": "Joe Vaughan",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/behind-the-scenes-at-the-online-museum-digital-content-in-heritage/"
+    },
+    {
+      "title": "Crowd-Source Common Search & Content Tasks for Speed & Scale",
+      "speaker": "Heather Physioc",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/crowd-source-common-search-content-tasks-for-speed-scale/"
+    },
+    {
+      "title": "How to quickly schedule 12 months of social posting using Google Sheets and Screaming Frog",
+      "speaker": "John Warner",
+      "video": "https://searchandcontentsummit.heysummit.com/talks/how-to-quickly-schedule-12-months-of-social-posting-using-google-sheets-and-screaming-frog/"
+    }
+  ]
+}
+
