@@ -1,0 +1,11 @@
+{
+  "conference": "State of Search",
+  "date": "2020-10-26",
+  "talks" : [
+    {
+      "title": "How To Use PR Tactics To Build Better Links",
+      "speaker": "James Brockbank",
+      "slides": "https://www.slideshare.net/JamesBrockbank/how-to-use-pr-tactics-to-build-better-links-state-of-search-2020"
+    }
+  ]
+}
