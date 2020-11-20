@@ -1,0 +1,18 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "July",
+  "date": "2020-07-07",
+  "talks" : [
+    {
+      "title": "Local SEO",
+      "speaker": "Jake Stanley",
+      "video": "https://www.youtube.com/watch?v=27QAcW_hCxA"
+    },
+    {
+      "title": "WordPress SEO Internet Traffic the Data Driven Way",
+      "speaker": "Peter Mead",
+      "video": "https://www.youtube.com/watch?v=27QAcW_hCxA"
+    }
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "August",
+  "date": "2020-08-04",
+  "talks" : [
+    {
+      "title": "BigCommerce SEO",
+      "speaker": "Tony McCreath",
+      "video": "https://www.youtube.com/watch?v=OMUTkBMu9sQ"
+    },
+    {
+      "title": "Shopify SEO",
+      "speaker": "Peter Macinkovic",
+      "video": "https://www.youtube.com/watch?v=OMUTkBMu9sQ"
+    }
+  ]
+}
+

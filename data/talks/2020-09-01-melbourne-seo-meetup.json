@@ -1,0 +1,18 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "September",
+  "date": "2020-09-01",
+  "talks" : [
+    {
+      "title": "Marketing ROI",
+      "speaker": "Dan Wild",
+      "video": "https://www.youtube.com/watch?v=7ZBzu3SumWA"
+    },
+    {
+      "title": "Aligning SEO to different stages of the funnel",
+      "speaker": "David Schneider",
+      "video": "https://www.youtube.com/watch?v=7ZBzu3SumWA"
+    }
+  ]
+}
+

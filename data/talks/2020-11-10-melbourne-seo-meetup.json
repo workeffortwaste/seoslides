@@ -1,0 +1,13 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "October",
+  "date": "2020-11-10",
+  "talks" : [
+    {
+      "title": "Site Migrations",
+      "speaker": "Nik Ranger",
+      "video": "https://www.youtube.com/watch?v=MKcu0XraJa8"
+    }
+  ]
+}
+

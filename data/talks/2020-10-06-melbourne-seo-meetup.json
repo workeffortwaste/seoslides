@@ -1,0 +1,13 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "October",
+  "date": "2020-10-06",
+  "talks" : [
+    {
+      "title": "How to plan and build a Link/Silo Structure in WordPress for optimal organisation and link preservation",
+      "speaker": "James Carmody",
+      "video": "https://www.youtube.com/watch?v=5GjIfQ_cjNg"
+    }
+  ]
+}
+
