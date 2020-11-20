@@ -1,0 +1,38 @@
+{
+  "conference": "We Love SEO",
+  "sub_title": "Virtual Summit",
+  "date": "2020-10-27",
+  "talks" : [
+    {
+      "title": "Adapting to Google's Criteria for High-Authority, Top-Ranking Websites in 2020",
+      "speaker": "Lily Ray",
+      "video": "https://weloveseo.fr/en/virtualsummit/",
+      "slides": "https://www.slideshare.net/WeLoveSEOWeLoveSEO/automated-duplicate-content-consolidation-with-google-cloud-functions-239242737"
+    },
+    {
+      "title": "Automated Duplicate Content Consolidation with Google Cloud Functions",
+      "speaker": "Hamlet Batista",
+      "video": "https://weloveseo.fr/en/virtualsummit/",
+      "slides": "https://www.slideshare.net/WeLoveSEOWeLoveSEO/automated-duplicate-content-consolidation-with-google-cloud-functions-239242737"
+    },
+    {
+      "title": "Rendering: Or why your perfectly optimized content doesn't rank",
+      "speaker": "Jamie Alberico",
+      "video": "https://weloveseo.fr/en/virtualsummit/",
+      "slides": "https://www.slideshare.net/WeLoveSEOWeLoveSEO/rendering-or-why-your-perfectly-optimized-content-doesnt-rank"
+    },
+    {
+      "title": "YouTube SEO: How a data-driven approach can boost visibility",
+      "speaker": "Billy Leonard",
+      "video": "https://weloveseo.fr/en/virtualsummit/",
+      "slides": "https://www.slideshare.net/WeLoveSEOWeLoveSEO/youtube-seo-how-a-datadriven-approach-can-boost-visibility"
+    },
+    {
+      "title": "Stop Using The Average Position In Your SEO Reports",
+      "speaker": "Alexandre Sigoigne",
+      "video": "https://weloveseo.fr/en/virtualsummit/",
+      "slides": "https://www.slideshare.net/WeLoveSEOWeLoveSEO/presentation-deck-the-new-visibility-indicators-to-use-in-your-seo-reports-1"
+    }
+  ]
+}
+
