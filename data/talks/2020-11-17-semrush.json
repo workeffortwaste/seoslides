@@ -1,0 +1,50 @@
+{
+  "conference": "SEMrush",
+  "sub_title": "5 Hours of Technical SEO",
+  "date": "2020-11-17",
+  "talks" : [
+    {
+      "title": "The Worst Technical SEO Nightmares and How to End Them",
+      "speaker": "Aleyda Solis",
+      "video": "https://www.youtube.com/watch?v=ulnUKYRdRqc",
+      "slides": "https://www2.slideshare.net/aleydasolis/the-worst-technical-seo-nightmares-and-how-to-avoid-them"
+    },
+    {
+      "title": "The Real Problems Behind Indexing",
+      "speaker": "Bartosz Góralewicz",
+      "video": "https://www.youtube.com/watch?v=6wnlCpvUzGI&t=2289s",
+      "slides": "https://www2.slideshare.net/SEMrush/bartosz-goralewicz-the-real-problems-behind-indexing-5-hours-of-technical-seo"
+    },
+    {
+      "title": "How to Leverage Insights from Your Site’s Server Logs",
+      "speaker": "Jamie Alberico",
+      "video": "https://www.youtube.com/watch?v=eelEuYoflG0",
+      "slides": "https://www2.slideshare.net/SEMrush/jamie-alberico-how-to-leverage-insights-from-your-sites-server-logs-5-hours-of-technical-seo"
+    },
+    {
+      "title": "JavaScript, SEO and Dollhouses",
+      "speaker": "Kristina Azarenko",
+      "video": "https://www.youtube.com/watch?v=bjnrchJdqqw",
+      "slides": "https://www2.slideshare.net/KristinaAzarenko/javascript-seo-and-dollhouses-by-azarchick-5hoursoftechnicalseo-by-semrush/"
+    },
+    {
+      "title": "Schema Markup Explained: 10 Complicated Concepts Made Simple and Actionable",
+      "speaker": "Martha van Berkel",
+      "video": "https://www.youtube.com/watch?v=319nQV5Ir7E",
+      "slides": "https://www2.slideshare.net/SEMrush/martha-van-berkel-schema-markup-explained-10-complicated-concepts-made-simple-and-actionable"
+    },
+    {
+      "title": "Enterprise Site Pagination Faux Pas",
+      "speaker": "Jes Scholz",
+      "video": "https://www.youtube.com/watch?v=_g8ykZlKmaA",
+      "slides": "https://www2.slideshare.net/JesStiles/enterprise-site-pagination-strategies"
+    },
+    {
+      "title": "How Knowledge Will Define The Future Of Search — And What To Do About It Now",
+      "speaker": "Ric Rodriguez",
+      "video": "https://www.youtube.com/watch?v=CFrnNJ99BD4",
+      "slides": "https://www2.slideshare.net/SEMrush/ric-rodriguez-how-knowledge-will-define-the-future-of-search-and-what-to-do-about-it-now-5-hours-of-technical-seo"
+    }
+  ]
+}
+
