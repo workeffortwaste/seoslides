@@ -1,0 +1,23 @@
+name: Send Push Notification
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  main:
+    name: Send Push Notification
+    runs-on: ubuntu-latest
+    if: "contains(github.event.head_commit.message, '[p]')"
+    
+    steps:
+     - uses: bluwy/substitute-string-action@v1
+       id: sub
+       with:
+        _input-text: ${{ github.event.head_commit.message }}
+        '[p]': ''
+     - uses: workeffortwaste/onesignal-push-action@v1.1
+       with:
+        title: 'SEOslides.page'
+        message: ${{ steps.sub.outputs.result }}
+        rest-api-key: ${{ secrets.ONESIGNAL_API }}
+        app-id: ${{ secrets.ONESIGNAL_ID }}
