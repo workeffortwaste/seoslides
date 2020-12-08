@@ -47,6 +47,23 @@
   .onesignal-customlink-subscribe.onesignal-customlink-subscribe.onesignal-customlink-subscribe {
     all: unset;
   }
+  .onesignal-customlink-subscribe.link.small {
+    font-size: unset!important;
+    color: var(--accent-color)!important;
+    text-decoration: none!important;
+  }
+  .onesignal-customlink-subscribe.link.small::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-width: 0 0 1px;
+    border-style: dashed;
+  }
+  .onesignal-customlink-subscribe.link.small:hover{
+    color:var(--text-color)!important;
+  }
 </style>
 {% endif %}
 </head>
