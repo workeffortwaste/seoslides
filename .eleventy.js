@@ -8,6 +8,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/js')
   eleventyConfig.addPassthroughCopy('src/meta')
   eleventyConfig.addPassthroughCopy('src/_headers')
+  eleventyConfig.addPassthroughCopy('src/OneSignalSDKUpdaterWorker.js')
+  eleventyConfig.addPassthroughCopy('src/OneSignalSDKWorker.js')
+
 
   eleventyConfig.addCollection('changelog', function () {
     // Set up gitlog options.
