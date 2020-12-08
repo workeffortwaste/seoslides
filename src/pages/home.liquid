@@ -18,6 +18,7 @@ renderData:
 <p><a href="/conferences/">Browse the conferences alphabetically</a></p>
 <p><a href="/speakers/">Browse the speakers alphabetically</a></p>
 <h2>Recent Changes</h2>
+<div class='onesignal-customlink-container'></div>
 <ul class="changelog">
 {%- for commit in collections.changelog limit:10 -%}
   <li><span class="change-date">{{ commit.authorDate }}</span> {{ commit.subject | remove: "[p] "}}</li>

@@ -31,6 +31,24 @@
   gtag('js', new Date());
   gtag('config', 'UA-158274727-1');
 </script>
+{% if page.url == '/' %}
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "972d02ab-cfd3-4f6a-bce9-18799069c0de",
+      safari_web_id: "web.onesignal.auto.2a0b8f88-f61f-4cbf-954f-aff96911a546"
+    });
+  });
+</script>
+<style>
+  /* Remove PWA sign up defaults. */
+  .onesignal-customlink-subscribe.onesignal-customlink-subscribe.onesignal-customlink-subscribe {
+    all: unset;
+  }
+</style>
+{% endif %}
 </head>
 <body>
 <div id="footer-push">
