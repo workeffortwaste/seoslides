@@ -1,0 +1,13 @@
+{
+  "conference": "Melbourne SEO Meetup",
+  "sub_title": "December",
+  "date": "2020-12-01",
+  "talks" : [
+    {
+      "title": "Python For SEO",
+      "speaker": "Jean-Christophe Chouinard",
+      "video": "https://www.youtube.com/watch?v=HB-KD0ATsGg"
+    }
+  ]
+}
+
