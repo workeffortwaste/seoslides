@@ -1,0 +1,74 @@
+{
+  "conference": "Online PR Show",
+  "sub_title": "December",
+  "date": "2020-12-09",
+  "talks" : [
+    {
+      "title": "5 Power Strategies to turn PR wins in to SEO success",
+      "speaker": "Gareth Simpson",
+      "video": "https://onlineprshow.heysummit.com/talks/5-power-strategies-to-turn-pr-wins-in-to-seo-success/"
+    },
+    {
+      "title": "The strategy: How to land top tier links that actually move the needle",
+      "speaker": "Carrie Rose",
+      "video": "https://onlineprshow.heysummit.com/talks/the-strategy-how-to-land-top-tier-links-that-actually-move-the-needle/"
+    },
+    {
+      "title": "How to REALLY tie your link building strategy to tangible SEO goals",
+      "speaker": "James Watkins",
+      "video": "https://onlineprshow.heysummit.com/talks/how-to-really-tie-your-link-building-strategy-to-tangible-seo-goals/",
+      "slides": "https://www2.slideshare.net/JamesWatkins24/how-to-really-tie-your-digital-pr-strategy-to-tangible-seo-goals"
+    },
+    {
+      "title": "The psychology of the journalist - creating winning pitches",
+      "speaker": "Becky Simms",
+      "video": "https://onlineprshow.heysummit.com/talks/the-psychology-of-the-journalist-creating-winning-pitches/"
+    },
+    {
+      "title": "How to win friends and influencers in international markets",
+      "speaker": "Daiana Damacus",
+      "video": "https://onlineprshow.heysummit.com/talks/how-to-win-friends-and-influencers-in-international-markets/"
+    },
+    {
+      "title": "Questions digital PR's should be asking their paid teams to better their campaign results",
+      "speaker": "David White",
+      "video": "https://onlineprshow.heysummit.com/talks/questions-digital-prs-should-be-asking-their-paid-teams-to-better-their-campaign-results/"
+    },
+    {
+      "title": "Why Digital PR needs to be ethical in 2020",
+      "speaker": "Jodie Harris",
+      "video": "https://onlineprshow.heysummit.com/talks/why-digital-pr-needs-to-be-ethical-in-2020/"
+    },
+    {
+      "title": "Great Expectations: The Truth about Digital PR campaigns",
+      "speaker": "Shannon McGuirk",
+      "video": "https://onlineprshow.heysummit.com/talks/great-expectations-the-truth-about-digital-pr-campaigns/"
+    },
+    {
+      "title": "How to gain coverage when active outreach ends",
+      "speaker": "Ruth Barrett",
+      "video": "https://onlineprshow.heysummit.com/talks/how-to-gain-coverage-when-active-outreach-ends/"
+    },
+    {
+      "title": "Using Twitter to drive your outreach strategy and gather media insights",
+      "speaker": "Kristina Lazarevic",
+      "video": "https://onlineprshow.heysummit.com/talks/using-twitter-to-drive-your-outreach-strategy-and-gather-media-insights/"
+    },
+    {
+      "title": "Digital PR Time-Saving Hacks for Ideation, Production and Outreach",
+      "speaker": "Sarah Fleming",
+      "video": "https://onlineprshow.heysummit.com/talks/digital-pr-time-saving-hacks-for-ideation-production-and-outreach/"
+    },
+    {
+      "title": "How PR for link acquisition in SEO has changed and how to future proof using relationship building",
+      "speaker": "Matt Jones",
+      "video": "https://onlineprshow.heysummit.com/talks/how-pr-for-link-acquisition-in-seo-has-changed-and-how-to-future-proof-using-relationship-building/"
+    },
+    {
+      "title": "How To Vet A Website For Outreach When 'Authority Metrics' Fail You",
+      "speaker": "Buzz Carter",
+      "video": "https://onlineprshow.heysummit.com/talks/how-to-vet-a-website-for-outreach-when-authority-metrics-fail-you/"
+    }
+  ]
+}
+
