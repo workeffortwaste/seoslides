@@ -1,0 +1,52 @@
+{
+  "conference": "Marketing Report Summit",
+  "date": "2020-11-27",
+  "talks" : [
+    {
+      "title": "5+1 Major Marketing Reporting Challenges, and How to Fix Them",
+      "speaker": "Olga Denisova",
+      "video": "https://vault.brightonseo.com/talks/51-major-marketing-reporting-challenges-and-how-to-fix-them/"
+    },
+    {
+      "title": "How SEO's can benefit from google ads data",
+      "speaker": "Serbay Arda Ayzit",
+      "video": "https://vault.brightonseo.com/talks/how-seos-can-benefit-from-google-ads-data/"
+    },
+    {
+      "title": "Core Web Vitals - what they are and why you should be concerned",
+      "speaker": "Amanda Anoronha Araujo",
+      "video": "https://vault.brightonseo.com/talks/core-web-vitals-what-they-are-and-why-you-should-be-concerned/"
+    },
+    {
+      "title": "Juggling Multiple Clients for Agency SEO's",
+      "speaker": "Niki Mosier",
+      "video": "https://vault.brightonseo.com/talks/juggling-multiple-clients-for-agency-seos/"
+    },
+    {
+      "title": "How to benchmark website performance, and where you might be collecting fake data",
+      "speaker": "Karen Hopper",
+      "video": "https://vault.brightonseo.com/talks/how-to-benchmark-website-performance-and-where-you-might-be-collecting-fake-data/"
+    },
+    {
+      "title": "Core Web Vitals: What you need to know",
+      "speaker": "Steve Bailey",
+      "video": "https://vault.brightonseo.com/talks/core-web-vitals-what-you-need-to-know/"
+    },
+    {
+      "title": "Data Visualization for SEO",
+      "speaker": "Patrick Stox",
+      "video": "https://vault.brightonseo.com/talks/data-visualization-for-seo/"
+    },
+    {
+      "title": "Use BigQuery to Improve Paid and Organic Search Performance",
+      "speaker": "Shawn Cohen",
+      "video": "https://vault.brightonseo.com/talks/use-bigquery-to-improve-paid-and-organic-search-performance/"
+    },
+    {
+      "title": "Building a data driven customer experience",
+      "speaker": "Kenda Macdonald",
+      "video": "https://vault.brightonseo.com/talks/building-a-data-driven-customer-experience/"
+    }
+  ]
+}
+
