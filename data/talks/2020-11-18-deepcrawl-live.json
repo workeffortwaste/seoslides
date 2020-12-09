@@ -1,0 +1,47 @@
+{
+  "conference": "DeepCrawl Live",
+  "date": "2020-11-18",
+  "talks" : [
+    {
+      "title": "How to Prepare for Core Web Vitals",
+      "speaker": "Charlie Norledge",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "The X Factor of Customer Centricity: Why customer centricity is the new digital imperative",
+      "speaker": "Nancy Rademaker",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "Optimizing Digital Customer Experiences to Deliver “Light” in #IgniteMoments",
+      "speaker": "Brian Solis",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "Martech and Web Experiences of the (Very Near) Future",
+      "speaker": "Scott Brinker",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "Algorithms of Oppression: Do Search Engines Reinforce Racism?",
+      "speaker": "Dr Safiya Noble",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "Why Digital Marketing Should Matter More Than Ever to the C-Suite",
+      "speaker": "Ben Legg",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "SEO Masterclass: How CMOs can adapt their strategy & thrive in 2021",
+      "speaker": "Ashley Berman Hale",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    },
+    {
+      "title": "The Digital Future Report",
+      "speaker": "Jim Clark",
+      "video": "https://www.deepcrawl.com/deepcrawl-live/"
+    }
+  ]
+}
+
