@@ -1,0 +1,69 @@
+{
+  "conference": "MeasureFest",
+  "sub_title": "December",
+  "date": "2020-12-08",
+  "talks" : [
+    {
+      "title": "Data Studio as your powerhouse for SEO & BI",
+      "speaker": "Josep M Felip",
+      "video": "https://measurefest.heysummit.com/talks/data-studio-as-your-powerhouse-for-seo-bi/"
+    },
+    {
+      "title": "Google Analytics DIY - Replicating 360 Functionality in GA",
+      "speaker": "Tom Voyle",
+      "video": "https://measurefest.heysummit.com/talks/google-analytics-diy-replicating-360-functionality-in-ga/"
+    },
+    {
+      "title": "The Long and Short of Segmentation",
+      "speaker": "Nikki Rae",
+      "video": "https://measurefest.heysummit.com/talks/the-long-and-short-of-segmentation/"
+    },
+    {
+      "title": "Shining a Light on Dark Traffic",
+      "speaker": "Helen Pollitt",
+      "video": "https://measurefest.heysummit.com/talks/shining-a-light-on-dark-traffic/"
+    },
+    {
+      "title": "Freaky Friday: Alexa, how can I track YOU?",
+      "speaker": "Nicolas Hinternesch",
+      "video": "https://measurefest.heysummit.com/talks/freaky-friday-alexa-how-can-i-track-you/"
+    },
+    {
+      "title": "What Do Clients Want Their Reports To Look Like?",
+      "speaker": "Adam Reaney",
+      "video": "https://measurefest.heysummit.com/talks/what-do-clients-want-their-reports-to-look-like/",
+      "slides": "https://www.slideshare.net/AdamReaney1/measure-fest-2020-what-clients-want-to-see"
+    },
+    {
+      "title": "What do clients want their reports to look like?",
+      "speaker": "Justin Driskill",
+      "video": "https://measurefest.heysummit.com/talks/what-do-clients-want-their-reports-to-look-like-1/"
+    },
+    {
+      "title": "How I built a social media marketing funnel that converts using Facebook Groups",
+      "speaker": "Vicki Jakes",
+      "video": "https://measurefest.heysummit.com/talks/how-i-built-a-social-media-marketing-funnel-that-converts-using-facebook-groups/"
+    },
+    {
+      "title": "Getting over my fear of pressing F12",
+      "speaker": "Emma Barnes",
+      "video": "https://measurefest.heysummit.com/talks/getting-over-my-fear-of-pressing-f12/"
+    },
+    {
+      "title": "The Difference between SEO monitoring and reporting (& why you need both)",
+      "speaker": "Katie Cunningham",
+      "video": "https://measurefest.heysummit.com/talks/the-difference-between-seo-monitoring-and-reporting-why-you-need-both/"
+    },
+    {
+      "title": "How To Impress Your Boss By Supercharging Your Website Using CRO!",
+      "speaker": "Farhan Hussain",
+      "video": "https://measurefest.heysummit.com/talks/how-to-impress-your-boss-by-supercharging-your-website-using-cro/"
+    },
+    {
+      "title": "Can you start 3 days before Black Friday and generate a 10% uplift in conversions?",
+      "speaker": "Ayat Shukairy",
+      "video": "https://measurefest.heysummit.com/talks/can-you-start-3-days-before-black-friday-and-generate-a-10-uplift-in-conversions/"
+    }
+  ]
+}
+
