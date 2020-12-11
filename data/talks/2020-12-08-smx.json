@@ -1,0 +1,18 @@
+{
+  "conference": "SMX",
+  "sub_title": "Virtual Fall",
+  "date": "2020-12-08",
+  "talks" : [
+    {
+      "title": "Using Python For SEO And Report Automation",
+      "speaker": "Ruth Everett",
+      "slides": "https://www2.slideshare.net/RuthEverett1/using-python-for-seo-and-report-automation"
+    },
+    {
+      "title": "A Deep Dive Into SEO Tactics For Modern Javascript Frameworks",
+      "speaker": "Hamlet Batista",
+      "slides": "https://www.slideshare.net/hamletbatista/a-deep-dive-into-seo-tactics-for-modern-javascript-frameworks"
+    }
+  ]
+}
+
