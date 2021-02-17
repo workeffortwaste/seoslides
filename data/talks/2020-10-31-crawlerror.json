@@ -1,0 +1,38 @@
+{
+  "conference": "Crawl Error",
+  "sub_title": "Halloween Special",
+  "date": "2020-10-31",
+  "talks" : [
+    {
+      "title": "Brand SEO",
+      "speaker": "John Morabito",
+      "video": "https://www.youtube.com/watch?v=P-gF_uV9ZaE"
+    },
+    {
+      "title": "SEO Horror Stories",
+      "speaker": "Aleyda Solis",
+      "video": "https://www.youtube.com/watch?v=PlsWPMXzPlw"
+    },
+    {
+      "title": "Structured Data",
+      "speaker": "Izzi Smith",
+      "video": "https://www.youtube.com/watch?v=vWN-KZBnn9s"
+    },
+    {
+      "title": "Paid Links",
+      "speaker": "Sam Taylor",
+      "video": "https://www.youtube.com/watch?v=4187cnA_T3o"
+    },
+    {
+      "title": "Core Web Vitals",
+      "speaker": "Dave Smart",
+      "video": "https://www.youtube.com/watch?v=fJskxKLQzMg"
+    },
+    {
+      "title": "A Ghost In The Logs",
+      "speaker": "Jamie Alberico",
+      "video": "https://www.youtube.com/watch?v=fhl_yqCVWuc"
+    }
+  ]
+}
+

@@ -1,0 +1,73 @@
+{
+  "conference": "Crawl Error",
+  "sub_title": "January",
+  "date": "2021-01-28",
+  "talks" : [
+    {
+      "title": "How To Find & Fix Keyword Cannibalization Issues",
+      "speaker": "James Brockbank",
+      "video": "https://youtu.be/WXXd5nld7b8"
+    },
+    {
+      "title": "How To Pitch Technical SEO To Developers",
+      "speaker": "Billie Hyde",
+      "video": "https://youtu.be/ZwnL9AMfjVk"
+    },
+    {
+      "title": "Spanish SEO & International Content Marketing",
+      "speaker": "Xarel Cassina Sanchez",
+      "video": "https://youtu.be/_RikJCCgkEE"
+    },
+    {
+      "title": "How To Improve EAT With Onsite Content",
+      "speaker": "Lucy Dodds",
+      "video": "https://youtu.be/SBYhgbDSHk0"
+    },
+    {
+      "title": "Practical Python For Technical SEO",
+      "speaker": "Ruth Everett",
+      "video": "https://youtu.be/r2Jvoz0kSkM"
+    },
+    {
+      "title": "Social Media Hacks & Tricks",
+      "speaker": "Beverley Theresa",
+      "video": "https://youtu.be/c-vitg1UaGk"
+    },
+    {
+      "title": "BERT Topic Modelling",
+      "speaker": "Emilija Gjorgjevska",
+      "video": "https://youtu.be/bctVREyRJeI"
+    },
+    {
+      "title": "How To Review & Refresh Existing Onsite Content",
+      "speaker": "Rachel Handley",
+      "video": "https://youtu.be/1ZPbz1NDV6w"
+    },
+    {
+      "title": "What Is Passage Indexing?",
+      "speaker": "Sophie Brannon",
+      "video": "https://youtu.be/x7RzC5n-N78"
+    },
+    {
+      "title": "A Proper Approach To Content",
+      "speaker": "Danny Gee",
+      "video": "https://youtu.be/kAflYbssx2s"
+    },
+    {
+      "title": "Building Internal Connection",
+      "speaker": "Imogen Davies",
+      "video": "https://youtu.be/wBjrB-HVEHg"
+    },
+    {
+      "title": "How To Make Your International SEO Strategy A Success",
+      "speaker": "James McLoughlin",
+      "video": "https://youtu.be/6nXg6qX7YTo"
+    },
+    {
+      "title": "How The New York Times Focuses On SEO",
+      "speaker": "Claudio Eduardo Cabera",
+      "video": "https://youtu.be/aCEB_0IBUbU"
+    }
+  ]
+}
+
