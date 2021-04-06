@@ -29,44 +29,14 @@
         "speaker": "Csaba Szabo"
     },
     {
-        "title": "Searchmetrics presents: Will the Core Web Vitals Update change SEO Forever?",
+        "title": "Will the Core Web Vitals Update change SEO Forever?",
         "slides": "https://www.searchmetrics.com/knowledge-hub/events/brightonseo-spring2021/?utm_source=brighton.com&utm_medium=event&utm_campaign=BrightonSEO%20Event%202021%20Spring&utm_content=CTA_slides",
         "speaker": "Marcus Tober"
     },
     {
-        "title": "OnCrawl presents: Data SEO: how to leverage the power of technical SEO with data science",
-        "slides": "https://www.slideshare.net/OnCrawl/data-seo-how-to-leverage-the-power-of-technical-seo-with-data-science",
-        "speaker": "Tanguy Moal"
-    },
-    {
-        "title": "DeepCrawl presents: Are you there Page Experience? It’s me, Dev Tools",
-        "slides": "https://www.slideshare.net/JamieAlberico/are-you-there-page-experience-its-me-devtools-245126173",
-        "speaker": "Jamie Indigo & Rachel Anderson"
-    },
-    {
-        "title": "Botify presents: Hey Googlebot, did you cache that?",
+        "title": "Hey Googlebot, did you cache that?",
         "slides": "https://www.slideshare.net/PetraKisHerczegh/hey-googlebot-did-you-cache-that",
         "speaker": "Petra Kis-Herczegh"
-    },
-    {
-        "title": "Seeker Digital presents: Why link building matters to your organisation",
-        "slides": "https://www.slideshare.net/LauraSlingo/why-link-building-matters-for-your-organisation-brightonseo-2021?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=1",
-        "speaker": "Gareth Simpson"
-    },
-    {
-        "title": "Pi Datametrics presents: Double the quality and quantity of your site traffic in these 4 steps",
-        "slides": "https://www.slideshare.net/pidatametrics/brightonseo-march-2021-jon-earnshaw",
-        "speaker": "Jon Earnshaw"
-    },
-    {
-        "title": "MiShop.local presents: Google My Business Posting strategies: Hidden gems that drive online and offline sales for local business and multi-location brands",
-        "slides": "https://www.slideshare.net/davidwhatley338/google-posting-strategies-mishoplocal-brighton-seo-2020?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=12",
-        "speaker": "David Whatley"
-    },
-    {
-        "title": "Croud presents: How to build a data-driven SEO strategy using NLP",
-        "slides": "https://www.slideshare.net/DanielLiddle3/how-to-build-a-datadriven-seo-strategy-using-nlp",
-        "speaker": "Daniel Liddle"
     },
     {
         "title": "How to build simple Web apps in Python to automate your SEO tasks!",
@@ -179,32 +149,32 @@
         "speaker": "Richard Hird"
     },
     {
-        "title": "OnCrawl presents: Data SEO: how to leverage the power of technical SEO with data science",
+        "title": "Data SEO: how to leverage the power of technical SEO with data science",
         "slides": "https://www.slideshare.net/OnCrawl/data-seo-how-to-leverage-the-power-of-technical-seo-with-data-science",
         "speaker": "Tanguy Moal"
     },
     {
-        "title": "DeepCrawl presents: Are you there Page Experience? It’s me, Dev Tools.",
+        "title": "Are you there Page Experience? It’s me, Dev Tools.",
         "slides": "https://www.slideshare.net/JamieAlberico/are-you-there-page-experience-its-me-devtools-245126173",
-        "speaker": "Jamie Alberico & Rachel Anderson"
+        "speaker": "Jamie Indigo & Rachel Anderson"
     },
     {
-        "title": "Seeker Digital presents: Why link building matters to your organisation",
+        "title": "Why link building matters to your organisation",
         "slides": "https://www.slideshare.net/LauraSlingo/why-link-building-matters-for-your-organisation-brightonseo-2021?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=1",
         "speaker": "Gareth Simpson"
     },
     {
-        "title": "Pi Datametrics presents: Double the quality and quantity of your site traffic in these 4 steps",
+        "title": "Double the quality and quantity of your site traffic in these 4 steps",
         "slides": "https://www.slideshare.net/pidatametrics/brightonseo-march-2021-jon-earnshaw",
         "speaker": "Jon Earnshaw"
     },
     {
-        "title": "MiShop.local presents: Google My Business Posting strategies: Hidden gems that drive online and offline sales for local business and multi-location brands",
+        "title": "Google My Business Posting strategies: Hidden gems that drive online and offline sales for local business and multi-location brands",
         "slides": "https://www.slideshare.net/davidwhatley338/google-posting-strategies-mishoplocal-brighton-seo-2020?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=12",
         "speaker": "David Whatley"
     },
     {
-        "title": "Croud presents: How to build a data-driven SEO strategy using NLP",
+        "title": "How to build a data-driven SEO strategy using NLP",
         "slides": "https://www.slideshare.net/DanielLiddle3/how-to-build-a-datadriven-seo-strategy-using-nlp",
         "speaker": "Daniel Liddle"
     },
