@@ -1,0 +1,283 @@
+{
+  "conference": "BrightonSEO",
+  "sub_title": "March",
+  "date": "2021-03-25",
+  "talks" : [
+    {
+        "title": "Link Building in 2021 (When You’re a Bit Crap at PR)",
+        "slides": "https://www.slideshare.net/staceycav/link-building-in-2021-when-youre-a-bit-crap-at-pr-brightonseo",
+        "speaker": "Stacey MacNaught"
+    },
+    {
+        "title": "Control Your Indexability",
+        "slides": "https://www.slideshare.net/areejabuali/brightonseo-2021-control-your-indexability-243969995/",
+        "speaker": "Areej AbuAli"
+    },
+    {
+        "title": "Psychology principles to power your digital PR success",
+        "slides": "https://www.slideshare.net/AbigailBennetts/abi-bennetts-brighton-seo-2021-psychology-principles-to-power-digital-pr-success",
+        "speaker": "Abi Bennetts"
+    },
+    {
+        "title": "How to make sure Google will index all your content",
+        "slides": "https://www.slideshare.net/Onelycom/tomek-rudzki-at-brightonseo-how-to-make-sure-google-will-index-all-your-content",
+        "speaker": "Tomek Rudzki"
+    },
+    {
+        "title": "SERPception: story of an indexed internal search results page",
+        "slides": "https://www.slideshare.net/secret/qKqzLx95M3iwKT",
+        "speaker": "Csaba Szabo"
+    },
+    {
+        "title": "Searchmetrics presents: Will the Core Web Vitals Update change SEO Forever?",
+        "slides": "https://www.searchmetrics.com/knowledge-hub/events/brightonseo-spring2021/?utm_source=brighton.com&utm_medium=event&utm_campaign=BrightonSEO%20Event%202021%20Spring&utm_content=CTA_slides",
+        "speaker": "Marcus Tober"
+    },
+    {
+        "title": "OnCrawl presents: Data SEO: how to leverage the power of technical SEO with data science",
+        "slides": "https://www.slideshare.net/OnCrawl/data-seo-how-to-leverage-the-power-of-technical-seo-with-data-science",
+        "speaker": "Tanguy Moal"
+    },
+    {
+        "title": "DeepCrawl presents: Are you there Page Experience? It’s me, Dev Tools",
+        "slides": "https://www.slideshare.net/JamieAlberico/are-you-there-page-experience-its-me-devtools-245126173",
+        "speaker": "Jamie Indigo & Rachel Anderson"
+    },
+    {
+        "title": "Botify presents: Hey Googlebot, did you cache that?",
+        "slides": "https://www.slideshare.net/PetraKisHerczegh/hey-googlebot-did-you-cache-that",
+        "speaker": "Petra Kis-Herczegh"
+    },
+    {
+        "title": "Seeker Digital presents: Why link building matters to your organisation",
+        "slides": "https://www.slideshare.net/LauraSlingo/why-link-building-matters-for-your-organisation-brightonseo-2021?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=1",
+        "speaker": "Gareth Simpson"
+    },
+    {
+        "title": "Pi Datametrics presents: Double the quality and quantity of your site traffic in these 4 steps",
+        "slides": "https://www.slideshare.net/pidatametrics/brightonseo-march-2021-jon-earnshaw",
+        "speaker": "Jon Earnshaw"
+    },
+    {
+        "title": "MiShop.local presents: Google My Business Posting strategies: Hidden gems that drive online and offline sales for local business and multi-location brands",
+        "slides": "https://www.slideshare.net/davidwhatley338/google-posting-strategies-mishoplocal-brighton-seo-2020?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=12",
+        "speaker": "David Whatley"
+    },
+    {
+        "title": "Croud presents: How to build a data-driven SEO strategy using NLP",
+        "slides": "https://www.slideshare.net/DanielLiddle3/how-to-build-a-datadriven-seo-strategy-using-nlp",
+        "speaker": "Daniel Liddle"
+    },
+    {
+        "title": "How to build simple Web apps in Python to automate your SEO tasks!",
+        "slides": "https://www.slideshare.net/CharlyWargnier/how-to-build-simple-web-apps-to-automate-your-seo-tasks-brightonseo-spring-2021",
+        "speaker": "Charly Wargnier"
+    },
+    {
+        "title": "How To Identify Your Competitors’ Paid / Sponsored Links Quickly and Easily",
+        "slides": "https://www.seolondonsurrey.co.uk/blog/how-to-identify-your-competitors-paid-sponsored-links-quickly-and-easily",
+        "speaker": "Chris Byrne"
+    },
+    {
+        "title": "Neural Matching and How Machines Construct Language",
+        "slides": "https://docs.google.com/presentation/d/1l3RLYaw5ti7Qt8m5MdB6v0eGO1lUWaU__fm_jZ4ohwE/edit",
+        "speaker": "Jessica Peck"
+    },
+    {
+        "title": "GDPR in the post-Brexit landscape",
+        "slides": "https://www.slideshare.net/KeithBudden3/gdpr-brexit-presentation-for-brighton-seo?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=10",
+        "speaker": "Keith Budden"
+    },
+    {
+        "title": "How to Earn Editorial Links from Websites like MSN.com in 30 Days",
+        "slides": "https://www.slideshare.net/bonirulzz/brighton-seo-how-to-earn-editorial-links-from-websites-like-msncom-in-30-days",
+        "speaker": "Boni Satani"
+    },
+    {
+        "title": "The New Era of Automation in Tech SEO",
+        "slides": "https://www.slideshare.net/AshleyBermanHale/new-era-of-automation-brighton-spring-2021",
+        "speaker": "Ashley Berman Hale"
+    },
+    {
+        "title": "How to successfully create audiences that drive action for your brand",
+        "slides": "https://www.slideshare.net/secret/fNlFiuaM8JSDq1",
+        "speaker": "Ned Quekett"
+    },
+    {
+        "title": "Alliance Linking – The launch of InLinks.net told through Majestic link data",
+        "slides": "https://www.slideshare.net/dixonhjones/alliance-linking",
+        "speaker": "Dixon Jones"
+    },
+    {
+        "title": "The truth is in the logs – insights into the correlation of traffic and website crawling",
+        "slides": "https://www.slideshare.net/MaxWoelfle/the-truth-is-in-the-logs-brightonseo-spring-2021",
+        "speaker": "Maximilian Woelfle"
+    },
+    {
+        "title": "Digital Accessibility and Compliance: Essential for Users, Good for SEO",
+        "slides": "https://www.aimclear.com/digital-accessibility-and-compliance-essential-for-users-good-for-seo/",
+        "speaker": "Lea Scudamore"
+    },
+    {
+        "title": "Working with Remote Teams – Connecting through the Virtual Interface",
+        "slides": "https://www.slideshare.net/KristyDean2/working-with-remote-teams-connecting-through-the-virtual-interface-k-dean",
+        "speaker": "Kristy Dean"
+    },
+    {
+        "title": "User Experience and Accessibility",
+        "slides": "https://www.slideshare.net/NikiMosier/user-experience-and-accessibility-brightonseo-march-2021",
+        "speaker": "Niki Mosier"
+    },
+    {
+        "title": "Crawling & Indexing for JavaScript Heavy Sites",
+        "slides": "https://www.slideshare.net/main/private_slideshow?path_to_redirect_at=https%3A%2F%2Fwww.slideshare.net%2FDavidSmart53%2Fcrawling-indexing-for-javascript-heavy-sites-brightonseo-2021",
+        "speaker": "Dave Smart"
+    },
+    {
+        "title": "Pulling back the curtain: How to run a successful agency",
+        "slides": "https://www.slideshare.net/GregGifford/pulling-back-the-curtain-how-to-run-a-successful-agency",
+        "speaker": "Greg Gifford"
+    },
+    {
+        "title": "The underrated value of internal linking",
+        "slides": "https://docs.google.com/presentation/d/e/2PACX-1vSnNTowTlIXa4_GqHhvRc6GqRTdnhrOt_-sFqN1opYgRWhKCQHch2PopyjBQ6jFYdorifVdJmEwWt9b/pub?start=false&loop=false&delayms=3000&slide=id.g5d9feea10b_0_55",
+        "speaker": "Jamie Grant"
+    },
+    {
+        "title": "Utilizing Image (Entity) Tags For Content Topic Optimization",
+        "slides": "https://www.slideshare.net/DanTaylor29/brightonseo-march-2021-dan-taylor-image-entity-tags",
+        "speaker": "Dan Taylor"
+    },
+    {
+        "title": "Headless CMS Migration – The Foundation of Modern SEO",
+        "slides": "https://www.slideshare.net/CorySchmidt4/headless-cms-the-foundation-of-modern-seo",
+        "speaker": "Cory Schmidt"
+    },
+    {
+        "title": "Automating content optimisation and how to test the impact on CTR and ranks",
+        "slides": "https://www.slideshare.net/MichaelCostanzo6/content-automation-at-scale-michael-costanzo-brightonseo-2021-245100503",
+        "speaker": "Michael Costanzo"
+    },
+    {
+        "title": "SEO Audits are (mostly) bollocks – How to make them better",
+        "slides": "https://sitebulb.com/geoff/",
+        "speaker": "Geoff Kennedy"
+    },
+    {
+        "title": "Analysing the difference between outreach for smaller and larger brands",
+        "slides": "https://docs.google.com/presentation/d/1JASHxUmwiyGPuCtOLZX-8dk2T6joXbgqVJmuuwEAphE/edit",
+        "speaker": "Harry Sanders"
+    },
+    {
+        "title": "How to Properly Use Canonical Tagging on Your Site",
+        "slides": "https://www.slideshare.net/AleksAleksanderShkly/how-to-use-canonical-tags-for-seo-aleks-shklyar",
+        "speaker": "Aleks Shklyar"
+    },
+    {
+        "title": "Website Migration 101, not 404",
+        "slides": "https://www.stickyeyes.com/2021/03/26/migration-101-not-404-download-the-slides/?utm_campaign=BrightonSEO%20Spring%2021&utm_content=159834010&utm_medium=social&utm_source=twitter&hss_channel=tw-14599817",
+        "speaker": "Richard Hird"
+    },
+    {
+        "title": "OnCrawl presents: Data SEO: how to leverage the power of technical SEO with data science",
+        "slides": "https://www.slideshare.net/OnCrawl/data-seo-how-to-leverage-the-power-of-technical-seo-with-data-science",
+        "speaker": "Tanguy Moal"
+    },
+    {
+        "title": "DeepCrawl presents: Are you there Page Experience? It’s me, Dev Tools.",
+        "slides": "https://www.slideshare.net/JamieAlberico/are-you-there-page-experience-its-me-devtools-245126173",
+        "speaker": "Jamie Alberico & Rachel Anderson"
+    },
+    {
+        "title": "Seeker Digital presents: Why link building matters to your organisation",
+        "slides": "https://www.slideshare.net/LauraSlingo/why-link-building-matters-for-your-organisation-brightonseo-2021?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=1",
+        "speaker": "Gareth Simpson"
+    },
+    {
+        "title": "Pi Datametrics presents: Double the quality and quantity of your site traffic in these 4 steps",
+        "slides": "https://www.slideshare.net/pidatametrics/brightonseo-march-2021-jon-earnshaw",
+        "speaker": "Jon Earnshaw"
+    },
+    {
+        "title": "MiShop.local presents: Google My Business Posting strategies: Hidden gems that drive online and offline sales for local business and multi-location brands",
+        "slides": "https://www.slideshare.net/davidwhatley338/google-posting-strategies-mishoplocal-brighton-seo-2020?qid=3f0ae84d-e122-41c0-b399-f0dc209b508e&v=&b=&from_search=12",
+        "speaker": "David Whatley"
+    },
+    {
+        "title": "Croud presents: How to build a data-driven SEO strategy using NLP",
+        "slides": "https://www.slideshare.net/DanielLiddle3/how-to-build-a-datadriven-seo-strategy-using-nlp",
+        "speaker": "Daniel Liddle"
+    },
+    {
+        "title": "From Macro to Micro: Winning SEO Pitches Using C-Level Terminology",
+        "slides": "https://www.slideshare.net/tracymmcdonald/get-seo-buyin-by-using-the-language-of-the-c",
+        "speaker": "Tracy McDonald"
+    },
+    {
+        "title": "How to create harmony between SEOs & developers & get your SEO tickets implemented",
+        "slides": "https://www.slideshare.net/SaraMoccandSayegh/brightonseohow-to-create-harmony-between-seos-developers",
+        "speaker": "Sara Moccand-Sayegh"
+    },
+    {
+        "title": "User-centric, data-led navbar design",
+        "slides": "https://www.slideshare.net/NickVines/data-led-user-centric-navbar-design-brightonseo-2021",
+        "speaker": "Nick Vines"
+    },
+    {
+        "title": "Stakeholder Salad: Communication Skills For SEOs – Talk Your Way Into Getting Shit Done",
+        "slides": "https://www.slideshare.net/KayleighT/brightonseo-2021-stakeholder-salad-communication-skills-for-seos-talk-your-way-into-getting-shit-done-245068835",
+        "speaker": "Kayleigh Töyrä"
+    },
+    {
+        "title": "How to grow a £multimillion SEO agency in a year without spending a penny on marketing",
+        "slides": "https://www.slideshare.net/riseatseven/how-to-grow-a-multimillion-seo-agency-without-spending-a-penny-on-marketing-brightonseo-spring-2021?qid=2de3cea0-20db-4f24-9c27-5aea05fdb6e1&v=&b=&from_search=3",
+        "speaker": "Stephen Kenwright"
+    },
+    {
+        "title": "A deep dive into the depths of DevTools",
+        "slides": "https://defaced.dev/talks/brightonseo-depths-of-devtools/",
+        "speaker": "Chris Johnson"
+    },
+    {
+        "title": "5 Steps To Position Yourself As The Expert – How To Break Down Barriers & Get Buy In",
+        "slides": "https://www.slideshare.net/SophieBrannon/brighton-seo-march-2021-5-steps-to-position-yourself-as-the-expert-how-to-break-down-barriers-get-buy-in",
+        "speaker": "Sophie Brannon"
+    },
+    {
+        "title": "How to Prioritize EVERYTHING",
+        "slides": "https://www.slideshare.net/MaryPierce2/how-to-prioritize-everything-brightonseo-march-2021",
+        "speaker": "Mary Albright"
+    },
+    {
+        "title": "What we’ve discovered about Discover",
+        "slides": "https://www.slideshare.net/AliceFoster16/brighton-seo-2021-what-weve-discovered-about-discover",
+        "speaker": "Alice Foster"
+    },
+    {
+        "title": "How to Optimize Your Product Page for Amazon",
+        "slides": "https://www.wittecontent.com/thought-leadership",
+        "speaker": "Kailin Witte"
+    },
+    {
+        "title": "Shopify SEO: How To Optimize For Ecommerce In 2021",
+        "slides": "https://www.slideshare.net/ChrisLong21/shopify-seo-brightonseo-2021",
+        "speaker": "Chris Long"
+    },
+    {
+        "title": "SEO Microservices: Best and Worst Practices for your SEO",
+        "slides": "https://www.slideshare.net/secret/LZQxYMrKitDKYf",
+        "speaker": "Helen Schrader"
+    },
+    {
+        "title": "How Content Marketing Can Skyrocket Your Brand Authority",
+        "slides": "https://www.slideshare.net/Fractl/how-content-marketing-can-skyrocket-your-brand-authority",
+        "speaker": "Amanda Milligan"
+    },
+    {
+        "title": "How to scale SEO with ML & NLP (and how not to)",
+        "slides": "https://share.descript.com/view/r3pE4Nt6q0k",
+        "speaker": "Robin Allenson"
+    }
+]
+}
+
