@@ -1,0 +1,32 @@
+{
+  "conference": "TechSEO Boost",
+  "sub_title": null,
+  "date": "2021-04-22",
+  "talks" : [
+    {
+      "title": "The Future Is The Past: Tagging And Tracking Through The Server",
+      "speaker": "Simo Ahava",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2021-the-future-is-the-past-tagging-and-tracking-through-the-server",
+      "video": "https://www.catalystdigital.com/techseoboost/#on-demand-recordings"
+    },
+    {
+      "title": "Rendering Strategies: Measuring the Devil’s Details in Core Web Vitals",
+      "speaker": "Jamie Indigo",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2021-rendering-strategies-measuring-the-devils-details-in-core-web-vitals",
+      "video": "https://www.catalystdigital.com/techseoboost/#on-demand-recordings"
+    },
+    {
+      "title": "SEO Testing",
+      "speaker": "Brian Ta",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2021-seo-experimentation",
+      "video": "https://www.catalystdigital.com/techseoboost/#on-demand-recordings"
+    },
+    {
+      "title": "Cultivating a Product Mindset for Success",
+      "speaker": "Upasna Guatam",
+      "slides": "https://www.slideshare.net/CatalystDigital/techseo-boost-2021-cultivating-a-product-mindset-for-success",
+      "video": "https://www.catalystdigital.com/techseoboost/#on-demand-recordings"
+    }
+  ]
+}
+
