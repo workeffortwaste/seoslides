@@ -1,0 +1,118 @@
+{
+  "conference": "MozCon",
+  "sub_title": null,
+  "date": "2021-07-12",
+  "talks" :[
+    {
+        "title": "Lessons in Surviving the Covid News Agenda & What it Means for the Future of Digital PR",
+        "speaker": "Shannon McGuirk",
+        "slides": "https://mz.cm/shannonmcguirk"
+    },
+    {
+        "title": "The Science of Purchasing Behavior: How to Use It Effectively to Attract & Convert More Prospects Into Customers",
+        "speaker": "Flavilla Fongang",
+        "slides": "https://mz.cm/flavillafongang"
+    },
+    {
+        "title": "Rule Your Rivals: From Data to Action",
+        "speaker": "Dr. Pete Meyers",
+        "slides": "https://mz.cm/drpetemeyers"
+    },
+    {
+        "title": "Game-Changing Ways to Use the Google Search Console API",
+        "speaker": "Noah Learner",
+        "slides": "https://mz.cm/noahlearner"
+    },
+    {
+        "title": "Build for Search: Modern Web Dev That Puts SEO First",
+        "speaker": "Dana DiTomaso",
+        "slides": "https://mz.cm/danaditomaso"
+    },
+    {
+        "title": "Internationalization Errors: How to Go Global Without Losing All Of Your Traffic",
+        "speaker": "Jackie Chu",
+        "slides": "https://mz.cm/jackiechu"
+    },
+    {
+        "title": "Mastering 3 Click + Engagement Signals for Higher Rankings/Traffic",
+        "speaker": "Cyrus Shepard",
+        "slides": "https://mz.cm/cyrusshepard"
+    },
+    {
+        "title": "Why Marketers Should Think More Like Investors To Drive Content Results",
+        "speaker": "Ross Simmonds",
+        "slides": "https://mz.cm/rosssimmonds"
+    },
+    {
+        "title": "Taking Charge of Your Indexability: How to Optimize and Prioritize Your Technical Work",
+        "speaker": "Areej AbuAli",
+        "slides": "https://mz.cm/areejabuali"
+    },
+    {
+        "title": "To Post or Not to Post: What We Learned From Analyzing Over 1,000 Google Posts",
+        "speaker": "Joy Hawkins",
+        "slides": "https://mz.cm/joyhawkins"
+    },
+    {
+        "title": "Maximize Your Conversions: Harnessing full-funnel optimization for B2B success",
+        "speaker": "Joyce Collardé",
+        "slides": "https://mz.cm/joycecollarde"
+    },
+    {
+        "title": "Counterintuitive Content: How New Trends Have Disrupted Years of Bad Advice",
+        "speaker": "Casie Gillette",
+        "slides": "https://mz.cm/casiegillette"
+    },
+    {
+        "title": "Reporting for Duty: Why You Need to Start Using GA4 TODAY",
+        "speaker": "Brie E Anderson",
+        "slides": "https://mz.cm/brieeanderson"
+    },
+    {
+        "title": "Beyond the Basics: Awesome SEO Tricks for Uncovering Advanced Insights from Your SEO Data",
+        "speaker": "Rob Ousbey",
+        "slides": "https://mz.cm/robousbey"
+    },
+    {
+        "title": "The Cold Hard Truth about CTR and Other Common Metrics",
+        "speaker": "Britney Muller",
+        "slides": "https://mz.cm/britneymuller"
+    },
+    {
+        "title": "The Fast & The Spurious: Core Web Vitals & SEO",
+        "speaker": "Tom Capper",
+        "slides": "https://mz.cm/tomcapper"
+    },
+    {
+        "title": "The Ultimate How-To for Faceted Navigation SEO in E-commerce",
+        "speaker": "Luke Carthy",
+        "slides": "https://mz.cm/lukecarthy"
+    },
+    {
+        "title": "Harnessing The Natural Language Toolkit for More Productive SEO",
+        "speaker": "Miracle Inameti-Archibong",
+        "slides": "https://mz.cm/miracle"
+    },
+    {
+        "title": "A Live Guide to Finding & Filling the Gaps in Your Link Strategy",
+        "speaker": "Amanda Milligan",
+        "slides": "https://mz.cm/amandamilligan"
+    },
+    {
+        "title": "From the Medic Update to Now: How the E-A-T Ecosystem Has Transformed Organic Search",
+        "speaker": "Lily Ray",
+        "slides": "https://mz.cm/lilyray"
+    },
+    {
+        "title": "The Content Refresh: How to Do More With Less",
+        "speaker": "Kameron Jenkins",
+        "slides": "https://mz.cm/kameronjenkins"
+    },
+    {
+        "title": "The 3 Most Important Search Marketing Tools…Your Heart, Your Brain, & Your [Small] Ego",
+        "speaker": "Wil Reynolds",
+        "slides": "https://mz.cm/wilreynolds"
+    }
+]
+}
+
